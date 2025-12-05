@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="36" viewBox="0 0 120 36" role="img" aria-label="IntoHuman logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#440099"/>
+      <stop offset="100%" stop-color="#b08cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="120" height="36" rx="6" fill="url(#g)" />
+  <text x="12" y="24" font-family="Inter, Helvetica, Arial, sans-serif" font-size="14" fill="white" font-weight="700">IntoHuman</text>
+</svg>
