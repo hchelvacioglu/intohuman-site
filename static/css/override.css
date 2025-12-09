@@ -1,0 +1,156 @@
+/* IntoHuman - Minimal custom styles */
+
+/* Remove border-bottom from all h2 elements */
+h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  border: none !important;
+}
+
+.content h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  border: none !important;
+}
+
+/* Clean homepage style */
+body.is-home h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+body.is-home p {
+  font-size: 1.125rem;
+  line-height: 1.75;
+}
+
+/* Make sidebar background transparent so the hero gradient shows through */
+.hextra-sidebar-container,
+.hextra-nav-container,
+.hextra-max-navbar-width {
+  background: transparent !important;
+}
+
+/* On homepage, hide sidebars / TOC to give a clean full-bleed hero like the example */
+body.is-home .hextra-sidebar-container,
+body.is-home .hextra-toc,
+body.is-home .hextra-scrollbar > .hextra-sidebar-container {
+  display: none !important;
+}
+
+/* Expand main article area on homepage when sidebars are hidden */
+body.is-home .hextra-max-page-width {
+  display: block !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* ===== Simple Image Styling - No Flash, No Fade, No Background Color ===== */
+/* Just clean, minimal image rendering */
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  /* Prevent layout shift during loading */
+  aspect-ratio: auto;
+  /* Smooth appearance */
+  opacity: 1;
+  transition: opacity 0.2s ease-out;
+}
+
+figure {
+  overflow: hidden;
+  margin: 0;
+  /* Preserve aspect ratio during load */
+  aspect-ratio: auto;
+}
+
+figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  /* Match container aspect */
+  aspect-ratio: inherit;
+}
+
+body.is-home article > main {
+  max-width: 1100px !important;
+  margin: 0 auto !important;
+  padding-left: 1.25rem !important;
+  padding-right: 1.25rem !important;
+}
+
+/* Ensure the hero stays visually on top without side gutters */
+body.is-home .hero-full-bleed {
+  margin-left: calc(-50vw + 50%) !important;
+  margin-right: calc(-50vw + 50%) !important;
+}
+
+/* Restore blog/post listing link colors and add hover darker tone (non-home pages) */
+body:not(.is-home) .hextra-max-page-width a {
+  /* Darken default link color on non-home pages for better readability */
+  color: var(--hx-color-gray-800) !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+body:not(.is-home) .hextra-max-page-width a:hover {
+  color: var(--hx-color-gray-900) !important;
+}
+
+/* Ensure small 'read more' style links inherit appropriate color on non-home pages */
+body:not(.is-home) a[href*="/blog/"] {
+  color: var(--hx-color-gray-700) !important;
+}
+body:not(.is-home) a[href*="/blog/"]:hover {
+  color: var(--hx-color-gray-900) !important;
+}
+
+/* Hide theme toggle completely */
+button[data-toggle-theme],
+.hextra-theme-toggle,
+[data-toggle-theme],
+nav button[data-toggle-theme],
+.hx\:flex button[data-toggle-theme] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+/* Sidebar TOC'u tamamen gizle */
+aside.sidebar-container .hextra-scrollbar,
+aside.sidebar-container > div > div {
+  display: none !important;
+}
+
+/* Sidebar container'ı mobilde görünür tut */
+@media (max-width: 1279px) {
+  aside.sidebar-container {
+    display: block !important;
+  }
+}
+
+/* Custom menü stilleri */
+.custom-main-menu {
+  display: flex !important;
+  flex-direction: column;
+  padding: 2rem 1.5rem;
+  gap: 0.5rem;
+}
+
+.custom-main-menu a {
+  padding: 1rem;
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: #111;
+  text-decoration: none;
+  border-bottom: 1px solid #e5e7eb;
+  transition: all 0.2s;
+}
+
+.custom-main-menu a:hover {
+  background: #f9fafb;
+  color: #dc2626;
+}

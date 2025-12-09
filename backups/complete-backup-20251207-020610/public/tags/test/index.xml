@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IntoHuman – Test</title>
+    <link>http://localhost:1313/tags/test/</link>
+    <description>Recent content in Test on IntoHuman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-TR</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Bu bir test yazısı</title>
+      <link>http://localhost:1313/blog/intohuman-yaz%C4%B1lar/testblogyazi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/intohuman-yaz%C4%B1lar/testblogyazi/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Bu sadece bir test yazısıdır.
+Eğer /blog sayfasında bu başlığı görürsek,&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

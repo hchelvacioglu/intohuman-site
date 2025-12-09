@@ -1,0 +1,101 @@
+baseURL = 'http://example.org/'
+title = 'IntoHuman'
+languageCode = 'tr-TR'
+theme = 'hextra'
+
+# Build ayarları
+[build]
+  [build.buildStats]
+    enable = true
+    disableIDs = true
+  [[build.cachebusters]]
+    source = 'assets/notwatching/hugo_stats\.json'
+    target = 'styles\.css'
+  [[build.cachebusters]]
+    source = '(postcss|tailwind)\.config\.mjs'
+    target = 'css'
+  [[build.cachebusters]]
+    source = 'assets/.*\.(js|ts|jsx|tsx)'
+    target = 'js'
+  [[build.cachebusters]]
+    source = 'assets/.*\.(.*)$'
+    target = '$1'
+
+# Hextra'nın düzgün çalışması için gerekli HTML ayarı
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
+    [markup.goldmark.renderer]
+      unsafe = true
+      hardWraps = false
+
+# Temel menü ayarları
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "Hakkında"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "contact"
+    name = "İletişim"
+    url = "/contact/"
+    weight = 3
+
+# Tema parametreleri
+[params]
+  description = "Benim harika sitem"
+  
+  [params.navbar]
+    displayTitle = true
+    displayLogo = false
+    width = "full"
+  
+  [params.page]
+    # page.width: normal | wide | full
+    width = "full"
+  
+  [params.footer]
+    width = "full"
+    displayCopyright = true
+    enable = true
+
+# İçerik ayarları
+[outputFormats]
+  [outputFormats.llms]
+    name= 'llms'
+    baseName = 'llms'
+    mediaType = 'text/plain'
+    isPlainText = true
+
+# Module ayarları - Hugo'nun assets'leri bulması için
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "content"
+    target = "content"
+  [[module.mounts]]
+    source = "layouts"
+    target = "layouts"
+  [[module.mounts]]
+    source = "data"
+    target = "data"
+  [[module.mounts]]
+    source = "static"
+    target = "static"
+
+# Asset Pipeline - CSS/JS derlemesi
+[asset]
+  disableInlineCSS = false
+  disableInlineJS = false

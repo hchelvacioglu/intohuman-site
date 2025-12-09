@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hero background SVG: gradient + decorative blurred blobs similar to the example -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4b0082" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#5a17b8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#3b0f78" stop-opacity="1"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="80" />
+    </filter>
+  </defs>
+
+  <!-- base gradient -->
+  <rect width="100%" height="100%" fill="url(#g1)" />
+
+  <!-- decorative soft blobs -->
+  <g filter="url(#blur)" opacity="0.35">
+    <ellipse cx="20%" cy="60%" rx="420" ry="280" fill="#2f0b66" />
+    <ellipse cx="70%" cy="30%" rx="520" ry="320" fill="#ff80b5" />
+    <ellipse cx="85%" cy="65%" rx="360" ry="240" fill="#9089fc" />
+  </g>
+
+  <!-- subtle overlay to darken the center-right part a bit like example -->
+  <radialGradient id="vignette" cx="60%" cy="40%" r="80%">
+    <stop offset="0%" stop-color="#000" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#000" stop-opacity="0.12"/>
+  </radialGradient>
+  <rect width="100%" height="100%" fill="url(#vignette)" />
+</svg>

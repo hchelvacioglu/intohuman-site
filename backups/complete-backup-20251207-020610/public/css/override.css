@@ -1,0 +1,93 @@
+/* IntoHuman - Minimal custom styles */
+
+/* Remove border-bottom from all h2 elements */
+h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  border: none !important;
+}
+
+.content h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  border: none !important;
+}
+
+/* Clean homepage style */
+body.is-home h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+body.is-home p {
+  font-size: 1.125rem;
+  line-height: 1.75;
+}
+  z-index: 10;
+}
+
+/* Make sidebar background transparent so the hero gradient shows through */
+.hextra-sidebar-container,
+.hextra-nav-container,
+.hextra-max-navbar-width {
+  background: transparent !important;
+}
+
+/* On homepage, hide sidebars / TOC to give a clean full-bleed hero like the example */
+body.is-home .hextra-sidebar-container,
+body.is-home .hextra-toc,
+body.is-home .hextra-scrollbar > .hextra-sidebar-container {
+  display: none !important;
+}
+
+/* Expand main article area on homepage when sidebars are hidden */
+body.is-home .hextra-max-page-width {
+  display: block !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+body.is-home article > main {
+  max-width: 1100px !important;
+  margin: 0 auto !important;
+  padding-left: 1.25rem !important;
+  padding-right: 1.25rem !important;
+}
+
+/* Ensure the hero stays visually on top without side gutters */
+body.is-home .hero-full-bleed {
+  margin-left: calc(-50vw + 50%) !important;
+  margin-right: calc(-50vw + 50%) !important;
+}
+
+/* Restore blog/post listing link colors and add hover darker tone (non-home pages) */
+body:not(.is-home) .hextra-max-page-width a {
+  /* Darken default link color on non-home pages for better readability */
+  color: var(--hx-color-gray-800) !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+}
+body:not(.is-home) .hextra-max-page-width a:hover {
+  color: var(--hx-color-gray-900) !important;
+}
+
+/* Ensure small 'read more' style links inherit appropriate color on non-home pages */
+body:not(.is-home) a[href*="/blog/"] {
+  color: var(--hx-color-gray-700) !important;
+}
+body:not(.is-home) a[href*="/blog/"]:hover {
+  color: var(--hx-color-gray-900) !important;
+}
+
+/* Hide theme toggle completely */
+button[data-toggle-theme],
+.hextra-theme-toggle,
+[data-toggle-theme],
+nav button[data-toggle-theme],
+.hx\:flex button[data-toggle-theme] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}

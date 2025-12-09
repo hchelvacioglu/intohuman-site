@@ -42,6 +42,9 @@
   <link href="{{ $variablesCss.RelPermalink }}" rel="stylesheet" />
   <link href="{{ $customCss.RelPermalink }}" rel="stylesheet" />
 
+  {{/* Override CSS for site-specific rules (served from static/) */}}
+  <link href="/css/override.css" rel="stylesheet" />
+
   {{ partial "components/analytics/analytics.html" . }}
 
   {{- $scriptsHead := slice -}}
@@ -67,4 +70,7 @@
 
   {{ partial "utils/page-width-override.html" . }}
   {{ partial "custom/head-end.html" . -}}
+
+  <!-- Custom hamburger menu fix -->
+  <script src="/js/hamburger-fix.js"></script>
 </head>
