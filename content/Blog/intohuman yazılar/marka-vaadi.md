@@ -6,7 +6,7 @@ draft: false
 originalUrl: "https://intohuman.com/marka-vaadi/"
 tags: []
 ---
-## [into human.](https://web.archive.org/web/20250713203949/https://intohuman.com/)
+## [into human.](https://intohuman.com/)
 
 Menu
 
@@ -150,11 +150,11 @@ Marka vaadinize müşteri kitlenizi inandırmak için kanıtlar yaratmalısını
 
 
 
-**Örnek:** Blender satıyorsanız, bıçaklarınızın keskinliğini alışılmadık şekilde göstermeniz destek kanıt sunar. Bunun en çarpıcı örneklerinden birini Blendtec – [Will it blend](https://web.archive.org/web/20250713203949/https://www.youtube.com/watch?v=lAl28d6tbko) serisiyle göstermiştir.
+**Örnek:** Blender satıyorsanız, bıçaklarınızın keskinliğini alışılmadık şekilde göstermeniz destek kanıt sunar. Bunun en çarpıcı örneklerinden birini Blendtec – [Will it blend](https://www.youtube.com/watch?v=lAl28d6tbko) serisiyle göstermiştir.
 
 
 
-**Örnek:** Akıllı telefon kategorisinde, Apple’ın destek kanıtlarını buradan ([1](https://web.archive.org/web/20250713203949/https://www.apple.com/tr/iphone-12/)–[2](https://web.archive.org/web/20250713203949/https://www.apple.com/tr/iphone/switch/)) görebilirsiniz.
+**Örnek:** Akıllı telefon kategorisinde, Apple’ın destek kanıtlarını buradan ([1](https://www.apple.com/tr/iphone-12/)–[2](https://www.apple.com/tr/iphone/switch/)) görebilirsiniz.
 
 
 
@@ -196,15 +196,15 @@ Destek kanıt, onaylanmış, referans gösterilen bir başarı olabileceği gibi
 
 
 
-[Marka stratejisinde](https://web.archive.org/web/20250713203949/https://intohuman.com/marka-stratejisi-nasil-olusturulur/) Marka Vaadinin oluşturulması, markanın var olma amacı ve değerlerin belirlenmesinin ardından 3. Sırada gelir. Marka vaadi, destek kanıtlarla güçlendirildikten sonra bu vaadi hedef kitleye iletecek marka kişiliğinin inşasına başlanır.
+[Marka stratejisinde](https://intohuman.com/marka-stratejisi-nasil-olusturulur/) Marka Vaadinin oluşturulması, markanın var olma amacı ve değerlerin belirlenmesinin ardından 3. Sırada gelir. Marka vaadi, destek kanıtlarla güçlendirildikten sonra bu vaadi hedef kitleye iletecek marka kişiliğinin inşasına başlanır.
 
 ## Bize ulaşın.
 
-[info@intohuman.com](https://web.archive.org/web/20250713203949/mailto: info@intohuman.com)
+[info@intohuman.com](mailto:info@intohuman.com)
 
 Barbaros Mh. Begonya Sk.   
 Nidakule No:1 Ataşehir / İstanbul
 
-[Linkedin](https://web.archive.org/web/20250713203949/https://www.linkedin.com/company/intohuman/) 
+[Linkedin](https://www.linkedin.com/company/intohuman/) 
 
-[Instagram](https://web.archive.org/web/20250713203949/https://www.instagram.com/into.human/)
+[Instagram](https://www.instagram.com/into.human/)

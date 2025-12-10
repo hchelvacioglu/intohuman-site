@@ -10,7 +10,7 @@ TOWS modeli ya da SWOT, en çok bilinen marka & pazar değerlendirme yöntemidir
 
 Model, çok sık ve yanlış şekilde kullanıldığı için değerini son yıllarda yitirse de kendinizi ve pazarı anlamak için çok temel bir başlangıç noktasıdır. TOWS modelini kullanarak hem markanızın güçlü ve zayıf yönlerini tespit edebilir hem de pazarda oluşan fırsat ve tehditleri önceden görme şansına sahip olursunuz.
 
-Bu sayede sadece markanızın geleceğine yön vermekle kalmaz, hedef odaklı [iş stratejilerini](https://web.archive.org/web/20250621040058/https://intohuman.com/marka-stratejisi-fikir-ozeti/) de kurgularsınız. TOWS modelini doğru ve etkili kullanan markalar, hem kriz yaratacak sorunlara karşı dirençli hem de potansiyel iş fırsatları için hazırlıklı olur.
+Bu sayede sadece markanızın geleceğine yön vermekle kalmaz, hedef odaklı [iş stratejilerini](https://intohuman.com/marka-stratejisi-fikir-ozeti/) de kurgularsınız. TOWS modelini doğru ve etkili kullanan markalar, hem kriz yaratacak sorunlara karşı dirençli hem de potansiyel iş fırsatları için hazırlıklı olur.
 
 **TOWS** modeli, markanıza ve sektörünüze dairbilgileri, stratejik yol haritasına dönüştürmenizi sağlar.
 
@@ -55,11 +55,11 @@ Markanıza dair güçlü yönler nelerdir?
 
 Maliyeti dövize bağlı ürünlerde dövizin artması.
 
-*Örnek* ***[Fırsat](https://web.archive.org/web/20250621040058/https://intohuman.com/konumlandirma/):***
+*Örnek* ***[Fırsat](https://intohuman.com/konumlandirma/):***
 
 Alım gücünün düşmesiyle indirim marketi tüketicisinin sayıca artması.
 
-*Örnek* ***[Güçlü Yön](https://web.archive.org/web/20250621040058/https://intohuman.com/porter-5-guc-modeli/):***
+*Örnek* ***[Güçlü Yön](https://intohuman.com/porter-5-guc-modeli/):***
 
 Ürün özelliklerinin üstün ve özgün olması.
 
@@ -70,7 +70,7 @@ Alım gücünün düşmesiyle indirim marketi tüketicisinin sayıca artması.
 
 ### **STRATEJİ**
 
-[Pazarı](https://web.archive.org/web/20250621040058/https://intohuman.com/pazarlama-arastirmasi-ozet/) ve markayı analiz ettikten sonra ise stratejiyi oluşturmak için ***4’lü matris kullanmak gerekir.***
+[Pazarı](https://intohuman.com/pazarlama-arastirmasi-ozet/) ve markayı analiz ettikten sonra ise stratejiyi oluşturmak için ***4’lü matris kullanmak gerekir.***
 
 |  |  |  |
 | --- | --- | --- |

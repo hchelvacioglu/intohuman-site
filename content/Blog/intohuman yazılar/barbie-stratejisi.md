@@ -12,9 +12,9 @@ Barbie şöhretini yeniden nasıl kazandı? Barbie Stratejisi.
 
 10 yıl önce Barbie ciddi bir **sorun yaşıyordu.**
 
-Pazar payı düşüyor ve bazıları Barbie’nin öldüğünü düşünüyordu.[\*](https://web.archive.org/web/20250713204902/https://money.cnn.com/2015/04/16/investing/mattel-barbie-earnings-versus-hasbro/index.html)
+Pazar payı düşüyor ve bazıları Barbie’nin öldüğünü düşünüyordu.[\*](https://money.cnn.com/2015/04/16/investing/mattel-barbie-earnings-versus-hasbro/index.html)
 
-![Barbie Stratejisi](https://web.archive.org/web/20250713204902im_/https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-05-10.13.39.png)
+![Barbie Stratejisi](https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-05-10.13.39.png)
 
 
 ---
@@ -57,14 +57,14 @@ Yani sadece reklama değil, markanın tüm iletişim sürecine rehberlik etti.
 
 Böylelikle; Barbie markası her aşamada gerçek bir dönüşüm yaşadı.
 
-![Barbie Stratejisi](https://web.archive.org/web/20250713204902im_/https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-05-10.15.33.png)
+![Barbie Stratejisi](https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-05-10.15.33.png)
 
 
 ---
 
 Barbie bize **güçlü bir stratejinin**, neler yapabileceğini göstermiş oldu.
 
-İşlerin, doğru stratejiyle nasıl ilerleyebileceğine dair **önemli bir kanıt sundu.**[\*](https://web.archive.org/web/20250713204902/https://intohuman.com/marka-stratejisi-fikir-ozeti/)
+İşlerin, doğru stratejiyle nasıl ilerleyebileceğine dair **önemli bir kanıt sundu.**[\*](https://intohuman.com/marka-stratejisi-fikir-ozeti/)
 
 ---
 

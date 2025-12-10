@@ -21,7 +21,7 @@ Red Bull, bu vaadi, tek kelimelik bir konsept haline dönüştürdü.
 
 Ve tüm pazarlama ***“EXTREME”*** üzerine kurgulandı.
 
-![red bull pazarlama stratejisi](https://web.archive.org/web/20250519020917im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-29-13.14.25.png)
+![red bull pazarlama stratejisi](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-29-13.14.25.png)
 
 
 ---
@@ -32,7 +32,7 @@ Ve tüm pazarlama ***“EXTREME”*** üzerine kurgulandı.
 
 Red Bull kültürüyle, ***extreme*** ruhunu yaşatıyor.
 
-![red bull pazarlama stratejisi](https://web.archive.org/web/20250519020917im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-29-13.15.28.png)
+![red bull pazarlama stratejisi](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-29-13.15.28.png)
 
 
 ---
@@ -47,12 +47,12 @@ Böylelikle Red Bull, tüketicisini aşağıdaki kişiye dönüştürüyor.
 
 ---
 
-Ve Red Bull bunu yıllardır bütün ***extreme spor alanlarında*** ***devam ettiriyor.***[\*](https://web.archive.org/web/20250519020917/https://www.redbull.com/int-en/athletes)
+Ve Red Bull bunu yıllardır bütün ***extreme spor alanlarında*** ***devam ettiriyor.***[\*](https://www.redbull.com/int-en/athletes)
 
 ---
 
 Ve Red Bull tüketicisini ikna etmeye çalışmıyor.  
-***Sadece ilham veriyor.***[\*](https://web.archive.org/web/20250519020917/https://intohuman.com/marka-amaci/)
+***Sadece ilham veriyor.***[\*](https://intohuman.com/marka-amaci/)
 
 ---
 

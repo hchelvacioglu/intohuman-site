@@ -8,13 +8,13 @@ tags: []
 ---
 Marka stratejisinden çıkan sonuçlar basit olarak 4 farklı alanda kendini gösterir. Bunlar pazarlamanın 4P’si olarak geçen ürün, kanal, promosyon ve fiyattır.
 
-***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://web.archive.org/web/20250713200727/http://xn--instagram%20hesab%20iin:%20https-z1c52w//www.instagram.com/into.human/)
+***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://www.instagram.com/into.human/)
 
-* ![](https://web.archive.org/web/20250713200727im_/https://intohuman.com/wp-content/uploads/2022/04/1-3-819x1024.png)
-* ![](https://web.archive.org/web/20250713200727im_/https://intohuman.com/wp-content/uploads/2022/04/2-2-819x1024.png)
-* ![](https://web.archive.org/web/20250713200727im_/https://intohuman.com/wp-content/uploads/2022/04/3-2-819x1024.png)
-* ![](https://web.archive.org/web/20250713200727im_/https://intohuman.com/wp-content/uploads/2022/04/4-2-819x1024.png)
-* ![](https://web.archive.org/web/20250713200727im_/https://intohuman.com/wp-content/uploads/2022/04/5-2-819x1024.png)
-* ![](https://web.archive.org/web/20250713200727im_/https://intohuman.com/wp-content/uploads/2022/04/6-2-819x1024.png)
-* ![](https://web.archive.org/web/20250713200727im_/https://intohuman.com/wp-content/uploads/2022/04/7-2-819x1024.png)
-* ![](https://web.archive.org/web/20250713200727im_/https://intohuman.com/wp-content/uploads/2022/04/8-2-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/1-3-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/2-2-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/3-2-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/4-2-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/5-2-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/6-2-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/7-2-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/8-2-819x1024.png)

@@ -64,9 +64,9 @@ Metin ve imgenin birlikte kullanılmasını gerektirir. Bu hiyerarşide metni da
 – Logo marka genişlemesi için uygun mu? Özgünlüğü çoklanabilir mi?
 
 **2. Marka Değerleri ile Uyumluluk;**  
-– Sembol/Görsel markanın duygusal/fiziksel [vaadine](https://web.archive.org/web/20250519011728/https://intohuman.com/marka-vaadi/) uygun mu?  
+– Sembol/Görsel markanın duygusal/fiziksel [vaadine](https://intohuman.com/marka-vaadi/) uygun mu?  
 – Renk kullanımı markaya veya kategoriye uygun mu?  
-– Yazı tipi ve fontu marka [değerlerini](https://web.archive.org/web/20250519011728/https://intohuman.com/marka-degerleri/) yansıtıyor mu?  
+– Yazı tipi ve fontu marka [değerlerini](https://intohuman.com/marka-degerleri/) yansıtıyor mu?  
 – Maskülen ya da feminen mi?  
 – Hareketli veya durgun mu?  
 – Logo markanın pazarda bulunduğu seviyeye uygun mu? (Ör: Pazara yeni çıkacak bir marka az bütçeyle abstract logo kullanmamalı.)  
@@ -79,7 +79,7 @@ Metin ve imgenin birlikte kullanılmasını gerektirir. Bu hiyerarşide metni da
 – Siyah ve beyaz fontta logo anlaşılır mı?
 
 **4. Özgünlük ve Kalıcılık;**  
-– Logoda markayı özgün yapan bir sahiplenilebilecek bir değer var mı? (Ör: [Merck](https://web.archive.org/web/20250519011728/https://www.merckgroup.com/tr-tr/company/who-we-are/history.html))  
+– Logoda markayı özgün yapan bir sahiplenilebilecek bir değer var mı? (Ör: [Merck](https://www.merckgroup.com/tr-tr/company/who-we-are/history.html))  
 – Logoda yüzeysel olarak görünenden farklı bir anlam derinliği var mı?   
 – Logo zamanın çizgilerini mi taşıyor yoksa zamansız mı?  
 – Rakiplerine benzerliği var mı?

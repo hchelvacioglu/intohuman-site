@@ -50,7 +50,7 @@ Bütünüyle akılcı olmayan eylemler ve kişinin bazı davranışlarla, bu dav
 Hissettiğimiz endişe ve belirsizlik ne kadar çoğalırsa, batıl inançlı davranışlar ve ritüellerden o kadar fazla medet umar hale geliyoruz. Özel güçlere sahip olma duygusu insanlar için tehlikeli durumlarda can simidi işlevi görüyor ve günlük korkularını yatıştırmalarına ve zihinsel acılarını bastırmalarına yardımcı oluyor.
 
 Ör: *Corona – Limon  
-Guinness ve bardağa koyma şekli & beklemesi ([Ör: Guinness ritüeli](https://web.archive.org/web/20250713211207/https://vinepair.com/wine-blog/the-proper-way-to-drink-a-guinness/))  
+Guinness ve bardağa koyma şekli & beklemesi ([Ör: Guinness ritüeli](https://vinepair.com/wine-blog/the-proper-way-to-drink-a-guinness/))  
 Sağ ayakla içeri girme*
 
 ## C. Örnekler
@@ -112,7 +112,7 @@ j) Ritüeller
 **A. Aidiyet Duygusu:**  
 Din = Hacca Gitmek; İnsanın iç dünyasında gezinmesi, yüce bir amaç arayışı, engelleri aşma ve fiziksel veya ruhsal şifa umudu içerir.  
   
-Marka Buyology: Harley Davidson kullanan kişilerin kendi aralarındaki ilişki özel bir kulübe üye olmaya benzer. (*[Ör: Marka Topluluğu](https://web.archive.org/web/20250713211207/https://intohuman.com/marka-toplulugu-nasil-olusturulur/)*)
+Marka Buyology: Harley Davidson kullanan kişilerin kendi aralarındaki ilişki özel bir kulübe üye olmaya benzer. (*[Ör: Marka Topluluğu](https://intohuman.com/marka-toplulugu-nasil-olusturulur/)*)
 
 Ortak bir misyonu olan insanları bir araya getirir.
 

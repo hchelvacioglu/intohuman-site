@@ -14,7 +14,7 @@ Ajans seçimi için sorulacak iki soru var?
 
 Bu iki soru hem çıkan işleri denetleyebilmenizi hem de zamanı doğru kullanmanızı sağlar.
 
-Öncelikle [hedefi](https://web.archive.org/web/20250621043509/https://intohuman.com/strateji-evi/) belirlemek, ardından bu işi yapacak yetkinliği aramak doğru rota olsa da, genelde tersi tercih ediliyor. Bunun sonucunda da ajansı tatmin eden ama marka sahibini üzen sonuçlar ortaya çıkıyor.
+Öncelikle [hedefi](https://intohuman.com/strateji-evi/) belirlemek, ardından bu işi yapacak yetkinliği aramak doğru rota olsa da, genelde tersi tercih ediliyor. Bunun sonucunda da ajansı tatmin eden ama marka sahibini üzen sonuçlar ortaya çıkıyor.
 
 Doğru plan, doğru sonuç getirir ve bunu sistemsel hale getirmek kalıcı başarıyı sağlar.
 
@@ -22,7 +22,7 @@ Doğru plan, doğru sonuç getirir ve bunu sistemsel hale getirmek kalıcı baş
 
 Ajans seçimi için önce ekosistemi tanıyalım.
 
-![](https://web.archive.org/web/20250621043509im_/https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-21-10.13.32-821x1024.png)
+![](https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-21-10.13.32-821x1024.png)
 
 Kimin ne iş yaptığını biliyorsak bir de markamızın neye ihtiyacı olabileceğini bulalım.
 
@@ -54,7 +54,7 @@ Yolu ise ***3 aşamadan*** geçer;
 
 ---
 
-*Eğer marka stratejiniz belliyse*[;](https://web.archive.org/web/20250621043509/https://www.oracle.com/tr/cx/marketing/marketing-strategy/)
+*Eğer marka stratejiniz belliyse*[;](https://www.oracle.com/tr/cx/marketing/marketing-strategy/)
 
 **02. Pazarlama Ajansı**
 

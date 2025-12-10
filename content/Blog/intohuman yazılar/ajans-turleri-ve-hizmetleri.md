@@ -10,6 +10,6 @@ Ajanslar yıllar geçtikçe dijitalin de hayatımıza girmesiyle birlikte iş ya
 
 Şu an fazlasıyla karmaşık bir ekosisteme sahip olsa da ana hatlarıyla ajansların ana hizmetleri ve sundukları yan hizmetleri bu şekilde özetledim.
 
-***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://web.archive.org/web/20250713204047/http://xn--instagram%20hesab%20iin:%20https-z1c52w//www.instagram.com/into.human/)
+***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://www.instagram.com/into.human/)
 
-* ![](https://web.archive.org/web/20250713204047im_/https://intohuman.com/wp-content/uploads/2022/04/2-13-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/2-13-819x1024.png)

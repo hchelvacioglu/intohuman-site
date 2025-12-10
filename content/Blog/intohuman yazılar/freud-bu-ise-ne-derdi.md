@@ -11,7 +11,7 @@ Freud Bu İşe Ne Derdi kitabı gündelik sorunlarımıza düşünürlerin, psik
 ## Neden Böyle Davranıyorum?
 
 **1. Diğer Hayvanlardan Farkımız;**  
-[Albert Ellis](https://web.archive.org/web/20250428224415/https://tr.wikipedia.org/wiki/Albert_Ellis) ile [Aaron Beck](https://web.archive.org/web/20250428224415/https://tr.wikipedia.org/wiki/Aaron_T._Beck) göre uyaran ile davranışçıların incelediği tepki arasında, **algı, hafıza** veya **dikkat** gibi bir “dolayım süreci” bulunmaktaydı. Bizimle diğer hayvanlar arasındaki kritik fark buydu ve bu süreçleri inceleyerek zihinsel süreçleri anlamamız mümkün olabilirdi.
+[Albert Ellis](https://tr.wikipedia.org/wiki/Albert_Ellis) ile [Aaron Beck](https://tr.wikipedia.org/wiki/Aaron_T._Beck) göre uyaran ile davranışçıların incelediği tepki arasında, **algı, hafıza** veya **dikkat** gibi bir “dolayım süreci” bulunmaktaydı. Bizimle diğer hayvanlar arasındaki kritik fark buydu ve bu süreçleri inceleyerek zihinsel süreçleri anlamamız mümkün olabilirdi.
 
 **2. Savunma / Kaygı;**  
 Savunma süreçlerini işleten şey kaygıdır.
@@ -34,25 +34,25 @@ Toplumların fazlasıyla bireyci oldukları batı dünyasında büyümüşsek s�
 Antonio Damasio’ya göre bize yol gösteren duygularımızdır ve bizde uyanan duygular da büyük oranda beklentilerimize ve onlar da önceki deneyimlerimize dayanır.
 
 **7. Yaşamak;**  
-[Emmy Van Deurzen](https://web.archive.org/web/20250428224415/https://en.wikipedia.org/wiki/Emmy_van_Deurzen)‘e göre: ” Yaşamı kucaklamak, kaçınılmaz olan acıyı, kaygıyı ve suçluluğu varoluşun ayrılmaz bir parçasıymış gibi buyur etmeye cüretle olur.”
+[Emmy Van Deurzen](https://en.wikipedia.org/wiki/Emmy_van_Deurzen)‘e göre: ” Yaşamı kucaklamak, kaçınılmaz olan acıyı, kaygıyı ve suçluluğu varoluşun ayrılmaz bir parçasıymış gibi buyur etmeye cüretle olur.”
 
 ## Dikkat
 
 **8. Oyun;**  
 Oyunun sınırları kaygıyı da sınırlandırır: Bir zar altı farklı şekilde gelebilir ancak; yedi geleceğinden veya sıkıcı bir sevgiliden yana endişe duymanıza gerek yoktur. Oyunun olanaklarını öngörebiliriz ve hayatın çoğu badirelerinin ayrılmaz parçası olan kaotik endişe ile hiçbir şey yapmamanın can sıkıntısı arasında ilginç bir denge bulabiliriz.
 
-[Mihaly Csikzentmihalyi](https://web.archive.org/web/20250428224415/https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi), aynı zamanda oyun oynarken önemli olanın benliği bulmaktan ziyade kaybetmek olduğunu ve bunun da hedefsizlik durumuyla ilgili olduğunu söyler.
+[Mihaly Csikzentmihalyi](https://en.wikipedia.org/wiki/Mihaly_Csikszentmihalyi), aynı zamanda oyun oynarken önemli olanın benliği bulmaktan ziyade kaybetmek olduğunu ve bunun da hedefsizlik durumuyla ilgili olduğunu söyler.
 
 **9. Örtük Dikkat;**  
-Etkileyici bir şekilde telefonlar, 1894’te [Hermann Von Helmholtz](https://web.archive.org/web/20250428224415/https://tr.wikipedia.org/wiki/Hermann_von_Helmholtz) tarafından tanımlanan “örtük dikkatin” gücünden yararlanır. Gözler belli bir noktaya (önümüzdeki bilgisayara) çevrilmiş olsa da, görsel dikkatiniz başka yer “gizlice” yönelmiş olabilir, yani gözlerinizi yöneltmeden doğrudan başka bir yere yönelmiş olabilirsiniz. Telefonu tam olarak görüş alanımız içinde tutarak, ona hiçbir şekilde bakmasak bile, harikalarla dolu bu kutuyu her an gözetleyebiliriz.
+Etkileyici bir şekilde telefonlar, 1894’te [Hermann Von Helmholtz](https://tr.wikipedia.org/wiki/Hermann_von_Helmholtz) tarafından tanımlanan “örtük dikkatin” gücünden yararlanır. Gözler belli bir noktaya (önümüzdeki bilgisayara) çevrilmiş olsa da, görsel dikkatiniz başka yer “gizlice” yönelmiş olabilir, yani gözlerinizi yöneltmeden doğrudan başka bir yere yönelmiş olabilirsiniz. Telefonu tam olarak görüş alanımız içinde tutarak, ona hiçbir şekilde bakmasak bile, harikalarla dolu bu kutuyu her an gözetleyebiliriz.
 
 **10. Bağımlılık & Rastgele Ödüllendirme;**  
-Telefonlar garanti değil rastgele ödül sunar. Davranışçı bilimin babası [B.F.Skinner](https://web.archive.org/web/20250428224415/https://tr.wikipedia.org/wiki/Burrhus_Frederic_Skinner) hiçbir şeyin düzensiz verilen br ödül kadar dayanılmaz olamayacağını göstermişti. (Değişken oranlı program). Skinner hayvanları içinde basabilecekleri bir düğme olan bir kutuya koyar. İlk başta, hayvanlar düğmeye bastıkları her seferinde yiyecek verilir ve hayvanlar da doyduklarında düğmeye basmayı bırakır. Ancak yemek, her düğmeye basıldığında değil de düzensiz aralıklarla verildiğinde hayvanlar sürekli düğmeye basmaya devam ederler.
+Telefonlar garanti değil rastgele ödül sunar. Davranışçı bilimin babası [B.F.Skinner](https://tr.wikipedia.org/wiki/Burrhus_Frederic_Skinner) hiçbir şeyin düzensiz verilen br ödül kadar dayanılmaz olamayacağını göstermişti. (Değişken oranlı program). Skinner hayvanları içinde basabilecekleri bir düğme olan bir kutuya koyar. İlk başta, hayvanlar düğmeye bastıkları her seferinde yiyecek verilir ve hayvanlar da doyduklarında düğmeye basmayı bırakır. Ancak yemek, her düğmeye basıldığında değil de düzensiz aralıklarla verildiğinde hayvanlar sürekli düğmeye basmaya devam ederler.
 
 ## İçgüdü
 
 **11. 7 Temel İçgüdü;**  
-[Panksepp](https://web.archive.org/web/20250428224415/https://en.wikipedia.org/wiki/Jaak_Panksepp)‘in deneyleri 7 tür temel içgüdüyü açığa çıkarır.
+[Panksepp](https://en.wikipedia.org/wiki/Jaak_Panksepp)‘in deneyleri 7 tür temel içgüdüyü açığa çıkarır.
 
 a. Merak/Arama : Yiyecek vb. varlıklarını sürdürmek için ihtiyaç duyulan şeyleri bulma.  
 b. Hiddet: Öfkenin ana sebebidir. Merak/Arama ile yakın ilişkidedir. Bunu engelleyen hiddeti görür.  
@@ -120,7 +120,7 @@ Persona, dünyaya kendimizi takdim ederken takındığımız maskedir; başka in
 
 **24. Bilişsel Çelişkiyi Gidermek;**
 
-![](https://web.archive.org/web/20250428224415im_/https://intohuman.com/wp-content/uploads/2020/10/image.png)
+![](https://intohuman.com/wp-content/uploads/2020/10/image.png)
 
 **25. Kısa ve Uzun Vadede Pişmanlık;**  
 Araştırmacılar, kısa vadede yapmadıklarımızdan değil de yaptıklarımızdan; uzun vadede ise harekete geçememekten daha çok pişmanlık duyduğumuzu gösteriyor.
@@ -128,7 +128,7 @@ Araştırmacılar, kısa vadede yapmadıklarımızdan değil de yaptıklarımız
 **26. Pahalılık ve Haz;**  
 Yapılan deneyde deneklere aynı şaraplar 5 dolarlık ve 90 dolarlık olarak suuldu. Denekler pahalı olduğu bildirilen şarapların tadının daha güzel olduğunu söylemekle kalmadılar, beyin taramalarında gerçekten de, hazla ilgili kısımda daha yoğun bir faaliyet gözlendi.
 
-Aynı şekilde [Dan Ariely](https://web.archive.org/web/20250428224415/https://intohuman.com/akildisi-ama-ongorulebilir/) ilaç sektöründe de haplar üzerinden bir deney düzenledi. İlaçla ilgili hastaların %92’sinin ağrısında 10 dk içinde kayda değer bir azalma görüldüğü söylendi. Tek dozun 2,5 dolar olduğu belirtildi ve bir kez ilacı kullanmalarının ardından elektroşok uygulandı. Aynı deney bu sefer ilacın 10 sent olduğu söylenerek tekrarlandı. İlkinde çoğu denek daha az acı duyduğunu belirtirken, 2. deneyde bu oran yarısından aza düştü. İtalyan nörobilimci Fabrizio Benedetti, bunun, plasebo etkisiyle ilgili deneylerde beynin afyon ve marihuana ile aynı yolları kullanan nörotransmitterler üretmesi sebebiyle olduğunu gösterdi. Plasebo ne kadar pahalıysa doğal kimyasallar o kadar çok salgılanır.
+Aynı şekilde [Dan Ariely](https://intohuman.com/akildisi-ama-ongorulebilir/) ilaç sektöründe de haplar üzerinden bir deney düzenledi. İlaçla ilgili hastaların %92’sinin ağrısında 10 dk içinde kayda değer bir azalma görüldüğü söylendi. Tek dozun 2,5 dolar olduğu belirtildi ve bir kez ilacı kullanmalarının ardından elektroşok uygulandı. Aynı deney bu sefer ilacın 10 sent olduğu söylenerek tekrarlandı. İlkinde çoğu denek daha az acı duyduğunu belirtirken, 2. deneyde bu oran yarısından aza düştü. İtalyan nörobilimci Fabrizio Benedetti, bunun, plasebo etkisiyle ilgili deneylerde beynin afyon ve marihuana ile aynı yolları kullanan nörotransmitterler üretmesi sebebiyle olduğunu gösterdi. Plasebo ne kadar pahalıysa doğal kimyasallar o kadar çok salgılanır.
 
 ## Kaygı
 
@@ -137,8 +137,8 @@ Tam özgürlük birlikte kaygıyı da getirir. Psikoterapist Emmy Van Deurzen’
 
 Özgürlük basit bir tercih meselesi değildir. Yaşamak ya da ölmek tercihini de kapsayan tam özgürlüğün kapsamı baş döndürücü boyuttadır. Hayattan kaçıp korku içinde saklanırsak, diyor Van Deurzen, kısıtlanmış, ilişkisiz, motivasyonsuz ve umarsız kalakalırız. Depresyon orada yuvalanır. Yok sayma tutumu almadan veya kendimizi bir çeşit uyuşturucuya teslim etmeden, eyleme geçme cesaretini bulmamız gerekir.
 
-**28. İdealize İmajlar;** (Ör: [Gösteri Toplumu](https://web.archive.org/web/20250428224415/https://intohuman.com/gosteri-toplumu/))  
-İdealize ettiğimiz imajlar büyümenin önünde ciddi engellerdir, çünkü ya eksiklikleri yok sayar ya da onları mahkum ederler. – [Karen Horney](https://web.archive.org/web/20250428224415/https://tr.wikipedia.org/wiki/Karen_Horney)
+**28. İdealize İmajlar;** (Ör: [Gösteri Toplumu](https://intohuman.com/gosteri-toplumu/))  
+İdealize ettiğimiz imajlar büyümenin önünde ciddi engellerdir, çünkü ya eksiklikleri yok sayar ya da onları mahkum ederler. – [Karen Horney](https://tr.wikipedia.org/wiki/Karen_Horney)
 
 …
 

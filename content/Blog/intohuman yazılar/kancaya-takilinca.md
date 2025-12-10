@@ -10,7 +10,7 @@ tags: []
 
 #### A. Alışkanlık ve Duygu;
 
-Alışkanlık yaratma tekniği uygulayan şirketler sundukları hizmetlerle kullanıcıların günlük faaliyetleri ve duyguları arasında bağlantı kurma yoluna giderler. Şiddetli bir yalnızlık duygusuna kapılan kullanıcılar henüz mantık tam olarak devreye girmeden Facebook’ta gezinmeye başlarlar.[\*](https://web.archive.org/web/20250713194010/https://intohuman.com/aliskanliklarin-gucu/)
+Alışkanlık yaratma tekniği uygulayan şirketler sundukları hizmetlerle kullanıcıların günlük faaliyetleri ve duyguları arasında bağlantı kurma yoluna giderler. Şiddetli bir yalnızlık duygusuna kapılan kullanıcılar henüz mantık tam olarak devreye girmeden Facebook’ta gezinmeye başlarlar.[\*](https://intohuman.com/aliskanliklarin-gucu/)
 
 #### B. Alışkanlık Yaratma Potansiyeli;
 

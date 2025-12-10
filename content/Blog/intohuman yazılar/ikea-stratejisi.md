@@ -6,9 +6,9 @@ draft: false
 originalUrl: "https://intohuman.com/ikea-stratejisi/"
 tags: []
 ---
-IKEA dünyanın en büyük mobilya perakendecisi, ikea stratejisi: ***Dürtüsel alışveriş.***[\*](https://web.archive.org/web/20250519023421/https://thehustle.co/how-ikea-tricks-you-into-buying-more-stuff/)
+IKEA dünyanın en büyük mobilya perakendecisi, ikea stratejisi: ***Dürtüsel alışveriş.***[\*](https://thehustle.co/how-ikea-tricks-you-into-buying-more-stuff/)
 
-![](https://web.archive.org/web/20250519023421im_/https://intohuman.com/wp-content/uploads/2024/01/image-1024x841.png)
+![](https://intohuman.com/wp-content/uploads/2024/01/image-1024x841.png)
 
 
 ---
@@ -39,7 +39,7 @@ IKEA mağazasına gittiğinizde kafanızda almak için gittiğiniz üründen ço
 
 Böylelikle satışı artırmak için kurulmuş bu düzen, IKEA’nın ***başarısının en önemli nedenlerinden.***
 
-![ikea stratejisi](https://web.archive.org/web/20250519023421im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-27-19.25.57.png)
+![ikea stratejisi](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-27-19.25.57.png)
 
 
 ---
@@ -52,7 +52,7 @@ Bu nedenle ***kendinizi eşyaları alışveriş sepetinize atarken buluyorsunuz*
 
 ---
 
-IKEA dünyanın en büyük mobilya perakendecisi. Fakat IKEA’yı bu içeriğin konusu yapan, ürünlerinden ziyade ürünleri nasıl sunduğu.[\*](https://web.archive.org/web/20250519023421/https://intohuman.com/marka-konsepti/)
+IKEA dünyanın en büyük mobilya perakendecisi. Fakat IKEA’yı bu içeriğin konusu yapan, ürünlerinden ziyade ürünleri nasıl sunduğu.[\*](https://intohuman.com/marka-konsepti/)
 
 IKEA insan zihninin nasıl çalıştığına ilişkin çok doğru bir iç görüye sahipti. Satın almalarımızın büyük çoğunluğunu rasyonel ve planlı olarak yapmıyoruz. Bunun bilincinde olan IKEA da insan zihninin bu zaafını kullandı. “Dürtüsel Satın Alma”.
 

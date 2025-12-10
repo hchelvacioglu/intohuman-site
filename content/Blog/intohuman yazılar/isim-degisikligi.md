@@ -6,13 +6,13 @@ draft: false
 originalUrl: "https://intohuman.com/isim-degisikligi/"
 tags: []
 ---
-Global markalarda isim değişikliği çok fazla görülmez. Markaların çoğu her ülkede aynı [isimle](https://web.archive.org/web/20250428223106/https://intohuman.com/marka-ve-urun-ismi-nasil-konur/) satılır.
+Global markalarda isim değişikliği çok fazla görülmez. Markaların çoğu her ülkede aynı [isimle](https://intohuman.com/marka-ve-urun-ismi-nasil-konur/) satılır.
 
 ---
 
 Fakat bazen global markalar isim değişikliği yapmak zorunda kalırlar.
 
-Burger King (Global) = [Hungry Jack’s](https://web.archive.org/web/20250428223106/https://www.hungryjacks.com.au/home) (Avustralya)
+Burger King (Global) = [Hungry Jack’s](https://www.hungryjacks.com.au/home) (Avustralya)
 
 Dr.Oetker (Global) = Cameo (İtalya)
 
@@ -50,7 +50,7 @@ Markanın ismi pazarda kötü bir anlama sahip olabilir.
 
 Ülkemizde Algida olarak satılan marka da pekçok yerde farklı isimlere sahip.
 
-![](https://web.archive.org/web/20250428223106im_/https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-12-01.03.59.png)
+![](https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-12-01.03.59.png)
 
 
 ---

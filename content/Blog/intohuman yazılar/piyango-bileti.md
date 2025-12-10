@@ -14,7 +14,7 @@ Max Weber’e göre insanlar duygusal, geleneksel ve rasyonal kararlar verirler.
 
 Piyango bileti ikramiyesinin çıkma ihtimali; 10 milyonda 1.
 
-Büyük ikramiye ise 400 Milyon TL.[\*](https://web.archive.org/web/20250519005435/https://www.dunya.com/gundem/milli-piyangonun-buyuk-ikramiyesi-400-milyon-lira-tam-yarim-ve-ceyrek-biletler-de-belli-oldu-haberi-710647#:~:text=Milli%20Piyango%2C%202023'te%20200,art%C4%B1%C5%9Fla%20400%20milyon%20lira%20oldu.)
+Büyük ikramiye ise 400 Milyon TL.[\*](https://www.dunya.com/gundem/milli-piyangonun-buyuk-ikramiyesi-400-milyon-lira-tam-yarim-ve-ceyrek-biletler-de-belli-oldu-haberi-710647#:~:text=Milli%20Piyango%2C%202023'te%20200,art%C4%B1%C5%9Fla%20400%20milyon%20lira%20oldu.)
 
 Diyelim ki 120 lira ödeyerek ***bir tam bilet aldınız.*** Ve tüm hafta büyük ikramiyeyi kazanıp yeni bir sayfa açma hayali kurdunuz.
 
@@ -56,7 +56,7 @@ Hatta birçoğumuz duygusal kararlarımıza ikna olmak için mantıklı bir ***s
 
 Ürünümüzün kalitesine bakarak müşterilerin en rasyonel kararı vermesini beklememeliyiz.
 
-Markamızla buluşmaları için müşterilerimize bir [duygu](https://web.archive.org/web/20250519005435/https://intohuman.com/marka-ve-duygular/) hissettirmeliyiz.
+Markamızla buluşmaları için müşterilerimize bir [duygu](https://intohuman.com/marka-ve-duygular/) hissettirmeliyiz.
 
 ---
 

@@ -51,41 +51,41 @@ Wow, siteyi bozdunuz! ( ŞakaJ , sadece bizim tarafımızda bir sorunla karşıl
 
 Mailchimp;
 
-![](https://web.archive.org/web/20250211055848im_/https://intohuman.com/wp-content/uploads/2021/01/mailchimp-404-page.png)
+![](https://intohuman.com/wp-content/uploads/2021/01/mailchimp-404-page.png)
 
 Sendinblue;
 
-![](https://web.archive.org/web/20250211055848im_/https://intohuman.com/wp-content/uploads/2021/01/sendinblue-404-page.png)
+![](https://intohuman.com/wp-content/uploads/2021/01/sendinblue-404-page.png)
 
 #### **Resmi – Gündelik;**
 
 Alfa Romeo;
 
-![](https://web.archive.org/web/20250211055848im_/https://intohuman.com/wp-content/uploads/2021/01/alfa-romeo-404-page.png)
+![](https://intohuman.com/wp-content/uploads/2021/01/alfa-romeo-404-page.png)
 
 Mini;
 
-![](https://web.archive.org/web/20250211055848im_/https://intohuman.com/wp-content/uploads/2021/01/mini-404-page.png)
+![](https://intohuman.com/wp-content/uploads/2021/01/mini-404-page.png)
 
 #### **Mesafeli – Mesafesiz;**
 
 Dollar shave club;
 
-![](https://web.archive.org/web/20250211055848im_/https://intohuman.com/wp-content/uploads/2021/01/dollar-shave-club-404-page.gif)
+![](https://intohuman.com/wp-content/uploads/2021/01/dollar-shave-club-404-page.gif)
 
 Gillette;
 
-![](https://web.archive.org/web/20250211055848im_/https://intohuman.com/wp-content/uploads/2021/01/gillete-404-page.png)
+![](https://intohuman.com/wp-content/uploads/2021/01/gillete-404-page.png)
 
 #### **Coşkulu – Duygusuz/Gerçekçi;**
 
 Taco Garage;
 
-![](https://web.archive.org/web/20250211055848im_/https://intohuman.com/wp-content/uploads/2021/01/taco-garage-404-page.png)
+![](https://intohuman.com/wp-content/uploads/2021/01/taco-garage-404-page.png)
 
 Taco Bell;
 
-![](https://web.archive.org/web/20250211055848im_/https://intohuman.com/wp-content/uploads/2021/01/taco-bell-404-page.gif)
+![](https://intohuman.com/wp-content/uploads/2021/01/taco-bell-404-page.gif)
 
 #### **Diğer Örnekler;**
 
@@ -93,14 +93,14 @@ Taco Bell;
 
 Apple’ın marka ses tonu basit, kısa, direkt ve anlaşılırdır.
 
-![](https://web.archive.org/web/20250211055848im_/https://intohuman.com/wp-content/uploads/2021/01/Ekran-Resmi-2021-01-10-16.56.53.png)
+![](https://intohuman.com/wp-content/uploads/2021/01/Ekran-Resmi-2021-01-10-16.56.53.png)
 
 ### Marka Ses Tonu **Nasıl Bulunur?**
 
-1. **[Markanızın değerlerine](https://web.archive.org/web/20250211055848/https://intohuman.com/marka-degerleri/) göre;**  
+1. **[Markanızın değerlerine](https://intohuman.com/marka-degerleri/) göre;**  
 Markanızın değerleri sizin kim olduğunuzu belirler. Bu nedenle marka ses tonunun da değerleri hedef kitlenize hissettirmesi gerekir. Marka değerleriniz, sizin sınırlarınızı belirlerken ses tonunuzun da sınırlarını belirlemiş olur.
 
-2. **[Marka Kişiliğine & Arketipe](https://web.archive.org/web/20250211055848/https://intohuman.com/marka-arketipi/) göre:**  
+2. **[Marka Kişiliğine & Arketipe](https://intohuman.com/marka-arketipi/) göre:**  
 Markanızın arketipi nedir? Markanız müşteriye ilham mı veriyor yoksa sorununu öu çözüyor?
 
 Markanız için belirlediğiniz arketipe göre ses tonunuzu ayarlamanız gerekir. Bilge bir arketipin doğrular üzerinden konuşması uygun olacakken, aşık arketipinin de olaylara duygusuz ve gerçekçi yaklaşması beklenmez. Bu nedenle arketip markanızın ses tonunu belirlemekte önemli bir referanstır.
@@ -139,7 +139,7 @@ Markanız 4 ana eksende müşterinize vadettiğiniz duygu dönüşümüne uygun 
 Üç ana tema, fayda ya da satış kaldıracı belirlenip bu konular üzerinden anlatılacak hikaye kelimelerle şekillendirilmelidir.
 
 Örnek:   
-[Apple](https://web.archive.org/web/20250211055848/https://www.apple.com/tr/iphone-12/)
+[Apple](https://www.apple.com/tr/iphone-12/)
 
 3 Ana Tema ve ya satış kaldıracı; Stabilite – Teknoloji – Sadelik  
 a. Bu 3 ana temayı hangi kelimeler üzerinden anlatmalı?

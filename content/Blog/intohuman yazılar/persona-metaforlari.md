@@ -69,7 +69,7 @@ Bunlar:
 **1. Metaforlar iletişim sembollerini belirler;**
 
 Doğru metaforlar ile markayı bağdaştırmak, tüketicide istenilen duyguların tetiklenmesine olanak verir.  
-Örnek: Pirelli’nin kontrol metaforunu [lastik bir yumruk](https://web.archive.org/web/20250428225138/https://www.adsoftheworld.com/media/print/pirelli_fist)ta görebilirsiniz.  
+Örnek: Pirelli’nin kontrol metaforunu [lastik bir yumruk](https://www.adsoftheworld.com/media/print/pirelli_fist)ta görebilirsiniz.  
 Örnek: Apple’ın elma sembolü dönüşüm metaforunun bir unsurudur.
 
 **2. Metaforlar markanın müşterisine sunacağı arketipi belirlemede yardımcı olur.**
@@ -98,7 +98,7 @@ Aşık: Bağlantı
 Bizden Biri: Bağlantı, Yolculuk  
 Koruyucu: Bağlantı, Kontrol, Kap
 
-### **Marka Araştırmalarında Persona Metaforları Nasıl Ortaya Çıkarılır?**[\*](https://web.archive.org/web/20250428225138/https://intohuman.com/pazarlama-metaforlari/)
+### **Marka Araştırmalarında Persona Metaforları Nasıl Ortaya Çıkarılır?**[\*](https://intohuman.com/pazarlama-metaforlari/)
 
 **1. Araştırmacının görüşmeciyi daha derin düşünmeye zorlamasıyla.**
 

@@ -12,7 +12,7 @@ Güçlü markalar sadece tüketicinin zihninde çok fazla kavrama temas etmez. P
 
 Bu nedenle markanızı oluştururken, sizin güçlü tarafınızı anlatın. Ve tüketici için aranan bir değeri karşılayan kavramı bulun.
 
-***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://web.archive.org/web/20250713201840/http://xn--instagram%20hesab%20iin:%20https-z1c52w//www.instagram.com/into.human/)  
-Detaylı içerik için[\*](https://web.archive.org/web/20250713201840/https://intohuman.com/marka-yaratmak/)
+***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://www.instagram.com/into.human/)  
+Detaylı içerik için[\*](https://intohuman.com/marka-yaratmak/)
 
-![marka için tek kelime](https://web.archive.org/web/20250713201840im_/https://intohuman.com/wp-content/uploads/2022/04/Marka-Tek-Kelime-819x1024.png)
+![marka için tek kelime](https://intohuman.com/wp-content/uploads/2022/04/Marka-Tek-Kelime-819x1024.png)

@@ -20,7 +20,7 @@ Satışları adet ve çeşit olarak artırır.
 
 ### Markalaşmanın önündeki engeller;
 
-***Görsel kimliğin*** (Logo, ambalaj vs.) marka üzerinde yaratacağı etki göz ardı ediliyor.[\*](https://web.archive.org/web/20250428212753/https://intohuman.com/logo-ihtiyaci/)
+***Görsel kimliğin*** (Logo, ambalaj vs.) marka üzerinde yaratacağı etki göz ardı ediliyor.[\*](https://intohuman.com/logo-ihtiyaci/)
 
 Her şeyin datayla ölçüldüğü günümüzde böyle düşünülmesi normal.
 
@@ -48,7 +48,7 @@ Reklamın değer yaratabilmesi için markaya dair ne sunulduğu ve nasıl sunuld
 
 Markalaşmak pek çok açıdan zahmetli bir süreç. Doğru kişilerle çalışmak, departmanlardaki ekipleri ikna etmek, uygulama süreçlerini yürütmek gibi birçok farklı faktör mevcut.
 
-Fakat karar verici kişilerin bu konudaki endişelerini ve inanışlarını anlayabilirsek, daha da önemlisi markalaşmanın faydaları konusunda ikna edebilirsek, bu zahmet herkesin katılımıyla muhteşem bir değere dönüşüyor.[\*](https://web.archive.org/web/20250428212753/https://www.statista.com/statistics/264875/brand-value-of-the-25-most-valuable-brands/)
+Fakat karar verici kişilerin bu konudaki endişelerini ve inanışlarını anlayabilirsek, daha da önemlisi markalaşmanın faydaları konusunda ikna edebilirsek, bu zahmet herkesin katılımıyla muhteşem bir değere dönüşüyor.[\*](https://www.statista.com/statistics/264875/brand-value-of-the-25-most-valuable-brands/)
 
 ---
 

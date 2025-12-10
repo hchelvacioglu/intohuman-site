@@ -11,7 +11,7 @@ Dost Kazanma ve İnsanları Etkileme Sanatı kitabı insan psikolojisinin zaafla
 ## Önemli Olma Tutkusu
 
 **1. İnsanlarla İlişkinin Sırrı;**  
-Amerika’nın ünlü filozoflarından [John Dewey](https://web.archive.org/web/20250713203351/https://tr.wikipedia.org/wiki/John_Dewey) insan doğasındaki en önemli dürtünün “önemli olma tutkusu” olduğunu bildiriyor. Bizi hayvanlardan ayıran şey bu tutkulardır.
+Amerika’nın ünlü filozoflarından [John Dewey](https://tr.wikipedia.org/wiki/John_Dewey) insan doğasındaki en önemli dürtünün “önemli olma tutkusu” olduğunu bildiriyor. Bizi hayvanlardan ayıran şey bu tutkulardır.
 
 **2. Karakter ve Eylem**;  
 Önemli olma tutkunuzu nasıl giderdiğinizi söylerseniz size nasıl bir kişi olduğunuzu söyleyebilirim. Karakterinizi belirleyen en önemli özellik budur.
@@ -45,7 +45,7 @@ Bir kişinin adını doğru hatırlayabilmek ve kolayca söyleyebilmek, o kişiy
 ## Tartışma
 
 **11. Tartışmanın Kazananı Olmaz;**  
-Her 10 tartışmanın 9’uda taraflar kendi haklılıklarına, tartışmaya başlamadan önce inandıklarından daha çok inanmaktadırlar. (Ör: [İnanç / Başkalarının Aklı](https://web.archive.org/web/20250713203351/https://intohuman.com/baskalarinin-akli/))
+Her 10 tartışmanın 9’uda taraflar kendi haklılıklarına, tartışmaya başlamadan önce inandıklarından daha çok inanmaktadırlar. (Ör: [İnanç / Başkalarının Aklı](https://intohuman.com/baskalarinin-akli/))
 
 Tartışmayı kazanamazsınız. Çünkü düşüncelerinin yanlışlığı kanıtlansa da, insan aynı düşünceleri savunmaya devam eder.
 

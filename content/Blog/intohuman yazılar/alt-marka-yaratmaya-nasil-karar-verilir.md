@@ -6,7 +6,7 @@ draft: false
 originalUrl: "https://intohuman.com/alt-marka-yaratmaya-nasil-karar-verilir/"
 tags: []
 ---
-Markalar bulundukları pazarın gelişmesiyle, farklı müşteri beklentilerini karşılamak ya da yeni bir pazara açılmak amacıyla marka genişlemelerine ihtiyaç duyar. [Marka genişlemeleri](https://web.archive.org/web/20250621044753/https://intohuman.com/marka-mimarisi/) ve dolayısıyla isimlendirilmeleri strateji için kritik bir karardır. Çünkü bağlı bir alt marka mevcut markaya katkı sunabileceği gibi sorunları da beraberinde getirebilir. Bu aşamada markaya bağlı bir alt marka yaratma, bağımsız bir markayla ilerleme ya da alt marka yaratmama kararını vermek gerekir.
+Markalar bulundukları pazarın gelişmesiyle, farklı müşteri beklentilerini karşılamak ya da yeni bir pazara açılmak amacıyla marka genişlemelerine ihtiyaç duyar. [Marka genişlemeleri](https://intohuman.com/marka-mimarisi/) ve dolayısıyla isimlendirilmeleri strateji için kritik bir karardır. Çünkü bağlı bir alt marka mevcut markaya katkı sunabileceği gibi sorunları da beraberinde getirebilir. Bu aşamada markaya bağlı bir alt marka yaratma, bağımsız bir markayla ilerleme ya da alt marka yaratmama kararını vermek gerekir.
 
 ### **1. Alt markaya ihtiyaç var mı?**
 
@@ -32,8 +32,8 @@ Cevap: Evet ise alt markaya ihtiyaç duyulabilir.
 a. Markaların/Ürünlerin kategorileri birbirinden oldukça farklıysa House of Brands (Independent) veya hybrid bir modelle ilerlemek mantıklı olacaktır. Değilse mono brand ilerlenebilir.
 
 Örnek: **Independent Model**: P&G ve alt markaları: Pampers, Tide, Gillette  
-**Hybrid Model:** Coca-Cola, Coca-Cola [Zero](https://web.archive.org/web/20250621044753/https://tr.m.wikipedia.org/wiki/Dosya:Coca-Cola_Zero_logo.svg), Coca Cola Light  
-**Mono Brand:** [Eker](https://web.archive.org/web/20250621044753/https://eker.com/urunler) Ayran, Eker Kaymak, Eker Yoğurt
+**Hybrid Model:** Coca-Cola, Coca-Cola [Zero](https://tr.m.wikipedia.org/wiki/Dosya:Coca-Cola_Zero_logo.svg), Coca Cola Light  
+**Mono Brand:** [Eker](https://eker.com/urunler) Ayran, Eker Kaymak, Eker Yoğurt
 
 b. Markaların/ürünler benzer kategoride olsa bile motivasyon olarak birbirinden farklılık gösteriyorsa Independent veya Hybridmodelle ilerlemek mantıklı olacaktır. Değilse mono brand’e tanımlayıcı bir ayrıştırma ile devam edilebilir.
 
@@ -82,7 +82,7 @@ Hiyerarşide genellikle eşitlik vardır.
 
 Yaratılacak marka genişlemesi de kararlaştırıldıktan sonra hangi markanın ön plana çıkacağına markanın gücüne ve potansiyeline göre karar verilir.
 
-![](https://web.archive.org/web/20250621044753im_/https://intohuman.com/wp-content/uploads/2021/09/Ekran-Resmi-2021-09-13-10.52.30-1024x329.png)
+![](https://intohuman.com/wp-content/uploads/2021/09/Ekran-Resmi-2021-09-13-10.52.30-1024x329.png)
 
 #### B. Hybrid Model Genişlemeleri;
 
@@ -124,7 +124,7 @@ Hiyarşide ana marka alt marka ile eşit ölçülerde yer alır. İsim olarak ka
 
 En temelde kategori genişlemeleri markanın yaptığı çağrışımla ortak ilerler. Apple’ın teknoloji markası olması onu hem bilgisayar hem telefon üretmesine imkan tanırken ileride TV üretmesine dair bir engel de oluşturmayacak çünkü çağrışımları bunu destekleyecektir. Bu nedenle sub brand olarak devam ettiği Apple Watch, Apple Music gibi markaların yanında, logo olarak iPhone ve iPad’i de destekler ve ürünün üzerinde ürüne dair bir ismi değil Apple logosunu görürsünüz.
 
-![](https://web.archive.org/web/20250621044753im_/https://intohuman.com/wp-content/uploads/2021/09/Ekran-Resmi-2021-09-13-12.15.31-1024x347.png)
+![](https://intohuman.com/wp-content/uploads/2021/09/Ekran-Resmi-2021-09-13-12.15.31-1024x347.png)
 
 ### C. Independent Model Genişlemeleri
 

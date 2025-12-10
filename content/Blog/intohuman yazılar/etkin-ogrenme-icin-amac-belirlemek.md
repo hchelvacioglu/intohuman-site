@@ -22,7 +22,7 @@ Etkin öğrenme için bir amaç belirlemek, zorlandığımız anlarda devam etme
 
 #### Amaç Nasıl Çerçevelenir?
 
-Değişime adaptasyon[\*](https://web.archive.org/web/20250621040652/https://intohuman.com/adapte-olabilmenin-5-ana-etkeni/) sağlamış insanlar, amacını en kesin şekilde belirleyenler değil, en doğru şekilde belirleyenlerden oluşur. Doğru bir öğrenme amacına sahip olmak için ise çerçeveyi 2 yoldan çizebiliriz;
+Değişime adaptasyon[\*](https://intohuman.com/adapte-olabilmenin-5-ana-etkeni/) sağlamış insanlar, amacını en kesin şekilde belirleyenler değil, en doğru şekilde belirleyenlerden oluşur. Doğru bir öğrenme amacına sahip olmak için ise çerçeveyi 2 yoldan çizebiliriz;
 
 **1. Yolculuğa odaklanmak:** Sarf ettiğimiz eforun çıktısı olarak performansa değil, yolculuğa odaklanmak gerekir. Sürecin başında, performansa odaklanmak ya da görevi ne kadar iyi yaptığınızla ilgilenmek öğrenim sürecinizi baltalayacaktır. Bunun yerine ne kadar kaliteli öğrendiğinize ve gelişmenize odaklanın.
 

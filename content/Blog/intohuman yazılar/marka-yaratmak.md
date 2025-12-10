@@ -22,7 +22,7 @@ Tüketicinizin zihninde güçlü bir marka yaratmak amacıyla, ***markanızı da
 
 ### 02. Tanıtım Kuralı;
 
-En iyi yol, ***ilk olmaktır.*** Bir başka deyişle, yeni bir kategoride ilk marka olmak.[\*](https://web.archive.org/web/20250621041741/https://www.fastcompany.com/most-innovative-companies/list)
+En iyi yol, ***ilk olmaktır.*** Bir başka deyişle, yeni bir kategoride ilk marka olmak.[\*](https://www.fastcompany.com/most-innovative-companies/list)
 
 Örneğin, Heineken ilk ithal bira, Compaq ilk kişisel bilgisayar, Playboy ilk erkek dergisi, Time ilk haftalık haber dergisi, KFC ilk tavuk fast food zinciridir.
 
@@ -30,7 +30,7 @@ En iyi yol, ***ilk olmaktır.*** Bir başka deyişle, yeni bir kategoride ilk ma
 
 ### 03. Kelime Kuralı;
 
-Bir marka, tüketicinin zihninde ***bir kelimeye*** sahip olmaya çalışmalıdır.[\*](https://web.archive.org/web/20250621041741/https://intohuman.com/marka-tek-kelime/)
+Bir marka, tüketicinin zihninde ***bir kelimeye*** sahip olmaya çalışmalıdır.[\*](https://intohuman.com/marka-tek-kelime/)
 
 Prestij Mercedes için ne ise, güvenlik de Volvo için öyledir.
 

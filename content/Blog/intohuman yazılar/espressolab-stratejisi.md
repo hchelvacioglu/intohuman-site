@@ -74,6 +74,6 @@ Biz de Espressolab stratejisi içerisinde hızlı şekilde büyümesinde etken o
 
 ---
 
-[Markalaşmak için takip edin.](https://web.archive.org/web/20250713203601/https://www.instagram.com/into.human/)
+[Markalaşmak için takip edin.](https://www.instagram.com/into.human/)
 
-[Makalelere göz atın.](https://web.archive.org/web/20250713203601/https://intohuman.com/makaleler/)
+[Makalelere göz atın.](https://intohuman.com/makaleler/)

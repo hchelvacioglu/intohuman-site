@@ -16,7 +16,7 @@ Ve pazarlamacılar tüm bu duygu ve durumları tüketicilerin ürünleri satın 
 
 “Verdiğimiz kararların %95’ini ***bilinçaltımız kontrol ediyor.***“
 
-–*[Daniel Kahneman](https://web.archive.org/web/20250519025405/https://tr.wikipedia.org/wiki/Daniel_Kahneman)*
+–*[Daniel Kahneman](https://tr.wikipedia.org/wiki/Daniel_Kahneman)*
 
 ---
 
@@ -40,7 +40,7 @@ Peki **Subliminal İkna** doğru mu?
 
 **01. Zihin manipüle edilebilir.**
 
-Zihin karşılaştırmalarla çalışır. Yeni gördüğü bir şeyi daha önce gördüğü şeylere benzetmek ister ve onunla ilgili biz farkında olmadan yargıya varır. ***([Çıpalama](https://web.archive.org/web/20250519025405/https://intohuman.com/hizli-ve-yavas-dusunme/) etkisi)***
+Zihin karşılaştırmalarla çalışır. Yeni gördüğü bir şeyi daha önce gördüğü şeylere benzetmek ister ve onunla ilgili biz farkında olmadan yargıya varır. ***([Çıpalama](https://intohuman.com/hizli-ve-yavas-dusunme/) etkisi)***
 
 ---
 

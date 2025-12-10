@@ -27,7 +27,7 @@ Güçlü topluluklarda herkes bir değer ekleme rolü oynar. Roller arasında y�
 
 **6. Online Sosyal Şebekeler Bir Araçtır, Topluluk Stratejisi Değil.**   
 Birçok online etkileşim sığ ve geçicidir. Marka topluluğunuzun ihtiyaçlarını desteklemek için online araçlarınızı seçici bir şekilde kullanın.   
-([Stratejik Pazarlama](https://web.archive.org/web/20250621051954/https://intohuman.com/stratejik-pazarlama/))
+([Stratejik Pazarlama](https://intohuman.com/stratejik-pazarlama/))
 
 ## Bağlılığın 3 Biçimi
 
@@ -90,4 +90,4 @@ Her topluluk kişiler için aşağıdaki senaryolardan birine sahiptir;
 Harley Sahipleri Grubu: sadece üyelere özel etkinliklerle “içindekilerin kendini güvenlikli ve korunaklı hissettikleri ayrıcalıklı yer” – Hisar’ı yaratmıştır.  
 Yaz Kampı senaryosunda periyodik buluşmalar dizayn edilmiş  
 Harley Davidson müzeleri hem Veranda (derinlikli anlamlı bağları kolaylaştıran özel mekan) hem de Bar (sığ olmasına rağmen güvenilir bağlantıları garantileyen kamusal mekan)’ı yaratmıştır.*   
-([Akademik Çalışma](https://web.archive.org/web/20250621051954/https://www.researchgate.net/publication/304525789_BIR_STRATEJI_OLARAK_MARKA_TOPLULUGU_HARLEY_SAHIPLERI_TOPLULUGU_HARLEY_OWNERS_GROUP-HOG_ORNEGI))
+([Akademik Çalışma](https://www.researchgate.net/publication/304525789_BIR_STRATEJI_OLARAK_MARKA_TOPLULUGU_HARLEY_SAHIPLERI_TOPLULUGU_HARLEY_OWNERS_GROUP-HOG_ORNEGI))

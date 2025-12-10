@@ -32,9 +32,9 @@ Bunu bir şişeye çevirelim.
 
 ---
 
-Aslında fiyatlandırma tamamen ***zihnimizdedir***.[\*](https://web.archive.org/web/20250621042255/https://intohuman.com/soguk-baklava/)
+Aslında fiyatlandırma tamamen ***zihnimizdedir***.[\*](https://intohuman.com/soguk-baklava/)
 
-Bir cam şişe su için, plastik şişeye ödediğimizden çok daha fazlasını ödemeye razı olabiliriz.[\*](https://web.archive.org/web/20250621042255/https://dataweave.com/blog/what-is-price-perception#:~:text=Price%20perception%20is%20the%20perceived,for%20the%20products%20they%20buy.)
+Bir cam şişe su için, plastik şişeye ödediğimizden çok daha fazlasını ödemeye razı olabiliriz.[\*](https://dataweave.com/blog/what-is-price-perception#:~:text=Price%20perception%20is%20the%20perceived,for%20the%20products%20they%20buy.)
 
 Ya da suyu nerede satın aldığımıza göre bile ***fiyat algımız tamamen değişebilir.***
 

@@ -10,17 +10,17 @@ Cümleler içerisinde yer alan metaforlar, duygu ve değer dünyasını çok dah
 
 Bu nedenle araştırmacılar tüketicilerin kullandıkları metaforları analiz etmeye çalışırken, aynı şekilde markalar da metaforları zihnimize imgeler yerleştirmek için kullanır.
 
-Markaların, kendi hikayelerine dair metaforları kullanması, tüketicilerin bilinçaltındaki duygu ve değerlere ulaşmasına böylelikle olanak sağlar. Daha detaylı bir anlatım için[\*](https://web.archive.org/web/20250713210956/https://intohuman.com/persona-metaforlari/)
+Markaların, kendi hikayelerine dair metaforları kullanması, tüketicilerin bilinçaltındaki duygu ve değerlere ulaşmasına böylelikle olanak sağlar. Daha detaylı bir anlatım için[\*](https://intohuman.com/persona-metaforlari/)
 
-***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://web.archive.org/web/20250713210956/http://xn--instagram%20hesab%20iin:%20https-z1c52w//www.instagram.com/into.human/)
+***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://www.instagram.com/into.human/)
 
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/1-9-819x1024.png)
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/2-8-819x1024.png)
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/3-7-819x1024.png)
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/4-7-819x1024.png)
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/5-7-819x1024.png)
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/6-7-819x1024.png)
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/7-7-819x1024.png)
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/8-6-819x1024.png)
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/9-2-819x1024.png)
-* ![](https://web.archive.org/web/20250713210956im_/https://intohuman.com/wp-content/uploads/2022/04/10-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/1-9-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/2-8-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/3-7-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/4-7-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/5-7-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/6-7-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/7-7-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/8-6-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/9-2-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/10-819x1024.png)

@@ -9,28 +9,28 @@ draft: false
 originalUrl: 'https://intohuman.com/makaleler/'
 tags: []
 ---
-## [Bluemint Stratejisi](https://web.archive.org/web/20250519024751/https://intohuman.com/bluemint-stratejisi/)
+## [Bluemint Stratejisi](https://intohuman.com/bluemint-stratejisi/)
 
-## [7 Satış Tekniği](https://web.archive.org/web/20250519024751/https://intohuman.com/satis-teknigi/)
+## [7 Satış Tekniği](https://intohuman.com/satis-teknigi/)
 
-## [Perrier Stratejisi](https://web.archive.org/web/20250519024751/https://intohuman.com/perrier-stratejisi/)
+## [Perrier Stratejisi](https://intohuman.com/perrier-stratejisi/)
 
-## [EspressoLab Stratejisi](https://web.archive.org/web/20250519024751/https://intohuman.com/espressolab-stratejisi/)
+## [EspressoLab Stratejisi](https://intohuman.com/espressolab-stratejisi/)
 
-## [Yemeksepeti Yanlışı](https://web.archive.org/web/20250519024751/https://intohuman.com/yemeksepeti-yanlisi/)
+## [Yemeksepeti Yanlışı](https://intohuman.com/yemeksepeti-yanlisi/)
 
-## [Ginger Hype’ı](https://web.archive.org/web/20250519024751/https://intohuman.com/ginger/)
+## [Ginger Hype’ı](https://intohuman.com/ginger/)
 
-## [2023 En İyi Reklamlar](https://web.archive.org/web/20250519024751/https://intohuman.com/2023-en-iyi-reklamlar/)
+## [2023 En İyi Reklamlar](https://intohuman.com/2023-en-iyi-reklamlar/)
 
-## [Domino’s Stratejisi](https://web.archive.org/web/20250519024751/https://intohuman.com/dominos-stratejisi/)
+## [Domino’s Stratejisi](https://intohuman.com/dominos-stratejisi/)
 
-## [Yahoo’nun Çöküşü](https://web.archive.org/web/20250519024751/https://intohuman.com/yahoonun-cokusu/)
+## [Yahoo’nun Çöküşü](https://intohuman.com/yahoonun-cokusu/)
 
-## [Barbie Stratejisi](https://web.archive.org/web/20250519024751/https://intohuman.com/barbie-stratejisi/)
+## [Barbie Stratejisi](https://intohuman.com/barbie-stratejisi/)
 
-## [Nike Pazarlama Stratejisi](https://web.archive.org/web/20250519024751/https://intohuman.com/nike-pazarlama-stratejisi/)
+## [Nike Pazarlama Stratejisi](https://intohuman.com/nike-pazarlama-stratejisi/)
 
-## [Nokia’nın Çöküşü](https://web.archive.org/web/20250519024751/https://intohuman.com/nokianin-cokusu/)
+## [Nokia’nın Çöküşü](https://intohuman.com/nokianin-cokusu/)
 
 Daha Fazla

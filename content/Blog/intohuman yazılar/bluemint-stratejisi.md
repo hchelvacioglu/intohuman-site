@@ -81,9 +81,9 @@ Giyim markalarının kimliği, müşterisinde uyandırdığı duygu ve kendisini
 
 ---
 
-[Markalaşmak için takip edin.](https://web.archive.org/web/20250713203709/https://www.instagram.com/into.human/)
+[Markalaşmak için takip edin.](https://www.instagram.com/into.human/)
 
-[Diğer makalelere göz atın.](https://web.archive.org/web/20250713203709/https://intohuman.com/makaleler/)
+[Diğer makalelere göz atın.](https://intohuman.com/makaleler/)
 
 ---
 

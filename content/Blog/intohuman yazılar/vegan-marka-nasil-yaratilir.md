@@ -14,7 +14,7 @@ Veganlık kavramının çevresindeki masum ve iyimser değerler, bu alanda tüke
 
 Sadece vegan üzerine konumlanan markalar için ise rekabet gittikçe kızışan bir hal almış durumda. Bu hızla büyüyen yeni kategori, organikleşme furyasından sonra tüm dünyayı etkisine aldı gibi görünüyor. Kabullenme bariyeri organiğe göre çok daha yüksek olsa da (*organikte kimyasal yememeye yani sana faydalı olacak bir konuya razı olurken, veganlıkta hayvansal ürün tüketmemeye yani başkasına zararı olacak bir konudan kaçınmaya razı olmak*) çevremizi düşünmek konsepti altında insanlar için yeni bir kimlik inşasına izin veriyor.
 
-#### Vegan Markanın Reçetesi[\*](https://web.archive.org/web/20250713200647/https://intohuman.com/marka-stratejisi-nasil-olusturulur/)
+#### Vegan Markanın Reçetesi[\*](https://intohuman.com/marka-stratejisi-nasil-olusturulur/)
 
 Bütün bu değer seti içerisinde vegan kategorisindeki bir markanın olmazsa olmazları da oluşmuş durumda, ve vegan konseptli akılda kalıcı yeni bir marka yaratmak isteyenler için reçete aşağıdaki gibi oluşuyor;
 
@@ -32,7 +32,7 @@ Modern ve çarpıcı logolar pazarın bulunduğu şu aşamada tüketici için ko
 
 ##### 4. Tipografi;
 
-Vegan markaların seçeceği fontlar modern, sade ve sofistike (ince zevk) bir değeri yansıtmalıdır. El yazısına yakın samimi fontlar[\*](https://web.archive.org/web/20250713200647/https://www.oatly.com/), veganlığın içinde yer alan iyilik, yardım etmek ve korumak gibi daha çok anaç bir rolle eşleşen kavramların daha baskın olarak görünmesini sağlayacaktır.
+Vegan markaların seçeceği fontlar modern, sade ve sofistike (ince zevk) bir değeri yansıtmalıdır. El yazısına yakın samimi fontlar[\*](https://www.oatly.com/), veganlığın içinde yer alan iyilik, yardım etmek ve korumak gibi daha çok anaç bir rolle eşleşen kavramların daha baskın olarak görünmesini sağlayacaktır.
 
 ##### 5. Renkler;
 

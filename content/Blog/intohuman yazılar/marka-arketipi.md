@@ -6,7 +6,7 @@ draft: false
 originalUrl: "https://intohuman.com/marka-arketipi/"
 tags: []
 ---
-## [into human.](https://web.archive.org/web/20250621040746/https://intohuman.com/)
+## [into human.](https://intohuman.com/)
 
 Menu
 
@@ -20,7 +20,7 @@ Kelime anlamıyla kalıp, şablon, ilk tip şeklinde ifade edilen arketipler ger
 
 ## **Neden Önemli?**
 
-Bu fikri markalar dünyası için kullanışlı kılan isim ise [Carl Gustav Jung](https://web.archive.org/web/20250621040746/https://en.wikipedia.org/wiki/Jungian_archetypes)’dur. Çünkü Jung arketipleri birbirinden, evrensel olarak anlaşılır bir şekilde, bilinçaltındaki temel insan arzularına, dürtülerine, korkularına ve motivasyonlarına göre ayrılabileceğini ortaya çıkarmıştır. Böylelikle bir markanın insani özellikler ve faydalar üzerinden kitlesi ile iletişimde bulunmasının yolunu açmıştır ve kitleye marka ile birlikte nasıl bir deneyim elde edeceklerini hissetme fırsatını sunmuştur.
+Bu fikri markalar dünyası için kullanışlı kılan isim ise [Carl Gustav Jung](https://en.wikipedia.org/wiki/Jungian_archetypes)’dur. Çünkü Jung arketipleri birbirinden, evrensel olarak anlaşılır bir şekilde, bilinçaltındaki temel insan arzularına, dürtülerine, korkularına ve motivasyonlarına göre ayrılabileceğini ortaya çıkarmıştır. Böylelikle bir markanın insani özellikler ve faydalar üzerinden kitlesi ile iletişimde bulunmasının yolunu açmıştır ve kitleye marka ile birlikte nasıl bir deneyim elde edeceklerini hissetme fırsatını sunmuştur.
 
 Arketipler, bir markanın kategori içerisinde rakiplerinden iletişim alanında farklılaşmasını ve müşteri deneyiminin tutarlılığını sağlarken, stratejide belirlenen markanın var olma amacını ve değerlerini bir bütünlük içinde yansıtmasını sağlar. Böylelikle markalar, kitlesi ile birlikte duygusal yoğunlukta ve kolay anlaşılır ilişkiler kurar.
 
@@ -30,7 +30,7 @@ Arketipler, bir markanın kategori içerisinde rakiplerinden iletişim alanında
 
 Arketip dünyasında sayısız arketip bulunsa da birbirinden arzu, korku ve motivasyon bakımından farklılaşan 12 arketip grubu, markalar dünyası tarafından genel kabul gören marka arketipi sistemini oluşturur.
 
-![marka arketipi](https://web.archive.org/web/20250621040746im_/https://intohuman.com/wp-content/uploads/2021/01/iconic-fox-Atchetypes-12-jungian-map-1024x1024.jpg)
+![marka arketipi](https://intohuman.com/wp-content/uploads/2021/01/iconic-fox-Atchetypes-12-jungian-map-1024x1024.jpg)
 
 #### **1. Hükümdar / Ruler:** Power isn’t everything, it is the only thing. // Control
 
@@ -48,7 +48,7 @@ Hükümdar arketipi her şeyden önce kontrolü ister ve baskın bir kişiliktir
 
 **Vaadi:** Güven, Prestij, Başarı, Zenginlik, Güç
 
-**Hedef Kitle ile İletişim:** Kitlenize hitap etmek için onların güç, kontrol ve saygı duygularını onaylamalısınız. Hissetmek istedikleri üstünlük duygusunu, [özel bir grubun parçası](https://web.archive.org/web/20250621040746/https://intohuman.com/marka-toplulugu-nasil-olusturulur/) olduğunu hissettirerek verebilirsiniz.
+**Hedef Kitle ile İletişim:** Kitlenize hitap etmek için onların güç, kontrol ve saygı duygularını onaylamalısınız. Hissetmek istedikleri üstünlük duygusunu, [özel bir grubun parçası](https://intohuman.com/marka-toplulugu-nasil-olusturulur/) olduğunu hissettirerek verebilirsiniz.
 
 #### **2. Yaratıcı / Creator:** If it can be imagined, it can be created. // Innovation
 
@@ -326,11 +326,11 @@ Markanın var olma amacı, değerleri, vaadi bulunduktan sonra 4. sırada bunu k
 
 ## Bize ulaşın.
 
-[info@intohuman.com](https://web.archive.org/web/20250621040746/mailto: info@intohuman.com)
+[info@intohuman.com](mailto:info@intohuman.com)
 
 Barbaros Mh. Begonya Sk.   
 Nidakule No:1 Ataşehir / İstanbul
 
-[Linkedin](https://web.archive.org/web/20250621040746/https://www.linkedin.com/company/intohuman/) 
+[Linkedin](https://www.linkedin.com/company/intohuman/) 
 
-[Instagram](https://web.archive.org/web/20250621040746/https://www.instagram.com/into.human/)
+[Instagram](https://www.instagram.com/into.human/)

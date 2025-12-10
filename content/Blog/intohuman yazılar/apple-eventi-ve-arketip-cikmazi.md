@@ -8,7 +8,7 @@ tags: []
 ---
 #### Think Different
 
-Apple 1984’teki hafızalardan çıkmayan kampanyası[\*](https://web.archive.org/web/20250713211612/https://www.youtube.com/watch?v=R706isyDrqI) ile vizyoner arketipini[\*](https://web.archive.org/web/20250713211612/https://intohuman.com/marka-arketipi/) tüm dünyaya göstermişti. Daima yeniliği arayan, henüz bulunmamış olanın peşinde bu kimlik, kendisiyle birlikte “yeniyi arzulayan” milyonlarca insan yaratmıştı.
+Apple 1984’teki hafızalardan çıkmayan kampanyası[\*](https://www.youtube.com/watch?v=R706isyDrqI) ile vizyoner arketipini[\*](https://intohuman.com/marka-arketipi/) tüm dünyaya göstermişti. Daima yeniliği arayan, henüz bulunmamış olanın peşinde bu kimlik, kendisiyle birlikte “yeniyi arzulayan” milyonlarca insan yaratmıştı.
 
 Apple özellikle 2000’li yılların başından itibaren vadettiği bu yenilikçi değerleri birçok alanda kanıtlamıştı ve tam da bu sebeple işin başındaki Steve Jobs artık yeni bir dünyanın yaratıcısı ve çağ başlatan bir adam olarak görülüyordu. Kafasındaki dünya için okulu bırakan, garajda yatmayı göze alan, sıradan olanla asla yetinemeyen bu insan profili Apple’ın vizyoner arketipi ile bütünleşmişti.
 

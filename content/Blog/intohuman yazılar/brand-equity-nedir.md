@@ -35,14 +35,14 @@ Tüketici algısında marka ile birlikte gelen bütün kavramlardır. Kısaca t�
 **Tutarlı marka çağrışımı için;**  
 – İçerikleriniz markanın farklılaştırıcı özelliklerini vurguluyor mu? (Ör: Volvo – Güvenlik)  
 – Markanın ana değerleri marka kimliğinde algısal olarak yer alıyor mu? (İnce belli fit ürünler)  
-– [Marka kişiliğiniz](https://web.archive.org/web/20250713195348/https://intohuman.com/marka-arketipi/) ana kavramlarınıza uyum sağlıyor mu?
+– [Marka kişiliğiniz](https://intohuman.com/marka-arketipi/) ana kavramlarınıza uyum sağlıyor mu?
 
 #### 3. Algılanan Marka Kalitesi:
 
 Markanın algılanan kalitesi, tüketicinin satın alma kararını etkileyen en önemli faktörlerdendir. Tüketicide satın alma nedeni oluşturabilecek bir marka değeri, markanızı rekabette öne geçirecek en önemli unsurdur.
 
 **Yüksek marka kalitesi için;**  
-– Markanızın kalite algısına dair [destek kanıt](https://web.archive.org/web/20250713195348/https://intohuman.com/marka-vaadi/) yaratabiliyor musunuz?  
+– Markanızın kalite algısına dair [destek kanıt](https://intohuman.com/marka-vaadi/) yaratabiliyor musunuz?  
 – Yarattığınız destek kanıt size özgü mü?  
 – Bu destek kanıt tüketicileriniz tarafından kolay anlaşılabilir ve kabul edilebilir mi?
 

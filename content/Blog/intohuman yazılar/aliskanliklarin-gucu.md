@@ -10,7 +10,7 @@ Alışkanlıkların gücü bir rutinin ya da alışkanlığın yaratılma aşama
   
 **1. Alışkanlığın Oluşma Döngüsü;**
 
-![](https://web.archive.org/web/20250519025616im_/https://intohuman.com/wp-content/uploads/2020/09/image.png)
+![](https://intohuman.com/wp-content/uploads/2020/09/image.png)
 
 **2. Güçlü Alışkanlıklar Oluşturmanın İki Kuralı;**  
 a. Basit ve açık bir işaret bul (Acı)  
@@ -23,37 +23,37 @@ Claude Hopkins’in kariyeri boyunca kullandığı taktiklerden biri, tüketicil
 
 Örneğin Quaker Oats’u, size 24 saat boyunca enerji sağlayan, ama bunu ancak her sabah bir kase yediğiniz takdirde yapan bir kahvaltılık tahıl gevreği olarak tanıttı.
 
-* ![Alışkanlıkların Gücü](https://web.archive.org/web/20250519025616im_/https://intohuman.com/wp-content/uploads/2020/09/image-4.png)
+* ![Alışkanlıkların Gücü](https://intohuman.com/wp-content/uploads/2020/09/image-4.png)
 
 Karın ağrılarını, eklem ağrılarını, sorunlu ciltleri ve “kadın problemlerini” tedavi eden, ama bunu ancak semptomlar baş gösterir göstermez ilacı içtiğiniz takdirde yapan tonikler pazarladı.
 
-![](https://web.archive.org/web/20250519025616im_/https://intohuman.com/wp-content/uploads/2020/09/image-12.png)
+![](https://intohuman.com/wp-content/uploads/2020/09/image-12.png)
 
 Çok geçmeden insanlar gün doğarken yulaf ezmesi tüketip, en ufak bir yorgunluk hissettiklerinde küçük kahverengi şişelerden ilaç yudumlar oldular. Halbuki bu belirtiler ne tesadüftür ki her gün en az bir kez yaşanan şeylerdir. Her gün tekrarla, sonu alışkanlık.
 
-![](https://web.archive.org/web/20250519025616im_/https://intohuman.com/wp-content/uploads/2020/09/image-7.png)
+![](https://intohuman.com/wp-content/uploads/2020/09/image-7.png)
 
 **4. Pepsodent Örneği;**  
 “Dilinizi dişlerinizin üzerinde şöyle bir gezdirin” diyordu bir reklam. “Bir tabaka hissedeceksiniz. Dişlerinizin rengini donuk gösteren ve çürümelere davetiye çıkaran şey, işte budur.”
 
 Bu reklamın cazibesi, yadsınması mümkün olmayan, varlığı herkesçe bilinen bir şeyi (dişler üzeridenki tabakayı) işaret olarak kullanıyor olmasından ileri geliyordu.
 
-![](https://web.archive.org/web/20250519025616im_/https://intohuman.com/wp-content/uploads/2020/09/image-8.png)
+![](https://intohuman.com/wp-content/uploads/2020/09/image-8.png)
 
 ## Alışkanlıkların Gücü: Arzular
 
 **5. Cinnabon Örneği;**  
-Alışkanlıklar nörolojik arzular yaratıyor. Çoğu zaman bu arzular öylesine yavaş çıkıyor ki varlıklarının farkına bile varamıyoruz, dolayısıyla etkilerini de çoğu zaman gözden kaçırıyoruz. Ama işaretleri belli ödüllerle ilişkilendirdikçe, bilinçaltımızda alışkanlık döngüsünü harekete geçiren şiddetli bir arzu oluşuyor. (Ör: [Cinnabon Smell](https://web.archive.org/web/20250519025616/https://www.bonappetit.com/story/cinnabon-makara-cinnamon-scent))
+Alışkanlıklar nörolojik arzular yaratıyor. Çoğu zaman bu arzular öylesine yavaş çıkıyor ki varlıklarının farkına bile varamıyoruz, dolayısıyla etkilerini de çoğu zaman gözden kaçırıyoruz. Ama işaretleri belli ödüllerle ilişkilendirdikçe, bilinçaltımızda alışkanlık döngüsünü harekete geçiren şiddetli bir arzu oluşuyor. (Ör: [Cinnabon Smell](https://www.bonappetit.com/story/cinnabon-makara-cinnamon-scent))
 
 *Ör: Cinnabon dükkanlarının alışveriş merkezi içindeki konumlandırmaları. Çoğu gıda satıcısı dükkanlarını alışveriş merkezlerinin food-court alanına açar. Halbuki Cinnabon diğerlerinden uzak noktalara açmaya gayret gösterir. Çünkü Cinnabon tarçınlı rulodan yayılan kokuyu insanların duymasını ister ve daha Cinnabon’u görmeden arzulamasını sağlar. Alışkanlık döngüsü şiddetli bir arzuya dönüşmüştür.*
 
 **6. Spor ve Tetikleyici Döngüsü;**
 
-![](https://web.archive.org/web/20250519025616im_/https://intohuman.com/wp-content/uploads/2020/09/image-10.png)
+![](https://intohuman.com/wp-content/uploads/2020/09/image-10.png)
 
 Bir süre alışkanlığa devam ederseniz artık bir sorun yaşamadan da gitmeye başlıyorsunuz. Çünkü arzu yaratılmış oluyor. Bu nedenle sadece sporu hatırlatıcı bir tetikleyici koymanız yeterli oluyor.
 
-![](https://web.archive.org/web/20250519025616im_/https://intohuman.com/wp-content/uploads/2020/09/image-11.png)
+![](https://intohuman.com/wp-content/uploads/2020/09/image-11.png)
 
 **7.** **Tüketiciler Ürünün İşe Yaradığını Gösteren İşaretler İster**. **| Oral – B**  
 Diş macununa istediğiniz her tadı verebilirsiniz; yabanmersini, yeşil çay… Serinlik ve yanma hissi olduğu sürece insanlar ağızlarını temiz hissederler. Yanma hissi diş macununun daha iyi sonuç verdiğini göstermez. İşe yaradığına insanları ikna eder yalnızca.
@@ -131,9 +131,9 @@ Bir örgüt, üyelerin üzerinde yarattığı mahalle baskısıyla gücünü kan
 
 Örgütler, ancak kişilerin gündelik hayatlarının rutininde yer alabilirse güçlüdür. Belli bir rutinde temas noktası yakalayamayan örgütler güçlü değildir.
 
-Örgütler ritüellerini üyelerine aktarabilmek zorundadır. Böylelikle örgüt içerisindeki belirsizlikler ortadan kaybolur ve herkes kendini örgüt içerisinde işlevsel bir yere koyabilir. Aynı zamanda bu ritüeller veya örgüt içi rutinler, kişilerin disipline edilmesi ve tek bir tarzda tepki vermesini sağlar. ([Ör: Marka Topluluğu Nasıl Oluşturulur?](https://web.archive.org/web/20250519025616/https://intohuman.com/marka-toplulugu-nasil-olusturulur/))
+Örgütler ritüellerini üyelerine aktarabilmek zorundadır. Böylelikle örgüt içerisindeki belirsizlikler ortadan kaybolur ve herkes kendini örgüt içerisinde işlevsel bir yere koyabilir. Aynı zamanda bu ritüeller veya örgüt içi rutinler, kişilerin disipline edilmesi ve tek bir tarzda tepki vermesini sağlar. ([Ör: Marka Topluluğu Nasıl Oluşturulur?](https://intohuman.com/marka-toplulugu-nasil-olusturulur/))
 
-**19. Uyurgezerlik;** ([Sistem 1](https://web.archive.org/web/20250519025616/https://intohuman.com/hizli-ve-yavas-dusunme/))  
+**19. Uyurgezerlik;** ([Sistem 1](https://intohuman.com/hizli-ve-yavas-dusunme/))  
 Uyurgezerler araba kullanabilir, yemek pişirebilirler. Bütün bunları yaptıkları sırada aslında şuursuzdurlar, çünkü beyinlerinin görme, yürüme, araba kullanma ve yemek pişirmeyle ilişkili kısımları beyin bölgelerinden girdi almaksızın işlev gösterebilir. Su kaynatıp çay demleyen uyurgezerler vardır. Bir tanesi elektrikli testereyle tahta parçaları kesip sonra yatağına geri dönmüştür.
 
 Çünkü rutinler ve alışkanlıklar bir süre sonra otomatikleşir ve onun için herhangi bir düşünce çabası sarfetmemize gerek kalmaz.

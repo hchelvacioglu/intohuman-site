@@ -36,7 +36,7 @@ Not// Şu an dünyada özgürlük adı altında yeni bağımlılıklar kitlelere
 #### B. Sosyolojik Düşünmek – Sınırlar
 
 **6. Başkalarına Dair Bilgi**  
-Alfred Schutz’a ([Wiki](https://web.archive.org/web/20250621041315/https://en.wikipedia.org/wiki/Alfred_Sch%C3%BCtz)) göre, her bireysel bakış açısından insan soyunun bütün öteki üyelerinin yerleri, hayali bir çizgi üzerinde belirtilebilir. Böyle bir çizgi üzerinde kendimi(egomu) başlangıç noktası olarak bana en yakın noktaların dostlarım olduğunu söyleyebilirim. Bir insanın süreklilik çizgisi üzerindeki verili noktası benden ne kadar uzaksa, benim o insana tepkim kadar onun hakkındaki düşüncelerim de o kadar genel ve tipik olacaktır (yaşlılar, isyahlar, yahudiler, güney amerikalılar, zenginler, futbol fanatikleri, askerler vb).
+Alfred Schutz’a ([Wiki](https://en.wikipedia.org/wiki/Alfred_Sch%C3%BCtz)) göre, her bireysel bakış açısından insan soyunun bütün öteki üyelerinin yerleri, hayali bir çizgi üzerinde belirtilebilir. Böyle bir çizgi üzerinde kendimi(egomu) başlangıç noktası olarak bana en yakın noktaların dostlarım olduğunu söyleyebilirim. Bir insanın süreklilik çizgisi üzerindeki verili noktası benden ne kadar uzaksa, benim o insana tepkim kadar onun hakkındaki düşüncelerim de o kadar genel ve tipik olacaktır (yaşlılar, isyahlar, yahudiler, güney amerikalılar, zenginler, futbol fanatikleri, askerler vb).
 
 İnsan soyuna ilişkin zihin haritamda, benim öncellerim ve ardıllarım vardır. Öncellerim bana mesaj vermiş olabilirler. (biz böyle mesajlara *gelenek* deriz, tarihsel hafızada korunmuştur onlar) ancak biz onlara yanıt veremeyiz. Ardıllarımızla ise durum tersinedir; çağdaşlarımla birlikte, içinde birlikte ya da bireysel olarak kurduğumuz ya da yazdığımız şeyleri barındıran mesajlar bırakırız ancak onların bize yanıt vermesini beklemeyiz.
 
@@ -51,7 +51,7 @@ Zihinsel ve ahlaki yakınlık emsal duygusunu yaşama yetimizden ibarettir. Emsa
 **9. Düşman Neden Gerekli?;**  
 İç grubun ihtiyaçları çerçevesinde işbirliğine hazır olmak adeta bir karşıt ile işbirliğini reddetmenin gerekçesidir. Hatta denebilir ki, gerçekte bir dış gruptan beklenen davranışı gösteren bir grubun fiili mevcudiyeti ne orada ne de buradadır; böyle bir grup yoksa bile, kendi sınırlarını çizmek ve korumak için, kendi içinde sadakati ve işbirliğini temin etmek etmek için bir düşman varsayması gereken grubun tutarlılığı ve bütünlüğünü icat edecektir.
 
-Sanki bir yerde kendimi evimdeymiş gibi güvende hissetmem için yabanıllığın saldığı korkuya ihtiyaç duyarım. “İçeri”nin değerini gerçek anlamda vermek için bir “dışarı” olmalıdır. ([Ör: Marka Topluluğu](https://web.archive.org/web/20250621041315/https://intohuman.com/marka-toplulugu-nasil-olusturulur/))
+Sanki bir yerde kendimi evimdeymiş gibi güvende hissetmem için yabanıllığın saldığı korkuya ihtiyaç duyarım. “İçeri”nin değerini gerçek anlamda vermek için bir “dışarı” olmalıdır. ([Ör: Marka Topluluğu](https://intohuman.com/marka-toplulugu-nasil-olusturulur/))
 
 **10. Sınırların Aşılması;**  
 Eşyanın doğasından gelen bir yanlışlık yoktur. Orada olmaması gereken şeyin orada olması ancak onu iğrenç ve çekilmez yapar.

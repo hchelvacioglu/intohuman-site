@@ -28,13 +28,13 @@ Tüketiciler bunu ***ambalajdan, renkten, mesajdan*** algılar.
 
 ---
 
-Fuska’nın pembesi, **Erikli’nin *Dağ Figürü***[\*](https://web.archive.org/web/20250519020340/https://www.erikli.com.tr/erikli-efsanesi), **Pürsu’nun *Çiçekleri***
+Fuska’nın pembesi, **Erikli’nin *Dağ Figürü***[\*](https://www.erikli.com.tr/erikli-efsanesi), **Pürsu’nun *Çiçekleri***
 
 ---
 
 Ürünün kendisi farklılaşamıyorsa, nasıl göründüğü ***önemli hale gelir.***
 
-Çünkü görsel kimlik, markanın***algılanan kalitesine***direkt olarak etki eder.[\*](https://web.archive.org/web/20250519020340/https://intohuman.com/brand-equity-ozet/)
+Çünkü görsel kimlik, markanın***algılanan kalitesine***direkt olarak etki eder.[\*](https://intohuman.com/brand-equity-ozet/)
 
 ---
 

@@ -8,13 +8,13 @@ tags: []
 ---
 Birçok marka, stratejisinde ne yaptığını ve nasıl yaptığını anlatabiliyor, fakat niçin bu işi yaptığına dair doyurucu bir cevap veremiyor. Buna cevap verebilen markalar ise tüketicinin duygusal evreninde kendisine sağlam bir yer bulabiliyor ve “nasıl ve ne yaptığını” anlatan markalara göre müşterisiyle daha güçlü bağlar oluşturabiliyor.
 
-***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://web.archive.org/web/20230927052319/http://xn--instagram%20hesab%20iin:%20https-z1c52w//www.instagram.com/into.human/)
+***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://www.instagram.com/into.human/)
 
-* ![](https://web.archive.org/web/20230927052319im_/https://intohuman.com/wp-content/uploads/2022/04/1-4-819x1024.png)
-* ![](https://web.archive.org/web/20230927052319im_/https://intohuman.com/wp-content/uploads/2022/04/2-3-819x1024.png)
-* ![](https://web.archive.org/web/20230927052319im_/https://intohuman.com/wp-content/uploads/2022/04/3-3-819x1024.png)
-* ![](https://web.archive.org/web/20230927052319im_/https://intohuman.com/wp-content/uploads/2022/04/4-3-819x1024.png)
-* ![](https://web.archive.org/web/20230927052319im_/https://intohuman.com/wp-content/uploads/2022/04/5-3-819x1024.png)
-* ![](https://web.archive.org/web/20230927052319im_/https://intohuman.com/wp-content/uploads/2022/04/6-3-819x1024.png)
-* ![](https://web.archive.org/web/20230927052319im_/https://intohuman.com/wp-content/uploads/2022/04/7-3-819x1024.png)
-* ![](https://web.archive.org/web/20230927052319im_/https://intohuman.com/wp-content/uploads/2022/04/8-3-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/1-4-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/2-3-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/3-3-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/4-3-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/5-3-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/6-3-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/7-3-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/8-3-819x1024.png)

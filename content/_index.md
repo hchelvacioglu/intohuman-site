@@ -8,7 +8,7 @@ cascade:
 
 <h1 style="font-size: 3.4rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin: 0 0 1.5rem 0; background: linear-gradient(135deg, #7c3aed 0%, #4c1d95 45%, #1e0a3c 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: #1e0a3c; text-align: center;">Marka zihinlerde üretilir.</h1>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center; margin: 2rem 0 4rem 0;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center; margin: 2rem 0 4rem 0;" class="hero-grid">
   <div>
     <p style="font-size: 1.125rem; line-height: 1.8; margin: 0 0 2rem 0;">Markalaşmaya dair Türkçe kaynak üretme amacıyla Nisan 2022'de IntoHuman'ı kurduk. Büyüme hedefi olan markalara ihtiyaçlarına yönelik danışmanlık hizmeti vermeye devam ediyoruz.</p>
     <div style="display: flex; align-items: center; gap: 1.5rem; margin: 0 0 2rem 0;">
@@ -16,7 +16,7 @@ cascade:
       <a href="/contact/" style="display: inline-block; padding: 0.75rem 1.5rem; background: #6366f1; color: white; text-decoration: none; border-radius: 0.5rem; font-weight: 600; font-size: 0.95rem; white-space: nowrap;">İletişime Geçin →</a>
     </div>
   </div>
-  <div style="display: flex; align-items: center; justify-content: center; height: 300px;">
+  <div style="display: flex; align-items: center; justify-content: center; height: 300px;" class="hero-graphic">
     <svg width="280" height="280" viewBox="0 0 280 280" style="overflow: visible;">
       <!-- Animated gradient circles with blend -->
       <defs>
@@ -77,13 +77,25 @@ cascade:
   </div>
 </div>
 
+<style>
+  @media (max-width: 768px) {
+    .hero-grid {
+      grid-template-columns: 1fr !important;
+      gap: 2rem !important;
+    }
+    .hero-graphic {
+      display: none !important;
+    }
+  }
+</style>
+
 <hr style="margin: 4rem 0 2rem 0; border: none; border-top: 1px solid #e2e8f0;">
 
 <h2 style="font-size: 2.5rem; font-weight: 700; color: #000; margin-top: 0; margin-bottom: 1rem;">Çözümler</h2>
 
 <p style="font-size: 1.125rem; margin-bottom: 3rem;">Tasarım, strateji ve yaratıcılıktaki uzmanlığımızla markaları güçlendiriyor, <span style="color: #000; font-weight: 700;">rotasını belirliyoruz.</span></p>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin: 3rem 0;">
+<div class="solutions-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; margin: 3rem 0;">
   <div>
     <h3 style="font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem;">Marka Stratejisi</h3>
     <p style="color: #64748b; line-height: 1.6;">Markanızın vaadini, konumlandırmasını ve hikâyesini netleştiriyor; pazarlama iletişiminizin her temas noktasında tutarlı bir yapı kuruyoruz.</p>
@@ -97,3 +109,12 @@ cascade:
     <p style="color: #64748b; line-height: 1.6;">Kampanyalarınız, lansmanlarınız ve iletişim çalışmalarınız için markanızın ruhuna uygun, özgün ve etkili yaratıcı fikirler üretiyoruz.</p>
   </div>
 </div>
+
+<style>
+  @media (max-width: 768px) {
+    .solutions-grid {
+      grid-template-columns: 1fr !important;
+      gap: 1.5rem !important;
+    }
+  }
+</style>

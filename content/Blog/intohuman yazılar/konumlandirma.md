@@ -64,7 +64,7 @@ Estetik anlamda olsun damak anlamında olsun, tat insanın zihnindedir. Gözleri
 
 Gazetler kötü haberleri ön sayfaya, iyi haberleri sosyete haberleriyle birlikte arka sayfaya koyarlar. İletişim sektörü dedikodu gibidir. Kötü haberle beslenir, iyiyle değil.
 
-#### İsmin Gücü[\*](https://web.archive.org/web/20250621045419/https://intohuman.com/marka-ve-urun-ismi-nasil-konur/);
+#### İsmin Gücü[\*](https://intohuman.com/marka-ve-urun-ismi-nasil-konur/);
 
 İsim potansiyel müşterinin zihnindeki merdivene ürünü asan kancadır. Konumlandırma aşamasında verebileceğiniz en önemli pazarlama kararı ürünün adıdır. Karayipler’deki Hog (yaban domuzu) Adası ismini Paradise Adası olarak değiştirmeden önce yerinde sayıyordu.
 
@@ -80,7 +80,7 @@ Peki ama ya JFK ve FDR? Durumun ironisi şu ki bir kez zirveye vardınız mı, b
 
 #### Ülkeyi Konumlandırmak;
 
-Zihniniz şehirleri ve ülkeleri kartpostallar olarak görür. Zihninizde, New York[\*](https://web.archive.org/web/20250621045419/https://www.google.com/search?q=new+york&sxsrf=AOaemvLgDbY6UFZY62FOoSq06cw0tpEfjg:1633297322216&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjOy8_Vmq_zAhWNQvEDHReRAt0Q_AUoAXoECAEQAw&biw=1224&bih=690&dpr=2) muhtemelen yüksek binalardan oluşan bir siluettir. San Francisco tramvaylar ve Golden Gate Köprüsü’dür. İngiltere dendiğinde insanlar şatafatı, Big Ben’i ve Londra Kulesi’ni düşünür. İtalya dendiğinde akla Coliseum, St. Peter’s ve sanat eserleri gelir.
+Zihniniz şehirleri ve ülkeleri kartpostallar olarak görür. Zihninizde, New York[\*](https://www.google.com/search?q=new+york&sxsrf=AOaemvLgDbY6UFZY62FOoSq06cw0tpEfjg:1633297322216&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjOy8_Vmq_zAhWNQvEDHReRAt0Q_AUoAXoECAEQAw&biw=1224&bih=690&dpr=2) muhtemelen yüksek binalardan oluşan bir siluettir. San Francisco tramvaylar ve Golden Gate Köprüsü’dür. İngiltere dendiğinde insanlar şatafatı, Big Ben’i ve Londra Kulesi’ni düşünür. İtalya dendiğinde akla Coliseum, St. Peter’s ve sanat eserleri gelir.
 
 #### Ürün ve Hizmet Reklamı;
 

@@ -12,6 +12,6 @@ Marka stratejisi kurgulanırken, pazara, rakiplere ve şirket kültürüne göre
 
 Bu nedenle her zaman aklımızın bir köşesinde durması gereken 10 markalaşma kuralını kısaca tanımladım.
 
-***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://web.archive.org/web/20250428225242/http://xn--instagram%20hesab%20iin:%20https-z1c52w//www.instagram.com/into.human/)
+***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://www.instagram.com/into.human/)
 
-* ![](https://web.archive.org/web/20250428225242im_/https://intohuman.com/wp-content/uploads/2022/04/1-5-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/1-5-819x1024.png)

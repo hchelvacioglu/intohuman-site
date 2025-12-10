@@ -15,7 +15,7 @@ Stratejik pazarlama HBR 10 Must Reads içerisinde yer alan, etkili bakış açı
 Bal üretiyorsanız balla kullanılan ürünleri geliştirmeniz gerekiyor.  
   
 **2.** **Ortak Amaca Hitap Eden Ürünler;**  
-Sony, tüketicilerin “dünyamdaki kaostan kaçma” işlerine yardımcı olan çeşitli nesillerdeki walkmanler ve playstationlar ile bunu yaptı. ([Tüketim Toplumu](https://web.archive.org/web/20250713194752/https://intohuman.com/tuketim-toplumu/))
+Sony, tüketicilerin “dünyamdaki kaostan kaçma” işlerine yardımcı olan çeşitli nesillerdeki walkmanler ve playstationlar ile bunu yaptı. ([Tüketim Toplumu](https://intohuman.com/tuketim-toplumu/))
 
 ## B. Müşteri
 
@@ -37,9 +37,9 @@ Frappelerin %40’ı sabah saatlerinde satın alındığını gördü. Müşteri
 ## C. Marka
 
 **7.** **Markaların Genişlemesi;**  
-BIC markası kulan-at konseptini sahiplenip. Kullan at kalemler, kullan at çakmak, kullan at jiletler çıkarmıştır. Bu ürünlerde iyi çalışan konsept BIC kullan at parfüm çıkardığında çalışmamıştır. Çünkü parfüm kişisel ve duygusal bir ürünken diğer ürünler faydacı ve kişiliksizdir. Kullan at konseptinde kişinin satın alırken daha az önem verdiği ya da bilinçdışı düşündüğü ürünlere yönelmek BIC için stratejik pazarlama açısından mantıklı bir tercih olabilirdi. ([BIC Parfümleri](https://web.archive.org/web/20250713194752/https://boingboing.net/2019/06/11/bic-perfume-in-packaging-inspi.html))  
+BIC markası kulan-at konseptini sahiplenip. Kullan at kalemler, kullan at çakmak, kullan at jiletler çıkarmıştır. Bu ürünlerde iyi çalışan konsept BIC kullan at parfüm çıkardığında çalışmamıştır. Çünkü parfüm kişisel ve duygusal bir ürünken diğer ürünler faydacı ve kişiliksizdir. Kullan at konseptinde kişinin satın alırken daha az önem verdiği ya da bilinçdışı düşündüğü ürünlere yönelmek BIC için stratejik pazarlama açısından mantıklı bir tercih olabilirdi. ([BIC Parfümleri](https://boingboing.net/2019/06/11/bic-perfume-in-packaging-inspi.html))  
   
 **8.** **Markanın Müşteriye Sorması Gereken Tek Soru;**  
 “Markamızı bir arkadaşınıza tavsiye eder miydiniz?”. Markanın bugüne kadar yaptığı çalışmaların başarısını bu sorunun cevabı gösterecektir.
 
-![Stratejik Pazarlama](https://web.archive.org/web/20250713194752im_/https://intohuman.com/wp-content/uploads/2020/09/photo-1494059980473-813e73ee784b-1024x684.jpeg)
+![Stratejik Pazarlama](https://intohuman.com/wp-content/uploads/2020/09/photo-1494059980473-813e73ee784b-1024x684.jpeg)

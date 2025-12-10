@@ -12,15 +12,15 @@ Müşteri sizin nasıl bir kişiliğiniz olduğunu ses tonunuzdan anlar. Böylel
 
 Ses tonunun marka amacına, değerlereine ve arketipine ters düşmemesi gerekir. Marka ses tonu, ne söylediğinden çok nasıl söylediğine odaklanır.
 
-***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://web.archive.org/web/20250621051927/http://xn--instagram%20hesab%20iin:%20https-z1c52w//www.instagram.com/into.human/)  
-Daha detaylı içerik için[\*](https://web.archive.org/web/20250621051927/https://intohuman.com/marka-hissi/)
+***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://www.instagram.com/into.human/)  
+Daha detaylı içerik için[\*](https://intohuman.com/marka-hissi/)
 
-![markanın ses tonu](https://web.archive.org/web/20250621051927im_/https://intohuman.com/wp-content/uploads/2022/04/1-13-819x1024.png)
-![markanın ses tonu](https://web.archive.org/web/20250621051927im_/https://intohuman.com/wp-content/uploads/2022/04/2-11-819x1024.png)
-![markanın ses tonu](https://web.archive.org/web/20250621051927im_/https://intohuman.com/wp-content/uploads/2022/04/3-10-819x1024.png)
-![markanın ses tonu](https://web.archive.org/web/20250621051927im_/https://intohuman.com/wp-content/uploads/2022/04/4-10-819x1024.png)
-![](https://web.archive.org/web/20250621051927im_/https://intohuman.com/wp-content/uploads/2022/04/5-10-819x1024.png)
-![markanın ses tonu](https://web.archive.org/web/20250621051927im_/https://intohuman.com/wp-content/uploads/2022/04/6-10-819x1024.png)
-![](https://web.archive.org/web/20250621051927im_/https://intohuman.com/wp-content/uploads/2022/04/7-10-819x1024.png)
-![](https://web.archive.org/web/20250621051927im_/https://intohuman.com/wp-content/uploads/2022/04/8-9-819x1024.png)
-![](https://web.archive.org/web/20250621051927im_/https://intohuman.com/wp-content/uploads/2022/04/9-4-819x1024.png)
+![markanın ses tonu](https://intohuman.com/wp-content/uploads/2022/04/1-13-819x1024.png)
+![markanın ses tonu](https://intohuman.com/wp-content/uploads/2022/04/2-11-819x1024.png)
+![markanın ses tonu](https://intohuman.com/wp-content/uploads/2022/04/3-10-819x1024.png)
+![markanın ses tonu](https://intohuman.com/wp-content/uploads/2022/04/4-10-819x1024.png)
+![](https://intohuman.com/wp-content/uploads/2022/04/5-10-819x1024.png)
+![markanın ses tonu](https://intohuman.com/wp-content/uploads/2022/04/6-10-819x1024.png)
+![](https://intohuman.com/wp-content/uploads/2022/04/7-10-819x1024.png)
+![](https://intohuman.com/wp-content/uploads/2022/04/8-9-819x1024.png)
+![](https://intohuman.com/wp-content/uploads/2022/04/9-4-819x1024.png)

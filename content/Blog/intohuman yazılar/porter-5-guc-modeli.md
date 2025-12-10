@@ -33,7 +33,7 @@ Rakipler kolayca bu pazara girebilir mi?
 
 ***Neden Önemli:***
 
-Pazara giriş kolaysa, ürün kısa süre içerisinde kopyalanacak ve rekabet sadece [fiyat](https://web.archive.org/web/20250713203819/https://intohuman.com/olum-bolgesi/) üzerinden sürecektir.
+Pazara giriş kolaysa, ürün kısa süre içerisinde kopyalanacak ve rekabet sadece [fiyat](https://intohuman.com/olum-bolgesi/) üzerinden sürecektir.
 
 ### **02. Tüketici Değer Algısı**
 
@@ -45,7 +45,7 @@ Tüketicilerle güç dengesi nasıl? Pazarlık gücü kimde?
 
 * Tek bir müşteri tipine mi bağlıyım?
 
-* Alternatif [müşteriler](https://web.archive.org/web/20250713203819/https://intohuman.com/persona-2/) yaratabiliyor muyum?
+* Alternatif [müşteriler](https://intohuman.com/persona-2/) yaratabiliyor muyum?
 
 ***Neden Önemli:***
 
@@ -71,7 +71,7 @@ Sadece tedarikçilerden ürün alıp onları satıyorsanız bağımlısınızdı
 
 ***Temel Soru:***
 
-[Rakiplerinizin](https://web.archive.org/web/20250713203819/https://intohuman.com/pazarlama-arastirmasi-ozet/) pazardaki konumu ve yoğunluğu nedir?
+[Rakiplerinizin](https://intohuman.com/pazarlama-arastirmasi-ozet/) pazardaki konumu ve yoğunluğu nedir?
 
 ***Detay Sorular:***
 
@@ -81,7 +81,7 @@ Sadece tedarikçilerden ürün alıp onları satıyorsanız bağımlısınızdı
 
 ***Neden Önemli:***
 
-[Liderin](https://web.archive.org/web/20250713203819/https://intohuman.com/konumlandirma/) olmadığı pazarlarda rekabet artar. Her an yeni bir oyuncu veya farklı bir özellik tehdit olarak ortaya çıkabilir.
+[Liderin](https://intohuman.com/konumlandirma/) olmadığı pazarlarda rekabet artar. Her an yeni bir oyuncu veya farklı bir özellik tehdit olarak ortaya çıkabilir.
 
 ### **05. Muadil Ürün Tehditi**
 
@@ -93,7 +93,7 @@ Sadece tedarikçilerden ürün alıp onları satıyorsanız bağımlısınızdı
 
 * Düşük fiyata benzer amaca hizmet eden ürün var mı?
 
-* Farklı kategoride benzer amaca hizmet eden [ürün](https://web.archive.org/web/20250713203819/https://intohuman.com/persona-degerleri/) var mı?
+* Farklı kategoride benzer amaca hizmet eden [ürün](https://intohuman.com/persona-degerleri/) var mı?
 
 ***Neden Önemli:***
 
@@ -101,4 +101,4 @@ Kırmızı et satıyorsanız, fiyatı belirlerken tavuk eti fiyatlarını da gö
 
 Porter Modelinin bu sorularına cevap vererek, ürününüzün ne kadar ***karlı, rekabetçi ve sürdürülebilir*** olduğunu anlayabilirsiniz.
 
-***[Markalaşma](https://web.archive.org/web/20250713203819/https://intohuman.com/marka-stratejisi-fikir-ozeti/) için takipte kalın.***
+***[Markalaşma](https://intohuman.com/marka-stratejisi-fikir-ozeti/) için takipte kalın.***

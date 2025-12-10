@@ -20,7 +20,7 @@ tags: []
 
 Yahoo’yu, Stanford Üniversitesi’nde doktora öğrencileri olan **David Filo ve Jerry Yang** kurdu.
 
-![Yahoo'nun Çöküşü](https://web.archive.org/web/20250621035059im_/https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-06-15.14.50.png)
+![Yahoo'nun Çöküşü](https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-06-15.14.50.png)
 
 
 ---
@@ -41,7 +41,7 @@ Artık yeni bir rakip vardı.
 
 **Google**
 
-![](https://web.archive.org/web/20250621035059im_/https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-06-15.15.36.png)
+![](https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-06-15.15.36.png)
 
 
 ---
@@ -58,7 +58,7 @@ Sonra stratejik hatalar geldi. 2006’da Yahoo, Facebook’u almak için $1 Mily
 
 ---
 
-Ve sonunda, Temmuz 2016’da Verizon, Yahoo’yu **4.83 milyar dolara** satın almak için anlaştı.[\*](https://web.archive.org/web/20250621035059/https://www.visualcapitalist.com/chart-rise-fall-yahoo/)
+Ve sonunda, Temmuz 2016’da Verizon, Yahoo’yu **4.83 milyar dolara** satın almak için anlaştı.[\*](https://www.visualcapitalist.com/chart-rise-fall-yahoo/)
 
 ---
 
@@ -66,7 +66,7 @@ Ve sonunda, Temmuz 2016’da Verizon, Yahoo’yu **4.83 milyar dolara** satın a
 
 Yahoo bir dönemler internetin yıldızıydı ve geleceği ile ilgili hiçbir endişe duymuyordu. Yahoo, gelişen pazarlar yerine, yalnızca güçlü yanlarına yatırım yaptı.
 
-Bu nedenle Yahoo temelde başarısız bir proje olmasa da iyi yönetilemeyerek potansiyelini tam anlamıyla sergileyemedi. Her şeyden önce Trendleri doğru değerlendiren ve bu alanda yatırım yapan markalar yahoo’yu rekabette geride bırakarak yeni bir dönemi başlattı.[\*](https://web.archive.org/web/20250621035059/https://intohuman.com/tows-modeli/)
+Bu nedenle Yahoo temelde başarısız bir proje olmasa da iyi yönetilemeyerek potansiyelini tam anlamıyla sergileyemedi. Her şeyden önce Trendleri doğru değerlendiren ve bu alanda yatırım yapan markalar yahoo’yu rekabette geride bırakarak yeni bir dönemi başlattı.[\*](https://intohuman.com/tows-modeli/)
 
 Yahoo ise bu yeni dönem için hazır olamadı. Yahoo’nun çöküşü böyle geldi.
 

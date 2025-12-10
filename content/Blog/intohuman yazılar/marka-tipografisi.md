@@ -16,7 +16,7 @@ Bir markanın tipografisinin tonu, marka kimliğini de temsil eder. Bu nedenle b
 
 **1. Serif:** En kolay okunan fonttur fakat küçük yazılarda sorun yaşatabilir. Köklülük için uygun bir seçimdir.  
 Ana değerler: Geleneksel, otorite, saygı, miras, güven  
-[Logo](https://web.archive.org/web/20250428210251/https://intohuman.com/logo/) Örnek: Yale, GAP, TIME, Sony, Volvo, Honda  
+[Logo](https://intohuman.com/logo/) Örnek: Yale, GAP, TIME, Sony, Volvo, Honda  
   
 **2. Sans-Serif:** Web kullanımı için idealdir. Modernliği ön plana çıkaran markalar için uygundur.  
 Ana değerler: Modern, temiz, mesafesiz, evrensel, sade  
@@ -43,7 +43,7 @@ Marka tipografisi belirlemek için aynı zamanda markanızın aşağıdaki algı
 
 **1. Marka Değerlerine Uygunluk**;  
 Markanız yenilikçilik, köklülük, sıra dışılık, kesinlik, sadelik, sağlamlık, özgürlük, çeşitlilik gibi değerlere sahip olabilir. Seçtiğiniz tipografinin de markanızın değerleri ile tutarlı olması beklenir. Köklülüğü ön plana çıkarmak isteyen bir markayı yeni nesil fontlarla ifade etmeye çalıştığınızda müşteride yarattığınız etkinin derecesi azalacaktır.  
-Örnek: [Oatly](https://web.archive.org/web/20250428210251/https://www.oatly.com/int/) – [Fomilk](https://web.archive.org/web/20250428210251/https://www.fomilk.com/tr/)
+Örnek: [Oatly](https://www.oatly.com/int/) – [Fomilk](https://www.fomilk.com/tr/)
 
 **2. Hedef Kitle Uygunluğu**;  
 Markanız çocuklara hitap ediyorsa tipografinizin de onlara uygun olarak okumayı kolaylaştıran, samimi ve daha doğal olması beklenebilir. Aynı şekilde teknoloji takip eden bir hedef kitleye hitap ediyorsanız serifli fontlar yerine modern, keskin hatlı, yenilikçi tipografileri seçmeniz mantıklı olacaktır.  
@@ -62,4 +62,4 @@ Gövde Fontu
 İç iletişim Fontu  
 Web Safe Font
 
-Not: [Netflix Fontları](https://web.archive.org/web/20250428210251/https://www.shufflepost.com/2018/04/06/netflixin-font-secimleri-ve-psikoloji/)
+Not: [Netflix Fontları](https://www.shufflepost.com/2018/04/06/netflixin-font-secimleri-ve-psikoloji/)

@@ -11,7 +11,7 @@ Akıldışı ama öngörülebilir, düşünce biçiminin tetiklemelerinden yola 
 ## A. Fiyat
 
 **1. Menüdeki Ürün Fiyatları**  
-Menüdeki yüksek fiyatlı başlangıç yemeklerinin restoran gelirini artırmasıdır. Kimse onları sipariş etmese bile. Çünkü genellikle insanlar menüdeki en pahalı yemeği almasa da, ikinci en pahalı yemeği ister. Bu yüzden, restoran sahibi pahalı bir yemek yaratarak müşterileri 2. en pahalı tercihi sipariş etmeye çekebilir. ([Ör: Sistem 1 & Sistem 2](https://web.archive.org/web/20250621045753/https://intohuman.com/hizli-ve-yavas-dusunme/))  
+Menüdeki yüksek fiyatlı başlangıç yemeklerinin restoran gelirini artırmasıdır. Kimse onları sipariş etmese bile. Çünkü genellikle insanlar menüdeki en pahalı yemeği almasa da, ikinci en pahalı yemeği ister. Bu yüzden, restoran sahibi pahalı bir yemek yaratarak müşterileri 2. en pahalı tercihi sipariş etmeye çekebilir. ([Ör: Sistem 1 & Sistem 2](https://intohuman.com/hizli-ve-yavas-dusunme/))  
   
 **2. Arzu Nasıl Çalışır?**  
 Birinin bir şeyi çok istemesini sağlamak için tek yapılması gereken o şeyin elde edilmesini zorlaştırmaktır.
@@ -42,7 +42,7 @@ Bağımlılık yapan şeyler, rastgele ödül mekanizmasıyla çalışıyor olab
 
 Instagram, Twitter gibi sosyal mecralar da bundan yararlanıyor. Bir beklentiyle uygulamaları açıyorsunuz ve karşınıza çıkan şey tamamiyle rastlantısal ve bu da sürekli daha fazlasını görmeye teşvik ediyor.
 
-Belirsizlik heyecanı getiriyor ama belirsizliğin maliyetinin fazla olmaması gerekiyor. ([Ör: Nasıl Bağımlı Oluyoruz?](https://web.archive.org/web/20250621045753/http://www.acikbilim.com/2015/03/incelemeler/nasil-bagimli-oluyoruz.html))
+Belirsizlik heyecanı getiriyor ama belirsizliğin maliyetinin fazla olmaması gerekiyor. ([Ör: Nasıl Bağımlı Oluyoruz?](http://www.acikbilim.com/2015/03/incelemeler/nasil-bagimli-oluyoruz.html))
 
 …  
 Akıldışı Ama Öngörülebilir – DAN ARIELY

@@ -50,7 +50,7 @@ Sunduğunuz çözümün tamamen başarısız olduğunu düşünün ve neden baş
 
 Birden fazla problemi önceliklendirmek için aşağıdaki matrisi kullanabilirsiniz.
 
-![](https://web.archive.org/web/20250713204337im_/https://intohuman.com/wp-content/uploads/2022/01/Ekran-Resmi-2022-01-06-21.25.16-1024x576.png)
+![](https://intohuman.com/wp-content/uploads/2022/01/Ekran-Resmi-2022-01-06-21.25.16-1024x576.png)
 
 …
 

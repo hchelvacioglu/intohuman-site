@@ -8,14 +8,14 @@ tags: []
 ---
 Marka logosu, markanın ***ilk izlenimidir.***
 
-![](https://web.archive.org/web/20250519025116im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.18.34.png)
+![](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.18.34.png)
 
 
 ---
 
 Yani ***vitrinidir.***
 
-![](https://web.archive.org/web/20250519025116im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.19.03.png)
+![](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.19.03.png)
 
 
 ---
@@ -24,7 +24,7 @@ Yani ***vitrinidir.***
 
 Logonuz için önce ***marka tonunuzu*** belirleyin.
 
-![](https://web.archive.org/web/20250519025116im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.19.54.png)
+![](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.19.54.png)
 
 
 ---
@@ -39,7 +39,7 @@ Sonra ***logo türünüze*** karar verin.
 
 Örneğin;
 
-![marka logosu](https://web.archive.org/web/20250519025116im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.20.51.png)
+![marka logosu](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.20.51.png)
 
 
 ---
@@ -50,7 +50,7 @@ Sonra ***logo türünüze*** karar verin.
 
 Örneğin;
 
-![marka logosu](https://web.archive.org/web/20250519025116im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.21.17.png)
+![marka logosu](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.21.17.png)
 
 
 ---
@@ -63,7 +63,7 @@ Sonra ***logo türünüze*** karar verin.
 
 Örneğin;
 
-![marka logosu](https://web.archive.org/web/20250519025116im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.22.37.png)
+![marka logosu](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.22.37.png)
 
 
 ---
@@ -74,7 +74,7 @@ Sonra ***logo türünüze*** karar verin.
 
 Örneğin;
 
-![marka logosu](https://web.archive.org/web/20250519025116im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.22.58.png)
+![marka logosu](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.22.58.png)
 
 
 ---
@@ -87,7 +87,7 @@ Sonra ***logo türünüze*** karar verin.
 
 Örneğin;
 
-![marka logosu](https://web.archive.org/web/20250519025116im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.23.34.png)
+![marka logosu](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.23.34.png)
 
 
 ---
@@ -98,7 +98,7 @@ Sonra ***logo türünüze*** karar verin.
 
 Örneğin;
 
-![marka logosu](https://web.archive.org/web/20250519025116im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.24.03.png)
+![marka logosu](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-24-12.24.03.png)
 
 
 ---
@@ -109,15 +109,15 @@ Marka logosu kurumsal kimliğin başlangıcı değil sonucudur. Logo müşterini
 
 Kısacası logo, kurumsal kimlik hikayesinin kahramanıdır. Bu hikayeyi oluşturan fikirler ve koşullar aynı zamanda kahramanı da yaratır.
 
-Sonuç olarak, kurumsal kimlik markanın vermek istediği mesajın tutarlı bir şekilde her noktada tüketiciyle buluşmasına fırsat verir. Bu bütünlük içerisinde tüketici yaşadığı deneyimde bir kopukluk olmadan markanın vadettiği [duygusal faydayı](https://web.archive.org/web/20250519025116/https://intohuman.com/marka-ve-duygular/) yaşar.
+Sonuç olarak, kurumsal kimlik markanın vermek istediği mesajın tutarlı bir şekilde her noktada tüketiciyle buluşmasına fırsat verir. Bu bütünlük içerisinde tüketici yaşadığı deneyimde bir kopukluk olmadan markanın vadettiği [duygusal faydayı](https://intohuman.com/marka-ve-duygular/) yaşar.
 
-Bu nedenle logo markalar için akılda kalıcılık açısından çok kritiktir. Markanın müşterisine kendisiyle ilgili öğretebileceği kısıtlı alanlardandır ([renk, slogan, logo, konsept kavram](https://web.archive.org/web/20250519025116/https://intohuman.com/nasil-daha-pahali-satarim/)).
+Bu nedenle logo markalar için akılda kalıcılık açısından çok kritiktir. Markanın müşterisine kendisiyle ilgili öğretebileceği kısıtlı alanlardandır ([renk, slogan, logo, konsept kavram](https://intohuman.com/nasil-daha-pahali-satarim/)).
 
 Değerlerinizi yansıtmayan ya da bilinçaltında farklı tetiklemeleri çağrıştırabilecek uyumsuzluklar markanın algısına ve tüketicinin satın alma kararlarına ciddi şekilde zarar verir.
 
 ---
 
-Marka logosu bir markanın vitrini olmakla sınırlı kalmaz, [stratejinin](https://web.archive.org/web/20250519025116/https://intohuman.com/marka-stratejisi-fikir-ozeti/) somut halidir.
+Marka logosu bir markanın vitrini olmakla sınırlı kalmaz, [stratejinin](https://intohuman.com/marka-stratejisi-fikir-ozeti/) somut halidir.
 
 Ve şirketlerin markalaşma yolculuğunda, farklılaşan beklentiler rotayı yeniden çizmeye mecbur bırakır. Bu nedenle markalar değişen koşullara göre, önce stratejilerinde sonra logolarında değişime gider.
 
@@ -125,7 +125,7 @@ Ve şirketlerin markalaşma yolculuğunda, farklılaşan beklentiler rotayı yen
 
 Marka logosu, markanın gelişiminin sembolü ve geçmişinin mirasıdır.
 
-[Nike’ın logo hikayesi.](https://web.archive.org/web/20250519025116/https://brandvillage.com.au/how-much-is-the-nike-logo-worth/#:~:text=Nike%20Logo's%20Worth,the%20business%20the%20company%20did.)
+[Nike’ın logo hikayesi.](https://brandvillage.com.au/how-much-is-the-nike-logo-worth/#:~:text=Nike%20Logo's%20Worth,the%20business%20the%20company%20did.)
 
 ---
 

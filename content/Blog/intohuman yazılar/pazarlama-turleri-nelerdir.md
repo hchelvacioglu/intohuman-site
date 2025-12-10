@@ -166,11 +166,11 @@ Akış: Cognitive Objective – Affective Objective – Conative Objective.
 
 **De-Marketing:** Markaların mevcuttaki talebi azaltmak, bitirmek ya da tam tersine kıtlık bilinci oluşturarak ürüne olan talebini arttırmak için uyguladıkları pazarlama çeşitlerindendir.
 
-**[Diversity (Multicultural) Marketing](https://web.archive.org/web/20250519015402/http://tojdac.org/tojdac/VOLUME3-ISSUE1_files/tojdac_v03i101.pdf)**: Markalar, ürünlerini başka kültürlerdeki potansiyel müşterilerine uygun hale getirerek daha fazla satış yapmayı hedeflerler. Ör: Domino’s Kayseri Ateşi  
+**[Diversity (Multicultural) Marketing](http://tojdac.org/tojdac/VOLUME3-ISSUE1_files/tojdac_v03i101.pdf)**: Markalar, ürünlerini başka kültürlerdeki potansiyel müşterilerine uygun hale getirerek daha fazla satış yapmayı hedeflerler. Ör: Domino’s Kayseri Ateşi  
   
 **Next Best Action Marketing:** Her müşteri için satış sürecinde bir sonraki en iyi adımın ne olması gerektiğini tutarlı bir şekilde belirleme girişimidir. Ör: Arabayı sattıktan sonra müşterinin ihtiyacına göre hangi ürünü (Renk, Navigasyon, donanım vb.) önerebileceğinizi öngören stratejidir.
 
-**Scarcity ([Kıtlık](https://web.archive.org/web/20250519015402/https://intohuman.com/baskalarinin-akli/)) Marketing:** Psikolojik temelli olan kıtlık pazarlaması, müşteriye bir şeyleri kaçırdığını ya da kaçırabileceğini düşündürüp satış yapmaya çalışmasıdır. Ör: Pegasus son 2 bilet.
+**Scarcity ([Kıtlık](https://intohuman.com/baskalarinin-akli/)) Marketing:** Psikolojik temelli olan kıtlık pazarlaması, müşteriye bir şeyleri kaçırdığını ya da kaçırabileceğini düşündürüp satış yapmaya çalışmasıdır. Ör: Pegasus son 2 bilet.
 
 **Experiential (Deneyimsel) Marketing:** Tüketiciyi marka ya da ürünle etkileyici ve daha önce denenmemiş şekilde buluşturmayı hedefler.  
   

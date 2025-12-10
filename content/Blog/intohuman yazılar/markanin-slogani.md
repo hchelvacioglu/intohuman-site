@@ -13,15 +13,15 @@ Slogan markanın vitrinidir. Tek bir hedefe oynar. Kısa veya uzun dönemler iç
 Markalar ürüne ya da kampanyaya göre sloganlar üretir.
 
 Daha detaylı bir anlatım için;  
-https://intohuman.com/marka-slogani/[\*](https://web.archive.org/web/20250621052049/https://intohuman.com/marka-slogani/)  
-[instagram içerikleri için.](https://web.archive.org/web/20250621052049/https://www.instagram.com/into.human/)
+https://intohuman.com/marka-slogani/[\*](https://intohuman.com/marka-slogani/)  
+[instagram içerikleri için.](https://www.instagram.com/into.human/)
 
-![marka sloganı](https://web.archive.org/web/20250621052049im_/https://intohuman.com/wp-content/uploads/2022/04/1-16-819x1024.png)
-![marka sloganı](https://web.archive.org/web/20250621052049im_/https://intohuman.com/wp-content/uploads/2022/04/2-14-819x1024.png)
-![marka sloganı](https://web.archive.org/web/20250621052049im_/https://intohuman.com/wp-content/uploads/2022/04/3-12-819x1024.png)
-![marka sloganı](https://web.archive.org/web/20250621052049im_/https://intohuman.com/wp-content/uploads/2022/04/4-12-819x1024.png)
-![](https://web.archive.org/web/20250621052049im_/https://intohuman.com/wp-content/uploads/2022/04/5-12-819x1024.png)
-![](https://web.archive.org/web/20250621052049im_/https://intohuman.com/wp-content/uploads/2022/04/6-12-819x1024.png)
-![](https://web.archive.org/web/20250621052049im_/https://intohuman.com/wp-content/uploads/2022/04/7-12-819x1024.png)
-![](https://web.archive.org/web/20250621052049im_/https://intohuman.com/wp-content/uploads/2022/04/8-11-819x1024.png)
-![](https://web.archive.org/web/20250621052049im_/https://intohuman.com/wp-content/uploads/2022/04/9-6-819x1024.png)
+![marka sloganı](https://intohuman.com/wp-content/uploads/2022/04/1-16-819x1024.png)
+![marka sloganı](https://intohuman.com/wp-content/uploads/2022/04/2-14-819x1024.png)
+![marka sloganı](https://intohuman.com/wp-content/uploads/2022/04/3-12-819x1024.png)
+![marka sloganı](https://intohuman.com/wp-content/uploads/2022/04/4-12-819x1024.png)
+![](https://intohuman.com/wp-content/uploads/2022/04/5-12-819x1024.png)
+![](https://intohuman.com/wp-content/uploads/2022/04/6-12-819x1024.png)
+![](https://intohuman.com/wp-content/uploads/2022/04/7-12-819x1024.png)
+![](https://intohuman.com/wp-content/uploads/2022/04/8-11-819x1024.png)
+![](https://intohuman.com/wp-content/uploads/2022/04/9-6-819x1024.png)

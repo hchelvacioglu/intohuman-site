@@ -6,7 +6,7 @@ draft: false
 originalUrl: "https://intohuman.com/iknanin-psikolojisi/"
 tags: []
 ---
-## [into human.](https://web.archive.org/web/20250428212203/https://intohuman.com/)
+## [into human.](https://intohuman.com/)
 
 Menu
 
@@ -40,7 +40,7 @@ f. Azlık İlkesi: Az olan kıymetlidir.
 
 
 **3. Fiyatlandırma Algısı;**  
-Pek çok araştırma insanların malzemenin kalitesinden emin olmadıklarında stereotip ilkesine başvurduklarını göstermiştir. Daha iyi mal almak isteyen kişi düşük fiyata tenezzül etmemiştir. [Pahalı = iyi, ucuz = kötü kuralı geçerlidir](https://web.archive.org/web/20250428212203/https://intohuman.com/freud-bu-ise-ne-derdi/). Dilimizde ucuz kelimesi aynı zamanda bayağı anlamında da kullanılmaktadır. (Ör: Chivas Regal case)
+Pek çok araştırma insanların malzemenin kalitesinden emin olmadıklarında stereotip ilkesine başvurduklarını göstermiştir. Daha iyi mal almak isteyen kişi düşük fiyata tenezzül etmemiştir. [Pahalı = iyi, ucuz = kötü kuralı geçerlidir](https://intohuman.com/freud-bu-ise-ne-derdi/). Dilimizde ucuz kelimesi aynı zamanda bayağı anlamında da kullanılmaktadır. (Ör: Chivas Regal case)
 
 
 
@@ -58,7 +58,7 @@ Eğer 2. madde 1.’den biraz farklı ise biz onu olduğundan çok daha farklı 
 
 
 **5. Karşılıkta Bulunma Kuralı;**  
-Bu kural, bir başkasının [bize verdiğini bir şekilde geri ödemeliyiz](https://web.archive.org/web/20250428212203/https://intohuman.com/dost-kazanma-ve-insanlari-etkileme-sanati/), demektedir.
+Bu kural, bir başkasının [bize verdiğini bir şekilde geri ödemeliyiz](https://intohuman.com/dost-kazanma-ve-insanlari-etkileme-sanati/), demektedir.
 
 
 
@@ -77,7 +77,7 @@ Kültürel antropologlar bu “borçluluk ağı”nı, bireyleri yüksek verimli
 
 
 **6. İtaat Nasıl Oluşur?;**  
-Şaşırma, itaat oluşturan etkili bir faktördür. Bir talep karşısında şaşıran kişiler çoğunlukla itaat edeceklerdir. Sosyal psikologlar [Stanley Milgram](https://web.archive.org/web/20250428212203/https://en.wikipedia.org/wiki/Stanley_Milgram) ve John Sabini (1975) NYC metrosunda insanların, diğer yolculara birinin yerine oturmayı istediklerini söyleyerek yerlerini istediklerini ima edenlere oranla onları “Afedersiniz. Yerinize oturabilir miyim?” diyerek şaşırtan kişilere yerlerini vermeye daha meyilli olduklarını söylemiştir.
+Şaşırma, itaat oluşturan etkili bir faktördür. Bir talep karşısında şaşıran kişiler çoğunlukla itaat edeceklerdir. Sosyal psikologlar [Stanley Milgram](https://en.wikipedia.org/wiki/Stanley_Milgram) ve John Sabini (1975) NYC metrosunda insanların, diğer yolculara birinin yerine oturmayı istediklerini söyleyerek yerlerini istediklerini ima edenlere oranla onları “Afedersiniz. Yerinize oturabilir miyim?” diyerek şaşırtan kişilere yerlerini vermeye daha meyilli olduklarını söylemiştir.
 
 
 
@@ -230,7 +230,7 @@ Yemek tekniği, itaat profeyonellerinin kendi sevilen özelliklerini fikirlerine
 
 
 
-Bu yüzden radyo programcıları hit bir şarkı çalmadan önce jingle’ların çalmaktadır. Ve yine bu yüzden Tupperware toplantılarında kadınlar bingo oynarlarken kazandıkları zaman ödüllerini almadan önce Bingo yerine Tupperware diye bağırmaktadır. (Ör: [Alışkanlıkların Gücü](https://web.archive.org/web/20250428212203/https://intohuman.com/aliskanliklarin-gucu/))
+Bu yüzden radyo programcıları hit bir şarkı çalmadan önce jingle’ların çalmaktadır. Ve yine bu yüzden Tupperware toplantılarında kadınlar bingo oynarlarken kazandıkları zaman ödüllerini almadan önce Bingo yerine Tupperware diye bağırmaktadır. (Ör: [Alışkanlıkların Gücü](https://intohuman.com/aliskanliklarin-gucu/))
 
 
 
@@ -271,11 +271,11 @@ e. Ulaşılması zor, daha pahalı ürünler
 
 ## Bize ulaşın.
 
-[info@intohuman.com](https://web.archive.org/web/20250428212203/mailto: info@intohuman.com)
+[info@intohuman.com](mailto:info@intohuman.com)
 
 Barbaros Mh. Begonya Sk.   
 Nidakule No:1 Ataşehir / İstanbul
 
-[Linkedin](https://web.archive.org/web/20250428212203/https://www.linkedin.com/company/intohuman/) 
+[Linkedin](https://www.linkedin.com/company/intohuman/) 
 
-[Instagram](https://web.archive.org/web/20250428212203/https://www.instagram.com/into.human/)
+[Instagram](https://www.instagram.com/into.human/)

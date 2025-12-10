@@ -63,7 +63,7 @@ c. Yeni Anneler: Annelik konusunda tecrübeleri yoktur, sorgulanmaktan hoşlanma
 
 #### **3. Her Personanın Üründen/Markadan Beklentisini Tespit Et.**
 
-Grupladığınız personaların ürününüzden beklentileri, motivasyonlarına göre farklılaşacaktır. Ürünün onlarda sağladığı ya da sağlayabileceği faydaları, ürününüzün [marka vaadi](https://web.archive.org/web/20250713211231/https://intohuman.com/marka-vaadi/)ni belirlemek amacıyla segmente etmeniz gerekmektedir. Grupların yaşadıkları bu sorunları daha önce nasıl giderdiklerine bakın. Ürününüzün çözümünün önceki alışkanlıkları nasıl değiştirebileceğine ve temelde ürünün personaların hangi sorunlarını çözebileceğine odaklanın.
+Grupladığınız personaların ürününüzden beklentileri, motivasyonlarına göre farklılaşacaktır. Ürünün onlarda sağladığı ya da sağlayabileceği faydaları, ürününüzün [marka vaadi](https://intohuman.com/marka-vaadi/)ni belirlemek amacıyla segmente etmeniz gerekmektedir. Grupların yaşadıkları bu sorunları daha önce nasıl giderdiklerine bakın. Ürününüzün çözümünün önceki alışkanlıkları nasıl değiştirebileceğine ve temelde ürünün personaların hangi sorunlarını çözebileceğine odaklanın.
 
 **Soru:** Hayatlarının/deneyimlerinin hangi noktasında markanızın duygusal desteğine ihtiyaç duyuyorlar?
 
@@ -80,7 +80,7 @@ Kategorilere ayırdığınız personaları, potansiyel satın alım büyüklüğ
 
 #### **5. Hedef Persona ya da Personalarınızı daha iyi tanıyın.**
 
-a. Hedeflediğiniz personaların [satın alma yolculuğu](https://web.archive.org/web/20250713211231/https://blog.jdrgroup.co.uk/digital-prosperity-blog/what-is-the-buying-funnel-in-marketing)nun neresinde olduğunu tespit edin. Satın almaya hazırlar mı, yoksa ürüne güvenmek için araştırma aşamasındalar mı ya da bu konuda herhangi bir farkındalığa & kategori bilinirliğine sahipler mi?
+a. Hedeflediğiniz personaların [satın alma yolculuğu](https://blog.jdrgroup.co.uk/digital-prosperity-blog/what-is-the-buying-funnel-in-marketing)nun neresinde olduğunu tespit edin. Satın almaya hazırlar mı, yoksa ürüne güvenmek için araştırma aşamasındalar mı ya da bu konuda herhangi bir farkındalığa & kategori bilinirliğine sahipler mi?
 
 b. Personaların ilişkide olduğu başka markaları tespit edin. Bu markaları tespit etmek hedef personanıza nerelerde ulaşabileceğinizi anlamak ve benchmark yaratmak açısından kritiktir.
 

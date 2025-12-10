@@ -14,7 +14,7 @@ Markaların neden ***logoya ihtiyacı var?***
 
 **01. Çünkü duygu verir.**
 
-Markanızın müşteride hissettirmek istediği [duyguları](https://web.archive.org/web/20250621045602/https://intohuman.com/musteri-duygu-satin-alir/) logoda verirsiniz.
+Markanızın müşteride hissettirmek istediği [duyguları](https://intohuman.com/musteri-duygu-satin-alir/) logoda verirsiniz.
 
 ---
 
@@ -52,7 +52,7 @@ Logolara anlam yükleriz ve anlam yüklediğimiz logolara sahip olmak isteriz.
 
 Logo markanızla ilgili her şeyi anlatmaz ama çok şey anlatır.
 
-Markanıza dair [anlamlar](https://web.archive.org/web/20250621045602/https://99designs.com/blog/logo-branding/worlds-most-famous-logos/) yüklediğiniz sessiz bir satış elemanıdır.
+Markanıza dair [anlamlar](https://99designs.com/blog/logo-branding/worlds-most-famous-logos/) yüklediğiniz sessiz bir satış elemanıdır.
 
 ---
 

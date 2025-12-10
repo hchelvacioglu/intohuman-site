@@ -17,7 +17,7 @@ Benzer ürünler aynı fiyata sahip olduğunda, tüketiciler kararlarını ertel
 
 *Bir deneyde;* İki sakızın da fiyatı 63 sent’ken müşterilerin %46’sı satın aldı. Fakat, sakızlar 62 ve 64 sent olduğunda tüketicilerin **%77’si satın aldı.**
 
-![satış tekniği](https://web.archive.org/web/20250713205650im_/https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-13-22.38.14.png)
+![satış tekniği](https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-13-22.38.14.png)
 
 
 ---
@@ -108,6 +108,6 @@ Biz de müşterilerin seçimini kolaylaştırabilecek 7 satış tekniği konular
 
 ---
 
-[Markalaşmak için takip edin.](https://web.archive.org/web/20250713205650/https://www.instagram.com/into.human/)
+[Markalaşmak için takip edin.](https://www.instagram.com/into.human/)
 
-[Diğer makalelere göz atın.](https://web.archive.org/web/20250713205650/https://intohuman.com/makaleler/)
+[Diğer makalelere göz atın.](https://intohuman.com/makaleler/)

@@ -6,7 +6,7 @@ draft: false
 originalUrl: "https://intohuman.com/marka-amaci-nasil-bulunur/"
 tags: []
 ---
-“Marka Amacı Nasıl Bulunur?” [marka stratejisi](https://web.archive.org/web/20250621040258/https://intohuman.com/marka-stratejisi-nasil-olusturulur/) oluşturulurken en temelde cevap aranan sorunun çözümüne dair önemli noktaları açıklamak amacıyla yazılmıştır.
+“Marka Amacı Nasıl Bulunur?” [marka stratejisi](https://intohuman.com/marka-stratejisi-nasil-olusturulur/) oluşturulurken en temelde cevap aranan sorunun çözümüne dair önemli noktaları açıklamak amacıyla yazılmıştır.
 
 #### Markanın Amacı / Var Olma Nedeni Neden Önemli?
 
@@ -14,7 +14,7 @@ Markanın Var Olma Nedeni ya da Marka Amacı bir iletişimsel konumlandırmadır
 
 Birçok marka, stratejisinde ne yaptığını ve nasıl yaptığını anlatabiliyor, fakat niçin bu işi yaptığına dair doyurucu bir cevap veremiyor. Buna cevap verebilen markalar ise tüketicinin duygusal evreninde kendisine sağlam bir yer bulabiliyor ve “nasıl ve ne yaptığını” anlatan markalara göre müşterisiyle daha güçlü bağlar oluşturabiliyor.
 
-Bunun sebebini ise insanların rasyonel varlıklar olmadığı kabulünden yola çıkarak açıklayabiliriz. Daniel Kahneman’ın “[Hızlı ve Yavaş Düşünme](https://web.archive.org/web/20250621040258/https://intohuman.com/hizli-ve-yavas-dusunme/)” kitabında da belirttiği gibi insan zihni hatalara açık ve kararlarımızın %95’ini rasyonel düşünce ile değil, sezgisel ve içgüdüsel olarak alıyoruz. Biz kendimizi her ne kadar rasyonel varlıklar olarak görsek de bizi duygularımız, düşüncelerimizden daha fazla etkiliyor. Bu nedenle kişilerin markalarla ilgili düşüncelerini rasyonel zemine oturtmak yerine duygusal zeminde karşılamak, tüketicilerin sezgi ve içgüdülerine daha fazla hitap etmek anlamına geliyor. İnsanlara kim olduğunuzu ve neden onların hayatında önemli bir yer teşkil ettiğinizi anlatabilirseniz güçlü bağları kurmanız ve sürdürmeniz mümkün olacaktır.
+Bunun sebebini ise insanların rasyonel varlıklar olmadığı kabulünden yola çıkarak açıklayabiliriz. Daniel Kahneman’ın “[Hızlı ve Yavaş Düşünme](https://intohuman.com/hizli-ve-yavas-dusunme/)” kitabında da belirttiği gibi insan zihni hatalara açık ve kararlarımızın %95’ini rasyonel düşünce ile değil, sezgisel ve içgüdüsel olarak alıyoruz. Biz kendimizi her ne kadar rasyonel varlıklar olarak görsek de bizi duygularımız, düşüncelerimizden daha fazla etkiliyor. Bu nedenle kişilerin markalarla ilgili düşüncelerini rasyonel zemine oturtmak yerine duygusal zeminde karşılamak, tüketicilerin sezgi ve içgüdülerine daha fazla hitap etmek anlamına geliyor. İnsanlara kim olduğunuzu ve neden onların hayatında önemli bir yer teşkil ettiğinizi anlatabilirseniz güçlü bağları kurmanız ve sürdürmeniz mümkün olacaktır.
 
 #### “Marka Amacı Nasıl Bulunur” İçin Cevaplanması Gereken Sorular?
 
@@ -35,7 +35,7 @@ Markalar yeni çağda insanların hayatında neden olduğunu anlatmalı ve onlar
 
 **Apple;**  
 İhtiyaç/İnanç: Yerleşik düzeni sorgulamaya ve mevcut olanı farklı yoldan yapmaya inanıyoruz.  
-Çözüm: [Think different](https://web.archive.org/web/20250621040258/https://www.youtube.com/watch?v=5sMBhDv4sik).
+Çözüm: [Think different](https://www.youtube.com/watch?v=5sMBhDv4sik).
 
 **Nike;**  
 İhtiyaç/İnanç: Herkesin içinde bir atlet vardır. Sadece çık ve göster.  

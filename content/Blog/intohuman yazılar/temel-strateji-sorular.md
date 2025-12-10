@@ -70,7 +70,7 @@ tags: []
     * Müşteri iletişimi tonunuz nasıl? (Emir, Açıklayıcı, Üstün, Provokatif, Tanımlayıcı) Slogana nasıl yansırdı?
     * Marka vaadine göre kişinin ne hissetmesini ve kim olmasını istiyorsunuz?  
       .
-11. **Tüketici markadan ne alacak, hangi sebeplerle alacak ve hangi inanç/amaç yüzünden alacak?** (Simon Sinek – [why,how,what](https://web.archive.org/web/20250621041627/https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=tr))  
+11. **Tüketici markadan ne alacak, hangi sebeplerle alacak ve hangi inanç/amaç yüzünden alacak?** (Simon Sinek – [why,how,what](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=tr))  
     .
 12. **Uygulama**
     * Markanız müşterilerine kendi inancını destekleyen hangi farkındalık yaratıcı soruları soracak?

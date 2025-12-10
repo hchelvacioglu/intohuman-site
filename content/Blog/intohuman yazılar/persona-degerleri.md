@@ -16,11 +16,11 @@ Aynı zamanda insanlar bir grubun aidiyetini hissetmek ister. Bu nedenle başka 
 
 ### Ana Persona Değerleri Hangileridir?
 
-**[Milton Rokeach](https://web.archive.org/web/20250621044301/https://en.wikipedia.org/wiki/Milton_Rokeach)**, değerleri ideal davranış tarzları veya yaşam amaçları hakkındaki inançlar olarak tanımlamıştır ve değerleri 2 ana grupta toplamıştır. Bunları ihtiyaç duyulan “Araç Değerler” (Instrumental Values) ve arzulanan “Amaç Değerler” (Terminal Values) isimlendirmiştir. Araç değerler amaç değere ulaşmak için benimsenen davranış tarzı olarak nitelenmiştir. Amaç değerler ise insanın yaşamına yön veren temel değerlerdir. Örnek vermek gerekirse araç değerler hırslı olmak iken, amaç değerler ise başarı olarak farklılaşır.
+**[Milton Rokeach](https://en.wikipedia.org/wiki/Milton_Rokeach)**, değerleri ideal davranış tarzları veya yaşam amaçları hakkındaki inançlar olarak tanımlamıştır ve değerleri 2 ana grupta toplamıştır. Bunları ihtiyaç duyulan “Araç Değerler” (Instrumental Values) ve arzulanan “Amaç Değerler” (Terminal Values) isimlendirmiştir. Araç değerler amaç değere ulaşmak için benimsenen davranış tarzı olarak nitelenmiştir. Amaç değerler ise insanın yaşamına yön veren temel değerlerdir. Örnek vermek gerekirse araç değerler hırslı olmak iken, amaç değerler ise başarı olarak farklılaşır.
 
-![](https://web.archive.org/web/20250621044301im_/https://intohuman.com/wp-content/uploads/2021/02/Ekran-Resmi-2021-02-26-12.30.37.png)
+![](https://intohuman.com/wp-content/uploads/2021/02/Ekran-Resmi-2021-02-26-12.30.37.png)
 
-**[Shalom H. Schwartz](https://web.archive.org/web/20250621044301/https://en.wikipedia.org/wiki/Shalom_H._Schwartz)’ın** ise bu konuda yaptığı çalışmalar, 10 ana insan değerinin olduğunu ortaya çıkarmıştır.
+**[Shalom H. Schwartz](https://en.wikipedia.org/wiki/Shalom_H._Schwartz)’ın** ise bu konuda yaptığı çalışmalar, 10 ana insan değerinin olduğunu ortaya çıkarmıştır.
 
 ### **Bireysel Değerler;**
 
@@ -58,7 +58,7 @@ Kaygı İçeren – Tehditlere karşı kendini koruyan – Kayıpların engellen
 
 ### Değerler ve Alt Değerleri Listesi;
 
-![](https://web.archive.org/web/20250621044301im_/https://intohuman.com/wp-content/uploads/2021/02/Ekran-Resmi-2021-02-26-13.41.51-1024x529.png)
+![](https://intohuman.com/wp-content/uploads/2021/02/Ekran-Resmi-2021-02-26-13.41.51-1024x529.png)
 
 ### **Arketiplere Göre Persona Değerleri;**
 
@@ -119,4 +119,4 @@ Markalar için kategorinin ana değerleri bulunduktan sonra sırasıyla bu değe
 
 **Örnek:** Bir üründen beklentinin pratiklik olarak bulunduğunu düşünelim, pratiklik kişinin işi hızlıca halletmesini sağlayacaktır, bunun sonucunda kişi tatmin hissini yaşacaktır ve son olarak bu onu başarı değerine sahip bir kişi yapacaktır.
 
-İnsanların hayatında önceliklendirdiği değer setlerini ya da üründen beklentilerini yansıttığı cevapları, arzulanan ya da ihtiyaç duyulan değerler olarak sınıflayabiliriz. Markanızın hangisini sahiplenebileceğini belirlemek ise [strateji](https://web.archive.org/web/20250621044301/https://intohuman.com/marka-degerleri/) tarafında kararlaştırılması gereken bir durum.
+İnsanların hayatında önceliklendirdiği değer setlerini ya da üründen beklentilerini yansıttığı cevapları, arzulanan ya da ihtiyaç duyulan değerler olarak sınıflayabiliriz. Markanızın hangisini sahiplenebileceğini belirlemek ise [strateji](https://intohuman.com/marka-degerleri/) tarafında kararlaştırılması gereken bir durum.

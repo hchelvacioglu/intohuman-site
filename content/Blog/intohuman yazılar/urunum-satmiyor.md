@@ -23,27 +23,27 @@ Bu nedenle önce ***markanızın gücünü test edelim***
 
 Her şeyin başı;
 
-Bir markanın başarısı için ***[bilinirlik](https://web.archive.org/web/20250621045300/https://intohuman.com/brand-equity-nedir/) olmazsa olmazdır.***
+Bir markanın başarısı için ***[bilinirlik](https://intohuman.com/brand-equity-nedir/) olmazsa olmazdır.***
 
-Ne kadar iyi kurgulanırsa kurgulansın bir markanın önce [müşterisine](https://web.archive.org/web/20250621045300/https://intohuman.com/temas-noktasi/) erişebilmesi gerekir.  
+Ne kadar iyi kurgulanırsa kurgulansın bir markanın önce [müşterisine](https://intohuman.com/temas-noktasi/) erişebilmesi gerekir.  
 Bu konuda bir problem olup olmadığını anlayın.
 
 ### **02. Markamızın iddiası, vaadi müşteri beklentisini karşılıyor mu?**
 
-Müşterinin derdine derman olmayan, bir sorununu [çözemeyen](https://web.archive.org/web/20250621045300/https://intohuman.com/matkap-satma-delik-sat/) hiçbir marka başarıya ulaşamaz.
+Müşterinin derdine derman olmayan, bir sorununu [çözemeyen](https://intohuman.com/matkap-satma-delik-sat/) hiçbir marka başarıya ulaşamaz.
 
-Bu nedenle [marka fikrinizin](https://web.archive.org/web/20250621045300/https://intohuman.com/marka-fikri/) müşteri sorunlarını ***çözüp çözmediğini sorgulayın.***
+Bu nedenle [marka fikrinizin](https://intohuman.com/marka-fikri/) müşteri sorunlarını ***çözüp çözmediğini sorgulayın.***
 
 ### **03. Ürünün satın alınmasıyla ilgili sorun mu var?**
 
-A. Ürünün fiyatı müşteriler için çok yüksek olabilir. Müşteriler [fiyatınızı](https://web.archive.org/web/20250621045300/https://intohuman.com/olum-bolgesi/) ödemeye razı olmayabilir.
+A. Ürünün fiyatı müşteriler için çok yüksek olabilir. Müşteriler [fiyatınızı](https://intohuman.com/olum-bolgesi/) ödemeye razı olmayabilir.
 
-B. Müşteri ürünü bulamıyor ya da [rekabet](https://web.archive.org/web/20250621045300/https://intohuman.com/porter-5-guc-modeli/) yüzünden göremiyor olabilir.
+B. Müşteri ürünü bulamıyor ya da [rekabet](https://intohuman.com/porter-5-guc-modeli/) yüzünden göremiyor olabilir.
 
 ### **04. Satın alanlar, tekrar satın almıyor olabilirler mi?**
 
 Tüketiciler üründen memnun olmayabilir.   
-Daha önceden ürününüzü satın alan [kişilere sorun.](https://web.archive.org/web/20250621045300/https://intohuman.com/temel-arastirma-sorulari/)
+Daha önceden ürününüzü satın alan [kişilere sorun.](https://intohuman.com/temel-arastirma-sorulari/)
 
 Müşterilerinizden gelecek yanıtlara göre markanızı gözden geçirin, gerekirse geliştirin.  
 Tekrar başlayın.

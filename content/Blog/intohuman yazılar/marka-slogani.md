@@ -38,14 +38,14 @@ iPhone 12: Blast Past Fast
 
 ### **Marka Sloganı Nasıl Bulunur?**
 
-**1. Markanın [Amacı](https://web.archive.org/web/20250713194834/https://intohuman.com/marka-amaci-nasil-bulunur/) ve Vizyonu nedir? Mottonuz Nedir?**
+**1. Markanın [Amacı](https://intohuman.com/marka-amaci-nasil-bulunur/) ve Vizyonu nedir? Mottonuz Nedir?**
 
 Şirket sloganı, ürün sloganına dönüşebilir. Bu nedenle şirketin var olma amacını ve insanlara ilham verdiğiniz konuları slogana dönüştürebilirsiniz. Markanızın müşterinize hissettirmesini istediğiniz ana duygu mottonuzu şekillendirecektir.  
 **Örnek:**Apple – Think Different  
 Adidas – Impossible is nothing  
 Nike – Just do it.
 
-**2. Marka [Vaadiniz](https://web.archive.org/web/20250713194834/https://intohuman.com/marka-vaadi/) Nedir? Müşteri İçin Ana Faydayı Ne Oluşturur?**
+**2. Marka [Vaadiniz](https://intohuman.com/marka-vaadi/) Nedir? Müşteri İçin Ana Faydayı Ne Oluşturur?**
 
 Markanızın müşteriye sağladığı temel faydaları üzerinden slogan üretebilirsiniz.
 
@@ -57,7 +57,7 @@ IKEA – Evinizin her şeyi – Çeşitlilik
 Coca-Cola – Hayatın Tadı – Mutluluk  
 Profilo – Dayanıklı ev aletleri – Dayanıklılık
 
-**3. Markanız/Ürününüz Nasıl Bir Kişiliğe/[Arketip](https://web.archive.org/web/20250713194834/https://intohuman.com/marka-arketipi/)e Sahip?**
+**3. Markanız/Ürününüz Nasıl Bir Kişiliğe/[Arketip](https://intohuman.com/marka-arketipi/)e Sahip?**
 
 Pazarda bilge olarak mı yoksa hükümdar olarak mı konumlanıyorsunuz. İnsanların yanında olup destek sunmak için mi yoksa üstünlüğünüzü gösterip onları prestijli hissettirmek için mi pazardasınız.
 
@@ -79,7 +79,7 @@ e. Tanımlayıcı: Sloganınız kategoriyi mi tanımlayacak? Dove – Real Beaut
 
 ### **İyi Slogan Nasıl Oluşturulur?**
 
-[Al Ries](https://web.archive.org/web/20250713194834/https://en.wikipedia.org/wiki/Al_Ries)’ın hatırlanabilir sloganlar için uyulması gerekn 5 kuralı;
+[Al Ries](https://en.wikipedia.org/wiki/Al_Ries)’ın hatırlanabilir sloganlar için uyulması gerekn 5 kuralı;
 
 **a. Kafiye (Fonetik, Morfolojik):**  
 Kelimelerin sonundaki kafiyeye odaklanır.  

@@ -9,7 +9,7 @@ draft: false
 originalUrl: 'https://intohuman.com/cozumler/'
 tags: []
 ---
-## [into human.](https://web.archive.org/web/20250519025334/https://intohuman.com/)
+## [into human.](https://intohuman.com/)
 
 Menu
 
@@ -33,11 +33,11 @@ Bu workshoplar, 1 günde şirket yönetimi, çalışanları, müşterileri veya 
 
 ## Bize ulaşın.
 
-[info@intohuman.com](https://web.archive.org/web/20250519025334/mailto: info@intohuman.com)
+[info@intohuman.com](mailto:info@intohuman.com)
 
 Barbaros Mh. Begonya Sk.   
 Nidakule No:1 Ataşehir / İstanbul
 
-[Linkedin](https://web.archive.org/web/20250519025334/https://www.linkedin.com/company/intohuman/) 
+[Linkedin](https://www.linkedin.com/company/intohuman/) 
 
-[Instagram](https://web.archive.org/web/20250519025334/https://www.instagram.com/into.human/)
+[Instagram](https://www.instagram.com/into.human/)

@@ -48,7 +48,7 @@ Ve değişime başlarken karşılaştığınız zor durumlarda kendinize şu sor
 
 – Karşılaştığım bu durum benim için nasıl bir fırsat sağlayabilir?  
 – Bu zorluğun bana öğrettiklerini ne şekilde kullanabilirim?  
-– Yeni bir şey öğrenmenin mücadelesini aşarsam, bu beni nerelere götürebilir?[\*](https://web.archive.org/web/20250621045826/https://intohuman.com/etkin-ogrenme-icin-amac-belirlemek/)  
+– Yeni bir şey öğrenmenin mücadelesini aşarsam, bu beni nerelere götürebilir?[\*](https://intohuman.com/etkin-ogrenme-icin-amac-belirlemek/)  
 – Arzuladığım duruma ulaşmak için atabileceğim en küçük adım nedir?  
 – Bu zorluğu aşma konusunda çözümün bir parçası nasıl olabilirim?  
 – Bu zorluğu aştığım durumda, beni daha büyük bir fırsata götürebilir mi?

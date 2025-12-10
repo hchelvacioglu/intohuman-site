@@ -10,7 +10,7 @@ Literatür araştırması hedef kitleniz ve kategoriyle ilgili sonuçlara çabuk
 
 ### Neden Önemli?
 
-Marka stratejisini tasarlarken eğer kategori ve hedef kitle konusunda araştırma yapmadıysanız ve kişisel içgörülerinizden yola çıkacaksınız, mutlaka bir literatür araştırmasına ihtiyacınız olacaktır. Çünkü kişisel içgörüleriniz sizin yaşadığınız deneyimlerden dolayı her zaman subjektif olacaktır, bu nedenle bilimsel olarak [kalitatif ve kantitatif](https://web.archive.org/web/20250621035743/https://intohuman.com/pazarlama-arastirmasi-nedir-nasil-yapilir/) araştırmalardan içgörüler elde etmek daha objektif ve tutarlı bir yaklaşımı beraberinde getirecektir.
+Marka stratejisini tasarlarken eğer kategori ve hedef kitle konusunda araştırma yapmadıysanız ve kişisel içgörülerinizden yola çıkacaksınız, mutlaka bir literatür araştırmasına ihtiyacınız olacaktır. Çünkü kişisel içgörüleriniz sizin yaşadığınız deneyimlerden dolayı her zaman subjektif olacaktır, bu nedenle bilimsel olarak [kalitatif ve kantitatif](https://intohuman.com/pazarlama-arastirmasi-nedir-nasil-yapilir/) araştırmalardan içgörüler elde etmek daha objektif ve tutarlı bir yaklaşımı beraberinde getirecektir.
 
 Bazen de yaptığınız kalitatif araştırmaları kantitatif ya da tersi şeklinde desteklemeniz gerekir. Çünkü bu iki araştırma tarzı da ya çok detay ya da çok geniş bilgileri sunar, ikisini buluşturabilmek doğru bir strateji adına fark yaratır.
 

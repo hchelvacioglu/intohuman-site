@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://intohuman.com/'
 title = 'IntoHuman'
 languageCode = 'tr-TR'
 theme = 'hextra'

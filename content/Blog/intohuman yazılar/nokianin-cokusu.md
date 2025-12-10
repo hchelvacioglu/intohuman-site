@@ -10,7 +10,7 @@ tags: []
 
 ---
 
-Nokia yazılımın önemini anlayamadı. Akıllı telefonlara geçişi hafife aldı. Ve bu, şimdi bakıldığında, bir şirketin **geçmişteki başarısına hapsolmasının** klasik bir örneğiydi.” – James Surowiecki[\*](https://web.archive.org/web/20250428210912/https://twitter.com/JamesSurowiecki)
+Nokia yazılımın önemini anlayamadı. Akıllı telefonlara geçişi hafife aldı. Ve bu, şimdi bakıldığında, bir şirketin **geçmişteki başarısına hapsolmasının** klasik bir örneğiydi.” – James Surowiecki[\*](https://twitter.com/JamesSurowiecki)
 
 ---
 
@@ -48,12 +48,12 @@ Windows ile beraber geliştirdiği ürünleri yeterince **rekabetçi değildi**.
 
 1970’de başlayan ve 2000’lerde zirvede olan Nokia telefon macerası, 2014’te patentlerini **Windows’a satarak sona erdi**.
 
-![Nokia'nın Çöküşü](https://web.archive.org/web/20250428210912im_/https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-03-14.30.06-1024x724.png)
+![Nokia'nın Çöküşü](https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-03-14.30.06-1024x724.png)
 
 
 ---
 
-Markalar gelişme sürecinde her zaman yanlış kararlar verir ve bunlardan ders çıkarmak genelde markayı uzun vadede daha da büyütür.[\*](https://web.archive.org/web/20250428210912/https://intohuman.com/marka-stratejisi-fikir-ozeti/)
+Markalar gelişme sürecinde her zaman yanlış kararlar verir ve bunlardan ders çıkarmak genelde markayı uzun vadede daha da büyütür.[\*](https://intohuman.com/marka-stratejisi-fikir-ozeti/)
 
 Fakat yanlış stratejiler markaları felakete sürükler, çünkü sonuçları analiz ederkenki filtreler yanlıştır bu nedenle neden-sonuç ilişkileri yanlış kurulur ve ders ancak iş olup bittikten sonra alınabilir, yani çok geçtir. Nokia’nın çöküşü bu hikayelere bir yenisini daha ekledi.
 

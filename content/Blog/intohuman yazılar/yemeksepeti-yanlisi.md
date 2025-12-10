@@ -63,9 +63,9 @@ Yemeksepeti, kendisini bir Türkiye devi haline getiren müşteri faydalarını 
 
 ---
 
-[Markalaşmak için takip edin.](https://web.archive.org/web/20250519014936/https://www.instagram.com/into.human/)
+[Markalaşmak için takip edin.](https://www.instagram.com/into.human/)
 
-[Diğer makaleleri okuyun.](https://web.archive.org/web/20250519014936/https://intohuman.com/makaleler/)
+[Diğer makaleleri okuyun.](https://intohuman.com/makaleler/)
 
 ---
 

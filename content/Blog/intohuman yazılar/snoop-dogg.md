@@ -20,9 +20,9 @@ Geçtiğimiz haftalarda Snoop Dogg ve Solo Stove’un iş birliği **oldukça se
 
 ***Kampanya;***
 
-***01.*** S.D. gizemli bir mesajla “dumanı” (sigarayı) bıraktı.[\*](https://web.archive.org/web/20250621042746/https://www.youtube.com/watch?v=HSYYhwMWk-Y)
+***01.*** S.D. gizemli bir mesajla “dumanı” (sigarayı) bıraktı.[\*](https://www.youtube.com/watch?v=HSYYhwMWk-Y)
 
-![Snoop Dogg](https://web.archive.org/web/20250621042746im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-31-10.54.25.png)
+![Snoop Dogg](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-31-10.54.25.png)
 
 
 ---
@@ -37,12 +37,12 @@ Ve bu viral etkisiyle **bir anda tüm dünyaya yayıldı.**
 
 Ve bizi Solo Stove’un “**dumansız**” ateş ocağıyla tanıştırdı.
 
-![Snoop Dogg](https://web.archive.org/web/20250621042746im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-31-10.54.04.png)
+![Snoop Dogg](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-31-10.54.04.png)
 
 
 ---
 
-2 haftalık bu kampanya, markanın **bilinmesini** ve ürünün **farklılaştırıcı** özelliğinin anlaşılmasını sağladı.[\*](https://web.archive.org/web/20250621042746/https://intohuman.com/marka-vaadi-deneyimdir/)
+2 haftalık bu kampanya, markanın **bilinmesini** ve ürünün **farklılaştırıcı** özelliğinin anlaşılmasını sağladı.[\*](https://intohuman.com/marka-vaadi-deneyimdir/)
 
 ---
 

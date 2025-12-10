@@ -18,7 +18,7 @@ Fakat Çin bu kabulü yıktı ve markalaşmayı başardı.
 
 ---
 
-Çin’in dev şirketleri. [\*](https://web.archive.org/web/20250519030231/https://www.statista.com/statistics/259063/most-valuable-chinese-brands/)
+Çin’in dev şirketleri. [\*](https://www.statista.com/statistics/259063/most-valuable-chinese-brands/)
 
 Çinli şirketler, dünyadaki rakiplerine pazar payında üstünlük sağladı ve değerli markalar yarattı.
 
@@ -42,7 +42,7 @@ Böylelikle Çin denilince akla gelen kavramlara ***teknolojiyi*** ekledi.
 
 ---
 
-### **03. Çinli şirketler trendleri takip etti.** [\*](https://web.archive.org/web/20250519030231/https://intohuman.com/guclu-markalar-yaratmak/)
+### **03. Çinli şirketler trendleri takip etti.** [\*](https://intohuman.com/guclu-markalar-yaratmak/)
 
 Çin markaları dünyada yükselen trendlere göre marka stratejileri oluşturdu.
 

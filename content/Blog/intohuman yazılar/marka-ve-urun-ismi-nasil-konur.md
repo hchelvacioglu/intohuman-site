@@ -12,9 +12,9 @@ tags: []
 
 Bunu anlatmak için önce küçük bir test ile başlayabiliriz. Bouba ve Kiki isimlerini düşünelim. Sizce aşağıdaki şekillerden hangisi Bouba, hangisi Kiki olurdu?
 
-![Marka ve Ürün İsmi Nasıl Konur?](https://web.archive.org/web/20250519021623im_/https://intohuman.com/wp-content/uploads/2020/11/Bouba.png)
+![Marka ve Ürün İsmi Nasıl Konur?](https://intohuman.com/wp-content/uploads/2020/11/Bouba.png)
 
-Amerikan Lisans öğrencilerinin ve [Tamilce](https://web.archive.org/web/20250519021623/https://tr.wikipedia.org/wiki/Tamilce) konuşanların katıldığı Hindistan’da gerçekleştirilen deneyde katılımcılara “Bu şekillerden hangisi bouba hangisi kiki?” sorusu yöneltildi. Her iki grupta %95 ve %98 oranında sivri köşeli şekle verilen isim “kiki”, yuvarlak köşeli şekle verilen isim ise “bouba” oldu.
+Amerikan Lisans öğrencilerinin ve [Tamilce](https://tr.wikipedia.org/wiki/Tamilce) konuşanların katıldığı Hindistan’da gerçekleştirilen deneyde katılımcılara “Bu şekillerden hangisi bouba hangisi kiki?” sorusu yöneltildi. Her iki grupta %95 ve %98 oranında sivri köşeli şekle verilen isim “kiki”, yuvarlak köşeli şekle verilen isim ise “bouba” oldu.
 
 Araştırmacılar bu deneyin ardından ortaya kelimeler ve onların çağrıştırdıkları ile ilgili tezler öne sürdüler ve kurulan bu ilişkinin nedeninin kelimelerin söylenişi sırasında ağzın aldığı şekil dolayısıyla gerçekleşebileceğini belirttiler.
 
@@ -50,7 +50,7 @@ Daha öne anlamı olmayan kelimeler olarak somuttan soyuta ise;
 
 Olmak üzere 3 sınıfta yer alabilir.
 
-![Marka ve Ürün İsmi Nasıl Konur?](https://web.archive.org/web/20250519021623im_/https://intohuman.com/wp-content/uploads/2020/11/Marka-İsim.png)
+![Marka ve Ürün İsmi Nasıl Konur?](https://intohuman.com/wp-content/uploads/2020/11/Marka-İsim.png)
 
 #### d. Marka İsminin Analizi;
 
@@ -70,13 +70,13 @@ C. Arkadalık – Öndelik: (A,O,Ö,E) – (I,U,Ü,İ)
 
 Aşağıdaki tablo diğer kelimeler için söylenirken dudak, dil ve dişlerin aldığı şekli belirtiyor;
 
-![Marka ve Ürün İsmi Nasıl Konur?](https://web.archive.org/web/20250519021623im_/https://intohuman.com/wp-content/uploads/2020/11/fonetik.png)
+![Marka ve Ürün İsmi Nasıl Konur?](https://intohuman.com/wp-content/uploads/2020/11/fonetik.png)
 
-**Şekilsel:** İsmin görünümünün markaya bir katkı sunup sunmadığına bakılır. [Fedex](https://web.archive.org/web/20250519021623/https://www.logaster.com/blog/fedex-logo/)’in isminin logoya ok şeklinde katkıda bulunması ya da Sony [vaio](https://web.archive.org/web/20250519021623/https://imjustcreative.com/the-sony-vaio-logo/2015/08/14)’daki v ve a harfinin yanyana bulunması şekilsel açıdan markanın vaadine katkıda bulunabilir.
+**Şekilsel:** İsmin görünümünün markaya bir katkı sunup sunmadığına bakılır. [Fedex](https://www.logaster.com/blog/fedex-logo/)’in isminin logoya ok şeklinde katkıda bulunması ya da Sony [vaio](https://imjustcreative.com/the-sony-vaio-logo/2015/08/14)’daki v ve a harfinin yanyana bulunması şekilsel açıdan markanın vaadine katkıda bulunabilir.
 
 ### **Marka İsmi Nasıl Test Edilir?**
 
-a. [Markanın değerleri](https://web.archive.org/web/20250519021623/https://intohuman.com/marka-stratejisi-nasil-olusturulur/)ni kapsıyor mu?  
+a. [Markanın değerleri](https://intohuman.com/marka-stratejisi-nasil-olusturulur/)ni kapsıyor mu?  
 Yeniliği ve vizyonerliği ön plana çıkarmaya çalışan bir markaya kültür olarak eskiye ait bir isim (Ör: Kervan) uymayacaktır.
 
 b. Markanızın ismi rakiplerinden ayrışıyor mu?  

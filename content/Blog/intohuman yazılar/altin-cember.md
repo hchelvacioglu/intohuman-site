@@ -10,9 +10,9 @@ Simon Sinek’in Altın Çember formülüne göre başarılı markalar nasıl ya
 
 ---
 
-![Altın Çember](https://web.archive.org/web/20250519022633im_/https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-30-12.34.36.png)
+![Altın Çember](https://intohuman.com/wp-content/uploads/2024/01/Ekran-Resmi-2024-01-30-12.34.36.png)
 
-Simon Sinek ***Golden Circle Modeli***[\*](https://web.archive.org/web/20250519022633/https://simonsinek.com/golden-circle/)
+Simon Sinek ***Golden Circle Modeli***[\*](https://simonsinek.com/golden-circle/)
 
 Marka hikayesi dışarıdan içeri değil, ***içeriden dışarı kurgulanmalıdır.***
 
@@ -73,7 +73,7 @@ Markalar vahşi bir rekabetin içerisinde farklılaşmaya çalışıyorlar. Eğe
 
 Bu rekabet içerisinde ürünüyle farklılaşamayan markalar tüketiciye duygusal bir fayda sunmak zorunda kalır. Bu nedenle işe kim olduklarını ve neden bu işe girdiklerini anlatarak başlarlar. Bu ilham vermenin ilk adımıdır. Simon Sinek’in tasarladığı Altın Çember bunu bulmanızı sağlar.
 
-İlhamınıza ve vizyonunuza gerçekten inanan tüketiciler, markanızın da sadık bir müşterisi olacaklardır.[\*](https://web.archive.org/web/20250519022633/https://intohuman.com/marka-amaci/)
+İlhamınıza ve vizyonunuza gerçekten inanan tüketiciler, markanızın da sadık bir müşterisi olacaklardır.[\*](https://intohuman.com/marka-amaci/)
 
 ---
 

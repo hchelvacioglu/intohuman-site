@@ -30,7 +30,7 @@ Ve bu logo Portland State University öğrencisi Carolyn Davidson’a ***35 dola
 
 ---
 
-Nike’ın kurucusu [Phil Knight](https://web.archive.org/web/20250713195223/https://en.wikipedia.org/wiki/Phil_Knight)‘ın logoyla ilgili ilk yorumu ise ilginçti;
+Nike’ın kurucusu [Phil Knight](https://en.wikipedia.org/wiki/Phil_Knight)‘ın logoyla ilgili ilk yorumu ise ilginçti;
 
 **“Evet çok sevmedim ama belki zamanla daha çekici hale gelir.”**
 
@@ -52,7 +52,7 @@ hikayeye dönüştürmüştü ve bu “hareketle ilgisi olan” bir şeyi gerçe
 
 ---
 
-***Bu yüzden [logoya](https://web.archive.org/web/20250713195223/https://intohuman.com/logo/) karar verirken***
+***Bu yüzden [logoya](https://intohuman.com/logo/) karar verirken***
 
 **01.** Logonuz bir şekilde markanızın hikayesiyle uyuşuyor mu?
 

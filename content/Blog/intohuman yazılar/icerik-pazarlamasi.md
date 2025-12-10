@@ -30,7 +30,7 @@ markaların, müşterileriyle etkileşime geçmesi için çok önemli bir araç.
 * Marka sadakati oluşturmak
 * Arama motoru optimizasyonlarında ön plana çıkmak için,
 
-içerik pazarlaması tercih ediyor.[\*](https://web.archive.org/web/20250713193133/https://intohuman.com/zeynep-bastik/)
+içerik pazarlaması tercih ediyor.[\*](https://intohuman.com/zeynep-bastik/)
 
 ---
 
@@ -38,7 +38,7 @@ Fakat içerik, bilinenin aksine her zaman markanın hazırladığı video, blog 
 
 ---
 
-### **01. Canva Design Challenge.**[\*](https://web.archive.org/web/20250713193133/https://www.canva.com/design-challenge/)
+### **01. Canva Design Challenge.**[\*](https://www.canva.com/design-challenge/)
 
 Canva, haftalık temalar üzerinden kullanıcıları arasında yarışmalar düzenliyor.
 

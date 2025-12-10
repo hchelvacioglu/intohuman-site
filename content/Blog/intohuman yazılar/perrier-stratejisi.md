@@ -21,7 +21,7 @@ Starck’ın tasarımı, optik oyunlardan ilham alıyor.
 
 Şişedeki yatay çizgiler, ışığı ve görünümü dönüştürerek **şişenin içindeki enerjiyi** vurguluyor.
 
-![Perrier Stratejisi](https://web.archive.org/web/20250621044856im_/https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-12-11.55.59.png)
+![Perrier Stratejisi](https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-12-11.55.59.png)
 
 
 ---
@@ -30,7 +30,7 @@ Perrier, geçmişte **Andy Warhol ve Murakami** ile de çalışmıştı.
 
 Starck ile **bu mirası ileriye taşıdı.**
 
-![Perrier Stratejisi](https://web.archive.org/web/20250621044856im_/https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-12-11.56.31.png)
+![Perrier Stratejisi](https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-12-11.56.31.png)
 
 
 ---
@@ -63,9 +63,9 @@ Markalar, ürünlerden değil **duygulardan beslenir.**
 
 ---
 
-[Markalaşmak için takip edin.](https://web.archive.org/web/20250621044856/https://www.instagram.com/into.human/)
+[Markalaşmak için takip edin.](https://www.instagram.com/into.human/)
 
-[Diğer makalelere göz atın.](https://web.archive.org/web/20250621044856/https://intohuman.com/makaleler/)
+[Diğer makalelere göz atın.](https://intohuman.com/makaleler/)
 
 ---
 

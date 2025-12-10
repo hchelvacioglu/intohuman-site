@@ -34,9 +34,9 @@ Duygusal fayda ürüne ya da markaya sahip olduğunda kişinin hissedeceği ya d
 
 ### İhtiyaç / Motivasyon Haritası;
 
-![](https://web.archive.org/web/20250621053217im_/https://intohuman.com/wp-content/uploads/2021/03/Ekran-Resmi-2021-03-20-02.07.42.png)
+![](https://intohuman.com/wp-content/uploads/2021/03/Ekran-Resmi-2021-03-20-02.07.42.png)
 
-#### **[Arketipler](https://web.archive.org/web/20250621053217/https://intohuman.com/marka-arketipi/) ve İhtiyaç Haritası;**
+#### **[Arketipler](https://intohuman.com/marka-arketipi/) ve İhtiyaç Haritası;**
 
 Hükümdar: Kontrol + Statü  
 Masum: İç Tatmin  
@@ -68,7 +68,7 @@ d. Çevresinde nasıl görünmek istiyor? Başkaları onun hakkında ne söylesi
 e. Ürünü sorunsuz bir şekilde kullandığında ne hissediyor?
 
 Sonuç;  
-a. Onu hedefine/arzusuna ulaşmasından alıkoyan nedir? Nasıl engelleri var? ([Temel içgörü](https://web.archive.org/web/20250621053217/https://intohuman.com/marka-amaci-nasil-bulunur/))  
+a. Onu hedefine/arzusuna ulaşmasından alıkoyan nedir? Nasıl engelleri var? ([Temel içgörü](https://intohuman.com/marka-amaci-nasil-bulunur/))  
 b. Hedeflerini gerçekleştirirse neyin tatminini yaşayacak? (Haz Noktası)
 
 ### EK: İhtiyaç ve Motivasyon.

@@ -6,7 +6,7 @@ draft: false
 originalUrl: "https://intohuman.com/marka-yaratmanin-22-kurali-al-laura-ries/"
 tags: []
 ---
-## [into human.](https://web.archive.org/web/20250621040915/https://intohuman.com/)
+## [into human.](https://intohuman.com/)
 
 Menu
 
@@ -50,7 +50,7 @@ Bir marka, tüketicinin zihninde bir kelimeye sahip olmaya çalışmalıdır.
 
 Prestij Mercedes için ne ise, güvenlik de Volvo için öyledir. Volvo otomobil alıcılarının zihnindeki “güvenlik” kelimesinin sahibidir. Fedex ise overnight kelimesini marka faydası olarak belirlediği için pazarda önemli bir yer edinmiştir.
 
-#### **Kural 6: Referans Kuralı** ([\*](https://web.archive.org/web/20250621040915/https://intohuman.com/marka-vaadi/))
+#### **Kural 6: Referans Kuralı** ([\*](https://intohuman.com/marka-vaadi/))
 
 Herhangi bir markanın başarısı için vazgeçilmez unsur, otantiklik iddiasıdır.
 
@@ -64,13 +64,13 @@ Benzer ürünler ve benzer fiyatlar denizine açılacak bir marka için en iyi s
 
 Rolex eşsiz görünen bir kordonla, saatlerini daha büyük ve ağır yaptı. Montblanc kalemlerini daha tombul yaptı. Chivas Regal viskisini daha fazla eskitti.
 
-#### **Kural 8: Kategori Kuralı** ([\*](https://web.archive.org/web/20250621040915/https://intohuman.com/kategori/))
+#### **Kural 8: Kategori Kuralı** ([\*](https://intohuman.com/kategori/))
 
 Lider marka kategoriyi geliştirmeye çalışır, markayı değil.
 
 İlkseniz, kategoriyi herkesten önce oluşturabilirsiniz. Konseptle çağrışım içinde olacak tek markasınızdır. Dolarlarınızı konseptin kendisine yatırmalısınız, böylece konsept harekete geçecek ve markayı da beraberinde götürecektir.
 
-#### **Kural 9: İsim Kuralı** ([\*](https://web.archive.org/web/20250621040915/https://intohuman.com/marka-ve-urun-ismi-nasil-konur/))
+#### **Kural 9: İsim Kuralı** ([\*](https://intohuman.com/marka-ve-urun-ismi-nasil-konur/))
 
 Uzun vadede bir marka, bir isimden başka bir şey değildir.
 
@@ -84,7 +84,7 @@ Bir kategoriyi yaratabilmek için, bir markanın diğer markları da davet etmes
 
 Seçebilmek talebi harekete geçirir. Coca-cola ve pepsi arasındaki rekabet, tüketicileri kola konusunda daha bilinçli yapar, kişi başına tüketim artar.
 
-#### **Kural 12: Jenerik Kuralı** ([\*](https://web.archive.org/web/20250621040915/https://tr.wikipedia.org/wiki/Jenerik_marka))
+#### **Kural 12: Jenerik Kuralı** ([\*](https://tr.wikipedia.org/wiki/Jenerik_marka))
 
 Başarısızlığa giden en kısa yollardan biri, markaya bir jenerik isim vermektir.
 
@@ -94,7 +94,7 @@ Jenerik isim havada yok olur gider. Yalnızca marka ismi zihne kaydolur. Genel o
 
 Markalar markalardır. Şirketler şirket. Arada bir fark var. Kurumsal destek, ticaret içindir, tüketicileri aydınlatmak için değil.
 
-#### **Kural 14: Alt marka Kuralı** ([\*](https://web.archive.org/web/20250621040915/https://intohuman.com/alt-marka-yaratmaya-nasil-karar-verilir/))
+#### **Kural 14: Alt marka Kuralı** ([\*](https://intohuman.com/alt-marka-yaratmaya-nasil-karar-verilir/))
 
 Markalaşmanın yaptığını, alt marka yaratma yıkabilir.
 
@@ -104,11 +104,11 @@ Markalaşmanın yaptığını, alt marka yaratma yıkabilir.
 
 Bir markanın gücü, bağımsız ve benzersiz bir kimliğe sahip olmasında yatar, tüketici zihninde tamamen farklı bir kategorideki bir markayla çağrışıma sahip olmasında değil.
 
-#### **Kural 16: Biçim Kuralı** ([\*](https://web.archive.org/web/20250621040915/https://intohuman.com/logo/))
+#### **Kural 16: Biçim Kuralı** ([\*](https://intohuman.com/logo/))
 
 Bir markanın logosu gözlere uygun olarak tasarlanmalıdır.
 
-#### **Kural 17: Renk Kuralı** ([\*](https://web.archive.org/web/20250621040915/https://intohuman.com/renk-psikolojisi/))
+#### **Kural 17: Renk Kuralı** ([\*](https://intohuman.com/renk-psikolojisi/))
 
 Bir marka, ana rakibinin kullandığının tam tersi bir renk kullanmalıdır.
 
@@ -144,11 +144,11 @@ Marka yaratmanın 22 kuralı – Al & Laura Ries
 
 ## Bize ulaşın.
 
-[info@intohuman.com](https://web.archive.org/web/20250621040915/mailto: info@intohuman.com)
+[info@intohuman.com](mailto:info@intohuman.com)
 
 Barbaros Mh. Begonya Sk.   
 Nidakule No:1 Ataşehir / İstanbul
 
-[Linkedin](https://web.archive.org/web/20250621040915/https://www.linkedin.com/company/intohuman/) 
+[Linkedin](https://www.linkedin.com/company/intohuman/) 
 
-[Instagram](https://web.archive.org/web/20250621040915/https://www.instagram.com/into.human/)
+[Instagram](https://www.instagram.com/into.human/)

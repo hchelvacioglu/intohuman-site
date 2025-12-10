@@ -38,7 +38,7 @@ Peki ne oldu?
 
 ## **01. Dönüşüme Adapte Olamadı**
 
-Sektördeki değişimin adı: Online [DVD kiralamaydı](https://web.archive.org/web/20250621040835/https://www.businessinsider.com/rise-and-fall-of-blockbuster). Blockbuster’da ise şubede kiralama devam ediyordu. Fakat tüketicinin talebi bu değildi. ***Yaptıkları hatanın 6 yıl sonra farkına vardılar. Fakat çok geçti.***
+Sektördeki değişimin adı: Online [DVD kiralamaydı](https://www.businessinsider.com/rise-and-fall-of-blockbuster). Blockbuster’da ise şubede kiralama devam ediyordu. Fakat tüketicinin talebi bu değildi. ***Yaptıkları hatanın 6 yıl sonra farkına vardılar. Fakat çok geçti.***
 
 ---
 
@@ -50,7 +50,7 @@ Bazen büyük markalar rekabet edebilmek için karını azaltabilir. Blockbuster
 
 ## **03. Özgün Bir Faydası Yoktu**
 
-DVD kiralama sektörü büyüyünce, perakende şirketleri de bu pazara girdi. Tüketicinin Blockbuster’ı tercih etmesi için ***vazgeçilemez bir sebebi yoktu.*** Daha ucuz olan kimse onu [tercih](https://web.archive.org/web/20250621040835/https://intohuman.com/kategori/) etti.
+DVD kiralama sektörü büyüyünce, perakende şirketleri de bu pazara girdi. Tüketicinin Blockbuster’ı tercih etmesi için ***vazgeçilemez bir sebebi yoktu.*** Daha ucuz olan kimse onu [tercih](https://intohuman.com/kategori/) etti.
 
 ---
 

@@ -36,7 +36,7 @@ Domino’s:**30 dakikada kapında.**
 
 – Aksiyona yönlendiriyor.
 
-– Müşteriye kritik bir [fayda](https://web.archive.org/web/20250519022442/https://intohuman.com/marka-ve-duygular/) sunuyor.
+– Müşteriye kritik bir [fayda](https://intohuman.com/marka-ve-duygular/) sunuyor.
 
 ---
 

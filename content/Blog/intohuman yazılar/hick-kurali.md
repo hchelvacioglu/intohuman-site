@@ -16,7 +16,7 @@ Benzer bir şekilde Instagram’daki kaydırma özellikleri, Netflix’te en ço
 
 ---
 
-1951 yılında İngiliz profesör [William Hick](https://web.archive.org/web/20250713193652/https://lawsofux.com/hicks-law/) gerçekleştirdiği deneyde, **seçenek sayısının reaksiyon zamanını artırdığını kanıtladı**.
+1951 yılında İngiliz profesör [William Hick](https://lawsofux.com/hicks-law/) gerçekleştirdiği deneyde, **seçenek sayısının reaksiyon zamanını artırdığını kanıtladı**.
 
 ---
 
@@ -70,7 +70,7 @@ Kullanıcıların dikkat süresi hiç olmadığı kadar az, bu nedenle hizmeti �
 
 ***Kısaca;***
 
-Müşterilerinizin kafasını karıştırmayın. Onları doğru hizmetle, en hızlı şekilde sonuca götürün ve bunu çok basit bir [akış](https://web.archive.org/web/20250713193652/https://intohuman.com/pazarlama-basarisi/) ile halledin.
+Müşterilerinizin kafasını karıştırmayın. Onları doğru hizmetle, en hızlı şekilde sonuca götürün ve bunu çok basit bir [akış](https://intohuman.com/pazarlama-basarisi/) ile halledin.
 
 ---
 

@@ -18,11 +18,11 @@ Concepting, duygusal iletişim temelli marka stratejisinin nasıl uygulanabilece
 
 #### Benetton Konsepti;
 
-“[Benetton](https://web.archive.org/web/20250621051517/https://tr.benetton.com/), küçük çaplı bir üretim şirketi olarak, markası için bir konsept üretebilmiş, günümüz pazarına iyice yerleşebilmiştir. “United Colors of Benetton” dünyaya (belirgin) kozmopolit bir bakış açısıdır. Bu bakış açısının altında yatan fikir, tüm dünyadaki gençlerin büyük, açık fikirli, mutlu bir aileye ait olduklarıdır. Böylece yaratılan birleşmiş, kimsenin ırkına, rengine bakmaksızın, farklılıkların birleştiği çok renkli bir dünyadır; “Eğer dünyadaki tüm gençlerin bir büyük aile olduğuna inanıyorsan, bize katıl. Benetton’a katıl”.”  
+“[Benetton](https://tr.benetton.com/), küçük çaplı bir üretim şirketi olarak, markası için bir konsept üretebilmiş, günümüz pazarına iyice yerleşebilmiştir. “United Colors of Benetton” dünyaya (belirgin) kozmopolit bir bakış açısıdır. Bu bakış açısının altında yatan fikir, tüm dünyadaki gençlerin büyük, açık fikirli, mutlu bir aileye ait olduklarıdır. Böylece yaratılan birleşmiş, kimsenin ırkına, rengine bakmaksızın, farklılıkların birleştiği çok renkli bir dünyadır; “Eğer dünyadaki tüm gençlerin bir büyük aile olduğuna inanıyorsan, bize katıl. Benetton’a katıl”.”  
   
 Örneğin; Benetton’un renk şeması görece kısıtlı olsa da, dünyadaki inanılmaz renkliliği yansıtır. Bir süveteri sekiz farklı renkte edinebilirsiniz. Böylece herkes aynı süveteri giyenlerle kendi renklerinde iletişim halinde olur. Bu şema, Benetton’un konseptiyle beraber, tüketiciye hem bireyselliğini hem de beraber olabilmeyi ifade etme imkanı sunar.”
 
-#### Konumlandırma ve Konsepting Farkı[\*](https://web.archive.org/web/20250621051517/https://intohuman.com/marka-stratejisi-nasil-olusturulur/);
+#### Konumlandırma ve Konsepting Farkı[\*](https://intohuman.com/marka-stratejisi-nasil-olusturulur/);
 
 a. Konumlandırma, iletişimle eklemlenen değerler üzerine; concepting ise konseptlere dayanır.
 

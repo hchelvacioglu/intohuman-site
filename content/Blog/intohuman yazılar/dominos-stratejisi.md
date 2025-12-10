@@ -14,7 +14,7 @@ Mütevazı bir pizzacının dünya devi “Domino’s”a dönüşmesini inceled
 
 Michigan’da, Monaghan kardeşler, küçük bir pizzacıyı satın alarak **büyük bir maceraya** atıldılar.
 
-![Domino's Stratejisi](https://web.archive.org/web/20250713210713im_/https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-07-12.53.01.png)
+![Domino's Stratejisi](https://intohuman.com/wp-content/uploads/2024/02/Ekran-Resmi-2024-02-07-12.53.01.png)
 
 
 ---
@@ -83,5 +83,5 @@ Bu karar domino’s’u rekabette eşsiz bir yere getirmekle kalmadı onu dünya
 
 ---
 
-[Markalaşmak için takip edin.](https://web.archive.org/web/20250713210713/https://www.instagram.com/into.human/)  
-[Diğer makaleler için.](https://web.archive.org/web/20250713210713/https://intohuman.com/makaleler/)
+[Markalaşmak için takip edin.](https://www.instagram.com/into.human/)  
+[Diğer makaleler için.](https://intohuman.com/makaleler/)

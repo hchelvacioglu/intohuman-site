@@ -24,7 +24,7 @@ Peki Zeynep Bastık markası neden bugün ***zirvede?***
 
 Müzik sektörü Zeynep Bastık’ı 2010’lardan beri tanıyor olsa da,
 
-birçoğumuz onu 2018 yılında Youtube’da yayınlamaya başladığı ***[cover](https://web.archive.org/web/20250713201041/https://www.youtube.com/watch?v=IuMkkCvvX1I) parçalardan tanıyoruz.***
+birçoğumuz onu 2018 yılında Youtube’da yayınlamaya başladığı ***[cover](https://www.youtube.com/watch?v=IuMkkCvvX1I) parçalardan tanıyoruz.***
 
 *Çünkü;*
 
@@ -34,7 +34,7 @@ birçoğumuz onu 2018 yılında Youtube’da yayınlamaya başladığı ***[cove
 
 ### **01. Nostalji ve Samimiyet**
 
-Üst jenerasyonun nostalji ihtiyacına, alt jenerasyonun ise samimiyet [arzusuna](https://web.archive.org/web/20250713201041/https://intohuman.com/musteri-duygu-satin-alir/) cevap verdi.
+Üst jenerasyonun nostalji ihtiyacına, alt jenerasyonun ise samimiyet [arzusuna](https://intohuman.com/musteri-duygu-satin-alir/) cevap verdi.
 
 ---
 

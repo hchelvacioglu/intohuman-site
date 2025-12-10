@@ -6,7 +6,7 @@ draft: false
 originalUrl: "https://intohuman.com/hizli-ve-yavas-dusunme/"
 tags: []
 ---
-## [into human.](https://web.archive.org/web/20250428214143/https://intohuman.com/)
+## [into human.](https://intohuman.com/)
 
 Menu
 
@@ -68,7 +68,7 @@ Kısacası, daha önce gördüğünüz bir sözcüğü bilişsel olarak daha kol
 
 **7. Bir Fikri Nasıl Kabul Ederiz?;**  
 Bir cümlenin doğru olduğunu nasıl anlarız? Mantık veya çağrışım yoluyla başka inanç ya da tercihlerimize güçlü biçimde bağlıysa veya güvendiğiniz, hoşlandığınız bir kaynaktan geliyorsa, bilişsel rahatlık hissedersiniz.  
-[(About Me)](https://web.archive.org/web/20250428214143/https://intohuman.com/me/)
+[(About Me)](https://intohuman.com/me/)
 
 **8. Musa Yanılması;**  
 “Musa, her türden kaç hayvanı gemisine aldı? Bu sorudaki yanlışı fark edenlerin sayısı o kadar azdır ki, ” Musa Yanılsaması” adı verilmiştir.   
@@ -212,7 +212,7 @@ Sorun: Kredi kartları benzin istasyonlarından yapılan alışverişler için n
 Anıların yok edilmesi deneyimin değerini büyük ölçüde yok eder.  
   
 Bu sebeple unutulmaz anılar yaratmak, yaşadığımız deneyim ne kadar çileli olursa olsun kötü bir his yaşatmaz. Dağları tırmanmak veya ormanda yürüyüş yapmak gerçek zamanda çoğunlukla eziyettir ama onlara değer kazandıran şey amaca ulaşmanın hem acısının hem de keyfinin unutulmaz olacağına dair beklentidir.  
-(Ör: [Unutulmaz Turizm Deneyimi](https://web.archive.org/web/20250428214143/https://www.researchgate.net/publication/338278170_BIR_DENEYIMI_UNUTULMAZ_KILAN_UNSURLAR_NEDIR_UNUTULMAZ_TURIZM_DENEYIMI_UZERINE_KAVRAMSAL_BIR_DEGERLENDIRME))
+(Ör: [Unutulmaz Turizm Deneyimi](https://www.researchgate.net/publication/338278170_BIR_DENEYIMI_UNUTULMAZ_KILAN_UNSURLAR_NEDIR_UNUTULMAZ_TURIZM_DENEYIMI_UZERINE_KAVRAMSAL_BIR_DEGERLENDIRME))
 
 **27. Doğal Seçenek;**  
 Varsayılan seçenek doğallıkla normal seçim olarak algılanır.   
@@ -223,11 +223,11 @@ Bunlar, ne yapacağından emin olmayan birinin kararına rehberlik edebilecek g�
 
 ## Bize ulaşın.
 
-[info@intohuman.com](https://web.archive.org/web/20250428214143/mailto: info@intohuman.com)
+[info@intohuman.com](mailto:info@intohuman.com)
 
 Barbaros Mh. Begonya Sk.   
 Nidakule No:1 Ataşehir / İstanbul
 
-[Linkedin](https://web.archive.org/web/20250428214143/https://www.linkedin.com/company/intohuman/) 
+[Linkedin](https://www.linkedin.com/company/intohuman/) 
 
-[Instagram](https://web.archive.org/web/20250428214143/https://www.instagram.com/into.human/)
+[Instagram](https://www.instagram.com/into.human/)

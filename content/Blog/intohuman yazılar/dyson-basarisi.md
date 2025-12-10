@@ -8,7 +8,7 @@ tags: []
 ---
 Dyson başarısı nasıl gelişti?
 
-Dyson 1993 yılında kurulduğunda, süpürge pazarında 1908’de kurulan **Hoover’ın hakimiyeti vardı.**[\*](https://web.archive.org/web/20250519015629/https://www.hoover-home.com/tr_TR/hoover-dna/)
+Dyson 1993 yılında kurulduğunda, süpürge pazarında 1908’de kurulan **Hoover’ın hakimiyeti vardı.**[\*](https://www.hoover-home.com/tr_TR/hoover-dna/)
 
 ---
 
@@ -24,7 +24,7 @@ Torbasız Süpürge.
 
 ---
 
-Dyson ***pazarın ihtiyaçlarını*** çok iyi anlamıştı.[\*](https://web.archive.org/web/20250519015629/https://intohuman.com/musteri-duygu-satin-alir/)
+Dyson ***pazarın ihtiyaçlarını*** çok iyi anlamıştı.[\*](https://intohuman.com/musteri-duygu-satin-alir/)
 
 **Torbalı süpürgeler;**
 

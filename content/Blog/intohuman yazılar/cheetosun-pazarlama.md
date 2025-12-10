@@ -20,7 +20,7 @@ Cheetos 2016 yılındaki kampanyasında;
 
 ***En ilginç cheetos’u*** bulana ödül vereceğini açıkladı.
 
-![](https://web.archive.org/web/20250621041425im_/https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-01-15.08.06.png)
+![](https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-01-15.08.06.png)
 
 
 ---
@@ -39,7 +39,7 @@ Dünyadaki en ilginç şekle sahip cheetos’u bulmak.
 
 Ve bu onu ***tarihin en başarılı kampanyalarından birisi*** yaptı.
 
-![](https://web.archive.org/web/20250621041425im_/https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-01-15.09.14.png)
+![](https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-01-15.09.14.png)
 
 
 ---
@@ -52,18 +52,18 @@ binlerce ürün satmakla kalmadı. Basit ama iyi bir fikrin etkisini de kanıtla
 
 Etkileşim hype’ını kaybetmek istemeyen cheetos, bir platformla cheetosların paylaşılmasını ve oylanmasını sağladı.
 
-![](https://web.archive.org/web/20250621041425im_/https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-01-15.10.02.png)
+![](https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-01-15.10.02.png)
 
 
 ---
 
-Ve kampanya bitiminde yaklaşık ***127,000*** cheetos paylaşılmış ve cheetos, tarihinin ***en iyi [satış](https://web.archive.org/web/20250621041425/https://intohuman.com/musteri-duygu-satin-alir/) haftasını*** geçirmişti.
+Ve kampanya bitiminde yaklaşık ***127,000*** cheetos paylaşılmış ve cheetos, tarihinin ***en iyi [satış](https://intohuman.com/musteri-duygu-satin-alir/) haftasını*** geçirmişti.
 
 ---
 
 Sonunda ise kazananları ***müzede sergileyerek*** kampanyayı bitirdi.
 
-![](https://web.archive.org/web/20250621041425im_/https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-01-15.11.00.png)
+![](https://intohuman.com/wp-content/uploads/2023/12/Ekran-Resmi-2023-12-01-15.11.00.png)
 
 
 ---

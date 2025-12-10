@@ -14,7 +14,7 @@ Tasarım ise bir yapı inşa etmek için kurgulanır. Bu nedenle bir düzen içe
 
 Marka stratejistlerinin görevi, tasarımcıların sanatsal yönünü markaların ihtiyacına uygun şekilde düzenlemesine olanak sağlamaktır. Yani sınırları belirlemektir.
 
-***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://web.archive.org/web/20250621041051/http://xn--instagram%20hesab%20iin:%20https-z1c52w//www.instagram.com/into.human/)
+***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://www.instagram.com/into.human/)
 
-* ![](https://web.archive.org/web/20250621041051im_/https://intohuman.com/wp-content/uploads/2022/04/1-26-819x1024.png)
-* ![](https://web.archive.org/web/20250621041051im_/https://intohuman.com/wp-content/uploads/2022/04/2-24-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/1-26-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/2-24-819x1024.png)

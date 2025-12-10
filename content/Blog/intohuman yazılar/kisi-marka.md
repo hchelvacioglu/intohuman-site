@@ -23,13 +23,13 @@ Pazarlamanın geldiği güncel noktada kitleler, takip ettikleri ya da müşteri
 #### **Değer Konumlandırması;**
 
 3. Dünyaya hangi yönden farklı olarak bakıyorsunuz? Hangi toplumsal olaylara tepki gösteriyorsunuz? Hedef kitlenin hangi sorunu çözüyorsunuz (Fonksiyonel & duygusal)?  
-– Bir karakter kendisini karşı çıktığı fikir ve içinde bulunduğu duruma verdiği reaksiyon ile tanıtır. Ör: [Muhammed Ali](https://web.archive.org/web/20250713211142/https://www.usatoday.com/story/sports/boxing/2016/06/03/muhammad-ali-best-quotes-boxing/85370850/)
+– Bir karakter kendisini karşı çıktığı fikir ve içinde bulunduğu duruma verdiği reaksiyon ile tanıtır. Ör: [Muhammed Ali](https://www.usatoday.com/story/sports/boxing/2016/06/03/muhammad-ali-best-quotes-boxing/85370850/)
 
-4. Amacınız ne? Nasıl bir toplum mirası bırakmak istiyorsunuz? Hangi alanda farkındalık yaratıyorsunuz? İnsanlarla hangi tutkunuzu paylaşıyorsunuz? Nasıl hedef kitlenizin arzu ettiği rol model ([Arketip](https://web.archive.org/web/20250713211142/https://intohuman.com/marka-arketipi/)) kişi oluyorsunuz?  
+4. Amacınız ne? Nasıl bir toplum mirası bırakmak istiyorsunuz? Hangi alanda farkındalık yaratıyorsunuz? İnsanlarla hangi tutkunuzu paylaşıyorsunuz? Nasıl hedef kitlenizin arzu ettiği rol model ([Arketip](https://intohuman.com/marka-arketipi/)) kişi oluyorsunuz?  
 – Kitleler ancak ortak bir değer ve amaçta buluştuklarında aidiyeti hissedebilirler. Liderler bu amaçların uygulayıcısı olan rol modellerdir.
 
 5. Bütün bu değerlerinizi kapsayacak sıradışı ya da sizin bu şekilde olmanızı sağlamış bir hikayeniz var mı? Hangi hayat başarınızı ne yönden ön plana çıkarmak istiyorsunuz?  
-– Ör: [Steve Jobs – Garaj](https://web.archive.org/web/20250713211142/https://www.yeniisfikirleri.net/steve-jobsin-ilham-verici-hayat-hikayesi/)
+– Ör: [Steve Jobs – Garaj](https://www.yeniisfikirleri.net/steve-jobsin-ilham-verici-hayat-hikayesi/)
 
 6. Etrafınızda kimler var, kimlerle fotoğraf veriyorsunuz, nerelerde görülüyorsunuz (üye olunan, dernekler, sivil toplum kuruluşları)? Hakkınızda kimler, nerede, ne konuda konuşmalı?  
 – Ör: Angelina Jolie – Afrika’daki çocuklar & UN

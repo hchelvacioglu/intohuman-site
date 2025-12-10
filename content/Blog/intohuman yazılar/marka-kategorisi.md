@@ -24,7 +24,7 @@ Markalar kendileri için kategori tanımladığında tüketicinin **beklentisini
 
 ---
 
-Twitter, kendisini app store’da ***sosyal medya*** kategorisinden ***haber*** kategorisine taşımıştır.[\*](https://web.archive.org/web/20250519013039/https://www.macrumors.com/2016/04/29/twitter-news-category-app-store-visibility/#:~:text=Twitter%20yesterday%20changed%20how%20its,ahead%20of%20CNN%20and%20Reddit.)
+Twitter, kendisini app store’da ***sosyal medya*** kategorisinden ***haber*** kategorisine taşımıştır.[\*](https://www.macrumors.com/2016/04/29/twitter-news-category-app-store-visibility/#:~:text=Twitter%20yesterday%20changed%20how%20its,ahead%20of%20CNN%20and%20Reddit.)
 
 Çünkü ürünün ulaşmak istediği ***hedef kitleyi ve beklentiyi değiştirmek*** istemiştir.
 
@@ -36,7 +36,7 @@ Henüz tanımlanmamış kategori, ***iletişimde lider olunabilecek bir alan*** 
 
 Örnek:
 
-**BİM’in “ucuzluk marketi” kategorisini tanımlaması.** Onu bu kategorinin en bilinen ve lider markası haline getirmiştir. Ardından diğerleri de bu kategoriyi takip etmiştir.[\*](https://web.archive.org/web/20250519013039/https://intohuman.com/kategori/)
+**BİM’in “ucuzluk marketi” kategorisini tanımlaması.** Onu bu kategorinin en bilinen ve lider markası haline getirmiştir. Ardından diğerleri de bu kategoriyi takip etmiştir.[\*](https://intohuman.com/kategori/)
 
 ---
 

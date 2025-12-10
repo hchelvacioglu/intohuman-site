@@ -10,7 +10,7 @@ tags: []
 
 12 Şubat’taki devre arası şovunu dünya genelinde 190 milyon kişi izledi.
 
-*Super Bowl, Amerikan Futbol Ligi’nin şampiyonunu belirleyen maçtır.*[\*](https://web.archive.org/web/20250519022035/https://tr.wikipedia.org/wiki/Super_Bowl)
+*Super Bowl, Amerikan Futbol Ligi’nin şampiyonunu belirleyen maçtır.*[\*](https://tr.wikipedia.org/wiki/Super_Bowl)
 
 ---
 
@@ -50,7 +50,7 @@ Bu başarısının ardından, Rihanna yeni albümünü bu sene yayınlamamanın 
 
 **02.** Markalar özel günler için stratejik olarak hazırlanmalı ve standart işlerden kaçınmalıdır.
 
-**03.** Ülkemiz dünyada görünürlük yaratmak için sanat ve sporun gücünü kullanmalı. Sanatçılarımızı, sporcularımızı ve büyük organizasyonlarımızı markalamalıyız.[\*](https://web.archive.org/web/20250519022035/https://intohuman.com/zeynep-bastik/)
+**03.** Ülkemiz dünyada görünürlük yaratmak için sanat ve sporun gücünü kullanmalı. Sanatçılarımızı, sporcularımızı ve büyük organizasyonlarımızı markalamalıyız.[\*](https://intohuman.com/zeynep-bastik/)
 
 ---
 

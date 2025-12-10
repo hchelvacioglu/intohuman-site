@@ -53,7 +53,7 @@ a. Hedef Personanız Kimdir?
 – Markanız hangi kanalları hedef personaya ulaşmak için kullanıyor?  
 – Markanız belirlenenen personanın hangi ana sorununu çözmek istiyor?
 
-b. Markanızı nasıl [konumlandırıyorunuz](https://web.archive.org/web/20250621045515/https://intohuman.com/marka-stratejisi-nasil-olusturulur/)?
+b. Markanızı nasıl [konumlandırıyorunuz](https://intohuman.com/marka-stratejisi-nasil-olusturulur/)?
 
 – Markanız tüketicide nasıl bir duygu değişimini hedefliyor?  
 – Markanız hangi değerlerini müşterisine anlatmak istiyor?  
@@ -101,7 +101,7 @@ Fiziksel ve dijital deneyim olarak ayrılır. Fiziksel olarak bir aracı üzerin
 a. Mağaza Tasarımı;
 
 – Mağazada müşteriye hissettirilmek istenen duygu ve değer nedir?  
-– Mağaza markaya özgü olarak 5 duyuya nasıl hitap edebilir? ([Empati Haritası](https://web.archive.org/web/20250621045515/https://medium.com/t%C3%BCrkiye/empati-haritas%C4%B1-tasar%C4%B1m-odakl%C4%B1-d%C3%BC%C5%9F%C3%BCnmenin-birinci-ad%C4%B1m%C4%B1-22a8c32fae1e))  
+– Mağaza markaya özgü olarak 5 duyuya nasıl hitap edebilir? ([Empati Haritası](https://medium.com/t%C3%BCrkiye/empati-haritas%C4%B1-tasar%C4%B1m-odakl%C4%B1-d%C3%BC%C5%9F%C3%BCnmenin-birinci-ad%C4%B1m%C4%B1-22a8c32fae1e))  
 – Marka kimliğini yansıtan ve öne çıkarılan objeler, resimler, mesajlar nasıl olmalıdır?  
 – Müşterinin mağaza içerisindeki navigasyonu nasıl belirlenmelidir?
 

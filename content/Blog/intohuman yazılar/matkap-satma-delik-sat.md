@@ -12,12 +12,12 @@ Markalar müşterilerinde ihtiyaç yaratabildikleri sürece yaşarlar. Varolan y
 
 Markalar bu faydayı müşterisine sunduğu ve rakiplerinden bu fayda çerçevesinde farklılaşabildiği sürece ayakta kalır ve daha geniş kitlelere yayılır.
 
-***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://web.archive.org/web/20250621044450/http://xn--instagram%20hesab%20iin:%20https-z1c52w//www.instagram.com/into.human/)
+***Instagram hesabı için:*** [https://www.instagram.com/into.human/](https://www.instagram.com/into.human/)
 
-* ![](https://web.archive.org/web/20250621044450im_/https://intohuman.com/wp-content/uploads/2022/04/1-7-819x1024.png)
-* ![](https://web.archive.org/web/20250621044450im_/https://intohuman.com/wp-content/uploads/2022/04/2-6-819x1024.png)
-* ![](https://web.archive.org/web/20250621044450im_/https://intohuman.com/wp-content/uploads/2022/04/3-5-819x1024.png)
-* ![](https://web.archive.org/web/20250621044450im_/https://intohuman.com/wp-content/uploads/2022/04/4-5-819x1024.png)
-* ![](https://web.archive.org/web/20250621044450im_/https://intohuman.com/wp-content/uploads/2022/04/5-5-819x1024.png)
-* ![](https://web.archive.org/web/20250621044450im_/https://intohuman.com/wp-content/uploads/2022/04/6-5-819x1024.png)
-* ![](https://web.archive.org/web/20250621044450im_/https://intohuman.com/wp-content/uploads/2022/04/7-5-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/1-7-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/2-6-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/3-5-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/4-5-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/5-5-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/6-5-819x1024.png)
+* ![](https://intohuman.com/wp-content/uploads/2022/04/7-5-819x1024.png)

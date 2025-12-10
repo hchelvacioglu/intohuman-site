@@ -28,7 +28,7 @@ Belirlenen kitlelerin motivasyonları araştırılır. Temelde kişilerin tercih
 
 #### 3. Markanın Fiziksel Fayda Çalışması
 
-Markanın ya da ürünün belirlenen hedef kitleler üzerinde nasıl bir faydası olduğu konuşulur. Fiziksel faydaya odaklanılan bu bölümde ürünün temelde müşteriye hangi yoldan bir katkı sağladığı ve nedeni tartışılır. Günlük hayatta kullanılan [objeler](https://web.archive.org/web/20250428224639/https://tr.wikipedia.org/wiki/%C3%87al%C4%B1%C5%9Ftay#/media/Dosya:EWM_shop_2007.jpg) üzerinden bir benchmark yaratılabilecek bu bölümde ürünün faydasının kullanan kişiyi; dikkat çekmesini sağlayan bir highlighter mı kişinin daha net görmesini sağlayan gözlük mü yoksa kişiye sadece önemli bilgileri sunan bir süzgeç mi olduğu gibi faydalar tartışılır.
+Markanın ya da ürünün belirlenen hedef kitleler üzerinde nasıl bir faydası olduğu konuşulur. Fiziksel faydaya odaklanılan bu bölümde ürünün temelde müşteriye hangi yoldan bir katkı sağladığı ve nedeni tartışılır. Günlük hayatta kullanılan [objeler](https://tr.wikipedia.org/wiki/%C3%87al%C4%B1%C5%9Ftay#/media/Dosya:EWM_shop_2007.jpg) üzerinden bir benchmark yaratılabilecek bu bölümde ürünün faydasının kullanan kişiyi; dikkat çekmesini sağlayan bir highlighter mı kişinin daha net görmesini sağlayan gözlük mü yoksa kişiye sadece önemli bilgileri sunan bir süzgeç mi olduğu gibi faydalar tartışılır.
 
 #### 4. Markanın Duygusal Fayda Çalışması
 
@@ -40,4 +40,4 @@ Markanın müşteri göz önünde bulundurarak sahip olması gereken değerleri 
 
 #### 6. Marka Kimliği Çalışması
 
-Bu zamana kadar belirlenen hedef kitleler, faydalar ve değerler üzerine marka-müşteri ilişkisinin belirlenmesi adına [arketipler](https://web.archive.org/web/20250428224639/https://intohuman.com/marka-arketipi/) tartışılır. Belirlenen faydaların hangi arketip söylerse daha inandırıcı olacağı ve tartışılan arketiplerin marka değerlerini taşıyıp taşıyamayacağı konuşulur. Böylelikle markanın müşteriye arkadaşça mı yoksa bilgece mi yoksa onu kurtaran bir tonda mı yaklaşacağına karar verilmiş olur.
+Bu zamana kadar belirlenen hedef kitleler, faydalar ve değerler üzerine marka-müşteri ilişkisinin belirlenmesi adına [arketipler](https://intohuman.com/marka-arketipi/) tartışılır. Belirlenen faydaların hangi arketip söylerse daha inandırıcı olacağı ve tartışılan arketiplerin marka değerlerini taşıyıp taşıyamayacağı konuşulur. Böylelikle markanın müşteriye arkadaşça mı yoksa bilgece mi yoksa onu kurtaran bir tonda mı yaklaşacağına karar verilmiş olur.

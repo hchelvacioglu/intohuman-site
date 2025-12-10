@@ -16,11 +16,11 @@ Brief, ilgili paydaşa aktarılmak üzere hazırlanan, stratejiye yönelik yapı
 
 1. Markanız ya da Ürününüz;  
  – Nasıl bir markasınız? Bugüne kadar nasıl bir iletişim yürütülmüş?  
-– Şimdiki ana mesajınız nedir? ([Marka İnancı](https://web.archive.org/web/20250519025436/https://intohuman.com/marka-amaci-nasil-bulunur/)/Mottosu)  
-– [Markanızın değerleri](https://web.archive.org/web/20250519025436/https://intohuman.com/marka-degerleri/) nelerdir?  
- – [Marka vaadiniz](https://web.archive.org/web/20250519025436/https://intohuman.com/marka-vaadi/) nedir? Markanın/ürünün farklılaşma noktaları (özellikleri) nelerdir? Size özel müşteri faydanız (fiziksel & duygusal) nedir? Destek kanıtlarınız nelerdir?  
+– Şimdiki ana mesajınız nedir? ([Marka İnancı](https://intohuman.com/marka-amaci-nasil-bulunur/)/Mottosu)  
+– [Markanızın değerleri](https://intohuman.com/marka-degerleri/) nelerdir?  
+ – [Marka vaadiniz](https://intohuman.com/marka-vaadi/) nedir? Markanın/ürünün farklılaşma noktaları (özellikleri) nelerdir? Size özel müşteri faydanız (fiziksel & duygusal) nedir? Destek kanıtlarınız nelerdir?  
  – Verilmek istenen alt mesajlar nelerdir?  
-– Markanızın nasıl bir tonu ve tarzı var? ([Marka Arketipi](https://web.archive.org/web/20250519025436/https://intohuman.com/marka-arketipi/) ve [Ses Tonu](https://web.archive.org/web/20250519025436/https://intohuman.com/marka-ses-tonu/))
+– Markanızın nasıl bir tonu ve tarzı var? ([Marka Arketipi](https://intohuman.com/marka-arketipi/) ve [Ses Tonu](https://intohuman.com/marka-ses-tonu/))
 
 2. Hedef Kitleniz;  
 – Hedef Kitleniz kim?  
@@ -40,7 +40,7 @@ Brief, ilgili paydaşa aktarılmak üzere hazırlanan, stratejiye yönelik yapı
 – Hangi mecralarda yayınlanacak?   
 – Zaman aralığı nedir?
 
-[Global Örnekler](https://web.archive.org/web/20250519025436/https://www.business2community.com/strategy/write-compelling-creative-brief-examples-02045263)
+[Global Örnekler](https://www.business2community.com/strategy/write-compelling-creative-brief-examples-02045263)
 
 ### Marka Stratejisti Kime Brief Verir?
 

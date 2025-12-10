@@ -24,19 +24,19 @@ Bu nedenle bir marka stratejisi, öncelikle ***görünmeyen unsurları*** belirl
 
 ### **Görünmeyen Marka Unsurları;**
 
-**Marka Konumlandırması**[\*](https://web.archive.org/web/20250713205944/https://intohuman.com/konumlandirma/)
+**Marka Konumlandırması**[\*](https://intohuman.com/konumlandirma/)
 
 – Marka Değerleri – Marka Amacı – Marka Vaadi – Marka Kültürü – Marka Farkı
 
 ---
 
-**Markanın Kişiliği**[\*](https://web.archive.org/web/20250713205944/https://intohuman.com/marka-ses-tonu-2/)
+**Markanın Kişiliği**[\*](https://intohuman.com/marka-ses-tonu-2/)
 
 – Marka Arketipi – Marka Ses Tonu
 
 ---
 
-**Hedef Pazarı**[\*](https://web.archive.org/web/20250713205944/https://intohuman.com/pazarlama-stratejile/)
+**Hedef Pazarı**[\*](https://intohuman.com/pazarlama-stratejile/)
 
 – Tüketici Personaları
 
@@ -44,19 +44,19 @@ Bu nedenle bir marka stratejisi, öncelikle ***görünmeyen unsurları*** belirl
 
 ### **Görünen Marka Unsurları**
 
-**Görsel Kimlik**[\*](https://web.archive.org/web/20250713205944/https://intohuman.com/logo/)
+**Görsel Kimlik**[\*](https://intohuman.com/logo/)
 
 – Marka Logosu – Marka Fontu – Marka Renkleri – Marka Sembolleri
 
 ---
 
-**Markanın Mesajları**[\*](https://web.archive.org/web/20250713205944/https://intohuman.com/marka-tek-kelime/)
+**Markanın Mesajları**[\*](https://intohuman.com/marka-tek-kelime/)
 
 – Marka İsmi – Marka Sloganı – Marka Hikayesi
 
 ---
 
-**Temas Noktaları**[\*](https://web.archive.org/web/20250713205944/https://intohuman.com/temas-noktasi/)
+**Temas Noktaları**[\*](https://intohuman.com/temas-noktasi/)
 
 – Broşür, Ambalaj, Kartvizit vb.
 
@@ -64,7 +64,7 @@ Bu nedenle bir marka stratejisi, öncelikle ***görünmeyen unsurları*** belirl
 
 ## **Özetle;**
 
-Markalar uzun yıllar ve süreçler sonucunda yaratılan anlam dünyasının bir sonucudur, sadece bir isim ve logodan ibaret değildir.[\*](https://web.archive.org/web/20250713205944/https://www.edvido.com/blog/pr/son-5-yilin-en-basarili-halkla-iliskilerpr-kampanyalari-ve-ornekleri)
+Markalar uzun yıllar ve süreçler sonucunda yaratılan anlam dünyasının bir sonucudur, sadece bir isim ve logodan ibaret değildir.[\*](https://www.edvido.com/blog/pr/son-5-yilin-en-basarili-halkla-iliskilerpr-kampanyalari-ve-ornekleri)
 
 Çoğu zaman doğal olarak sadece bu unsurlar üzerinden değerlendirilseler de, aslında marka inşa süreçlerinin sonucunda isim ve logonun nasıl tasarlanması gerektiğine ulaşılır.
 

@@ -18,9 +18,9 @@ Bütün değişimlerin yaşattığı gitgeller gibi, bu sefer izleri kaybolan 20
 
 ---
 
-***[Sadeleşmek](https://web.archive.org/web/20250428224449/https://fabrikbrands.com/why-are-logos-so-simple-now/)!***
+***[Sadeleşmek](https://fabrikbrands.com/why-are-logos-so-simple-now/)!***
 
-![](https://web.archive.org/web/20250428224449im_/https://intohuman.com/wp-content/uploads/2023/12/image-4-1024x640.png)
+![](https://intohuman.com/wp-content/uploads/2023/12/image-4-1024x640.png)
 
 
 ---
@@ -31,13 +31,13 @@ Ve tasarımcıların çok sevdiği “less is more” felsefesi hayat buldu.
 
 ---
 
-Ve markalar arasındaki [rekabette](https://web.archive.org/web/20250428224449/https://intohuman.com/musteri-duygu-satin-alir/) süslemeli logoya sahip olanlar ***modaya uymadıkları için eski göründüler.***
+Ve markalar arasındaki [rekabette](https://intohuman.com/musteri-duygu-satin-alir/) süslemeli logoya sahip olanlar ***modaya uymadıkları için eski göründüler.***
 
 ---
 
 Bu yeni çağa ayak uyduran ***sayısız örnek var.***
 
-![](https://web.archive.org/web/20250428224449im_/https://intohuman.com/wp-content/uploads/2023/12/image-5.png)
+![](https://intohuman.com/wp-content/uploads/2023/12/image-5.png)
 
 Peki bu ***sadeleşme modası*** da nereden çıktı?
 

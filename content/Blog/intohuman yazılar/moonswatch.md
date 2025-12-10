@@ -54,11 +54,11 @@ Peki bu iş birliğini bu kadar özel yapan **sebep neydi?**
 
 ### **01. Omega Pazarı Kaybediyordu.**
 
-İsviçre saatçilik sektoründe üretilen ***her 3 euro cirodan 1’ini R***[olex](https://web.archive.org/web/20250713203443/https://eksisozluk.com/?q=rolex) ***kazaniyor***. Omega ise 2.liği, Cartier’e kaptırdı.
+İsviçre saatçilik sektoründe üretilen ***her 3 euro cirodan 1’ini R***[olex](https://eksisozluk.com/?q=rolex) ***kazaniyor***. Omega ise 2.liği, Cartier’e kaptırdı.
 
 ---
 
-### **02. Kitle [Beklentisi](https://web.archive.org/web/20250713203443/https://intohuman.com/marka-degerleri-ozet/) Değişiyordu.**
+### **02. Kitle [Beklentisi](https://intohuman.com/marka-degerleri-ozet/) Değişiyordu.**
 
 Çin ve Orta Doğu müşterisi, saate ciddi para harcamaya başladı,
 

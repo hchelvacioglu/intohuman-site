@@ -8,7 +8,7 @@ tags: []
 ---
 TV reklamı aksine dijitalde kişilere özel reklam yapmak ve bunu ölçmek mümkün.
 
-Ve bu özelleştirilmiş dijital reklamlar her yıl katlanarak [büyüyor](https://web.archive.org/web/20250519010118/https://www.insiderintelligence.com/content/digital-ad-spend-worldwide-pass-600-billion-this-year).
+Ve bu özelleştirilmiş dijital reklamlar her yıl katlanarak [büyüyor](https://www.insiderintelligence.com/content/digital-ad-spend-worldwide-pass-600-billion-this-year).
 
 ---
 
@@ -32,7 +32,7 @@ Büyümek için yeni kitlelere ulaşmak şart olduğundan her markanın kitlesel
 
 ## **02. Kendini Sürekli Hatırlatmak**
 
-Bir markanın müşterileri sadece kendisine [sadık](https://web.archive.org/web/20250519010118/https://intohuman.com/pazarlama-basarisi/) bir kitleden oluşmaz.
+Bir markanın müşterileri sadece kendisine [sadık](https://intohuman.com/pazarlama-basarisi/) bir kitleden oluşmaz.
 
 Bu nedenle ürünü seyrek kullanan kişiler arasında da ***akla gelen ilk marka olmak*** satışlarınızı ciddi şekilde artıracaktır.
 

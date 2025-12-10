@@ -8,32 +8,32 @@ tags: []
 ---
 Tropicana *(Pepsico’nun meyve suyu markası)* 2009 yılında büyük bir ***yeniden markalama*** gerçekleştirdi.
 
-![](https://web.archive.org/web/20250519011523im_/https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.38.30.png)
+![](https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.38.30.png)
 
 Yeniden markalamada ambalaj üzerinde değişenler;
 
 * Logo;
 
-![](https://web.archive.org/web/20250519011523im_/https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.39.27.png)
+![](https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.39.27.png)
 
 * Görseller;
 
-![](https://web.archive.org/web/20250519011523im_/https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.40.33.png)
+![](https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.40.33.png)
 
 * Kapak
 
-![](https://web.archive.org/web/20250519011523im_/https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.41.01.png)
+![](https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.41.01.png)
 
 Tropicana $35m’lık “Squeeze, it’s a natural” kampanyasıyla ***yeni tasarımını duyurdu***.
 
-![](https://web.archive.org/web/20250519011523im_/https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.41.31.png)
+![](https://intohuman.com/wp-content/uploads/2023/10/Ekran-Resmi-2023-11-01-00.41.31.png)
 
 Ve satışlar **2 ay içerisinde** **%20** düştü.
 
 Peki yanlış giden neydi?
 
 **01. Duygusal Bağı Önemsememe**;  
-Tüketiciler sürekli tükettikleri markalarla duygusal bağ kurar. Ve markanın standartın dışına çıkması ***[hayal](https://web.archive.org/web/20250519011523/https://intohuman.com/marka-ve-duygular/) kırıklığı yaratabilir.***
+Tüketiciler sürekli tükettikleri markalarla duygusal bağ kurar. Ve markanın standartın dışına çıkması ***[hayal](https://intohuman.com/marka-ve-duygular/) kırıklığı yaratabilir.***
 
 **02. Tek Seferde Çok Değişiklik**;  
 Markaya dair çağrışımlar yıllar içerisinde oluşur. Çağrışım içeren görsel yatırımlar özellikle hızlı tüketim malları için çok kritiktir. Bu görsellerin hepsinin aynı anda değiştirilmesi tüketicide ***kafa karışıklığına neden olur.***
@@ -46,7 +46,7 @@ Ambalajlar sessiz satışçılardır ve satın alma yolculuğunun son durağıd�
 
 ***Kısaca;***
 
-Markalar için görsel [yatırımlar](https://web.archive.org/web/20250519011523/https://intohuman.com/logo/) bir anda gözden çıkarılamayacak kadar değerlidir.
+Markalar için görsel [yatırımlar](https://intohuman.com/logo/) bir anda gözden çıkarılamayacak kadar değerlidir.
 
 Çağın gerekliliklerine uyarken, tüketicinizin sizi tanımasını ve sevmesini sağlayan çağrışımları kaybetmeyin.
 

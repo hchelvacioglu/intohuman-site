@@ -23,7 +23,7 @@ Markalar için oluşturulan kategoriler de sosyolojik olanlardan pek farklı de�
 
 Bir markanın zihinlerde öncelik bulabilmesi adına en güçlü alternatiftir. Ana kategorinizden farklılaşabileceğiniz daha önce iletişimi yapılmamış ya da yeni keşfedilmiş bir tüketici faydası yeni bir kategori açmanızın da yolunu oluşturur.
 
-Ör: [Tide](https://web.archive.org/web/20250713210113/https://eksisozluk.com/tide--63391)’ın deterjan kategorisini tanımlaması.  
+Ör: [Tide](https://eksisozluk.com/tide--63391)’ın deterjan kategorisini tanımlaması.  
 Tide, geleneksel sabunlar gibi yağ ve sodadan yapılan temizlik ürünü yerine sentetik olarak üretilen bir temizlik ürünü geliştirmişti. P&G, bu ürünlerle aynı kategori içerisinde rekabet etmek yerine, kendine “deterjan” adında sentetik sabunların sunulduğu yeni bir kategoride Tide’ı yarattı. Bugün deterjan, çamaşır tozunun 1 numaralı satış kategorisi ve Tide’da 1946’dan beri 1 numaralı deterjan markası.
 
 Ör: BİM’in ucuzluk marketi kategorisini tanımlaması  
@@ -51,7 +51,7 @@ Her tüketicinin her kategoriden temel bir beklentisi vardır. Bu beklentiye hij
 
 ### Kategorinin Doygunluğu;
 
-Kategoriler zamanla rakiplerin birbirinden rasyonel fayda olarak farklılaşamayacağı bir noktaya gelir. Rakipler arasındaki teknolojik üstünlüğün azalması ve bir kategori standardı halini almasıyla birlikte markalar tüketiciyi etkilemek için farklı stratejiler uygulamaya başlarlar. Bu farklılığın en temelinde ise duygusal fayda yatar. Doygunluğa ulaşmış bir kategoride sizi rakiplerinizden ayrıştıracak bir alt kategori yaratamıyorsanız, tüketicinin sizin markanızı satın almasını sağlayacak deneyime oynarsınız. [Markanın gücü](https://web.archive.org/web/20250713210113/https://intohuman.com/marka-stratejisi-nasil-olusturulur/) de böyle anlarda ortaya çıkar. Markanın sahip olduğu değer, iletişim dili, kimliği, kişiliği ve var olma nedeni onu rakiplerinden farklı yapan en önemli unsurlar haline gelir. Böylelikle güçlü markalar kendilerine sadık müşteriler yaratır.
+Kategoriler zamanla rakiplerin birbirinden rasyonel fayda olarak farklılaşamayacağı bir noktaya gelir. Rakipler arasındaki teknolojik üstünlüğün azalması ve bir kategori standardı halini almasıyla birlikte markalar tüketiciyi etkilemek için farklı stratejiler uygulamaya başlarlar. Bu farklılığın en temelinde ise duygusal fayda yatar. Doygunluğa ulaşmış bir kategoride sizi rakiplerinizden ayrıştıracak bir alt kategori yaratamıyorsanız, tüketicinin sizin markanızı satın almasını sağlayacak deneyime oynarsınız. [Markanın gücü](https://intohuman.com/marka-stratejisi-nasil-olusturulur/) de böyle anlarda ortaya çıkar. Markanın sahip olduğu değer, iletişim dili, kimliği, kişiliği ve var olma nedeni onu rakiplerinden farklı yapan en önemli unsurlar haline gelir. Böylelikle güçlü markalar kendilerine sadık müşteriler yaratır.
 
 ### Kritik Stratejiler;
 

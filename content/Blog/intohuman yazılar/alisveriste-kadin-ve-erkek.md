@@ -6,14 +6,14 @@ draft: false
 originalUrl: "https://intohuman.com/alisveriste-kadin-ve-erkek/"
 tags: []
 ---
-“Alışverişte Kadın ve Erkek” cinsiyetlerin verilen kararları nasıl etkilediğine dikkat çekiyor. Kadın ve Erkek beyninde herhangi bir fark bulunmamakla birlikte kültürel öğretiler aşağıdaki durumlara yol açmış görünüyor. Yani her zaman öğretilebilir ve değiştirilebilir. ([Neurosexism](https://web.archive.org/web/20250428214100/https://www.nature.com/articles/d41586-019-00677-x))
+“Alışverişte Kadın ve Erkek” cinsiyetlerin verilen kararları nasıl etkilediğine dikkat çekiyor. Kadın ve Erkek beyninde herhangi bir fark bulunmamakla birlikte kültürel öğretiler aşağıdaki durumlara yol açmış görünüyor. Yani her zaman öğretilebilir ve değiştirilebilir. ([Neurosexism](https://www.nature.com/articles/d41586-019-00677-x))
 
 ## A. Yaş
 
 **1. Genç Kadınlar:**   
 Progesteron ve Östrojen hormonları yüksektir. Östrojen beynin tetikte olmasını sağlar, duyuları güçlendirir, yeni bilgilerin sindirilmesine olanak tanır ve genel bir memnuniyet hali verir. Progesteron ise anaçlık duygusu verir ve beyin üzerinde yatıştırıcı bir etkisi vardır.
 
-Bir kadına yapacağınız satış daha uzun zaman alabilir çünkü bu satınalmanın hayatını ya da işini ne şekilde etkileyeceğini değerlendiriyordur. (Ör: [Alışkanlıkların Gücü – Anneler](https://web.archive.org/web/20250428214100/https://intohuman.com/aliskanliklarin-gucu/))
+Bir kadına yapacağınız satış daha uzun zaman alabilir çünkü bu satınalmanın hayatını ya da işini ne şekilde etkileyeceğini değerlendiriyordur. (Ör: [Alışkanlıkların Gücü – Anneler](https://intohuman.com/aliskanliklarin-gucu/))
 
 **2. Genç Erkekler:**  
 Testosteron saldırganlık, rekabet, özgüven ve cinsel dürtülerle bağlantılıdır. Erkekteki testosteron oranı kadındakinden 20 kat fazladır. Testosteron akışının en kuvvetli düzeyde olduğu sabah saatlerinde, erkekler daha tetikte, rekabetçi ve yaratıcıdır. Matematik ölçme testlerinde daha iyi performans gösterirler.
