@@ -8,9 +8,41 @@
           <style>
             /* Hero constrained to page width to avoid horizontal scroll */
             .hero-section {
-              width: 100%;
-              margin: 0;
-              padding: 0;
+              margin-left: calc(-50vw + 50%);
+              margin-right: calc(-50vw + 50%);
+              width: 100vw;
+              padding: 1.5rem 5vw 2.5rem;
+              position: relative;
+            }
+            .scroll-indicator {
+              position: absolute;
+              right: 1.5rem;
+              bottom: clamp(9rem, 24vh, 12rem);
+              width: 42px;
+              height: 72px;
+              border: 2px solid #dc2626;
+              border-radius: 30px;
+              display: flex;
+              align-items: flex-end;
+              justify-content: center;
+              padding-bottom: 10px;
+              animation: scrollPulse 1.8s infinite;
+              z-index: 2;
+            }
+            .scroll-indicator svg {
+              width: 18px;
+              height: 18px;
+              color: #dc2626;
+            }
+            @media (max-width: 768px) {
+              .scroll-indicator { right: 1rem; bottom: clamp(8rem, 22vh, 12rem); }
+              .hero-section { padding: 1rem 5vw 1.25rem; }
+            }
+            @keyframes scrollPulse {
+              0%, 20% { transform: translateY(0); }
+              40% { transform: translateY(6px); }
+              60% { transform: translateY(0); }
+              100% { transform: translateY(0); }
             }
 
             @keyframes rotateWords {
@@ -99,11 +131,18 @@
                 <div class="rotate-word">Geleceği.</div>
               </div>
             </div>
+            <a class="scroll-indicator" href="#home-next" aria-label="Aşağı kaydır">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 5v14M5 12l7 7 7-7"/>
+              </svg>
+            </a>
             </div>
           </section>
 
+          <div id="home-next"></div>
+
           <!-- Brand Story Section with Slideshow -->
-          <section style="position: relative; padding: 3rem 0; display: flex; align-items: center; justify-content: center; width: 100%; overflow: hidden;">
+          <section class="hero-slideshow" style="position: relative; padding: 0.5rem 0 2.5rem 0; display: flex; align-items: center; justify-content: center; width: 100%; overflow: hidden;">
             <!-- Slideshow Container -->
             <div style="position: relative; width: 100%; aspect-ratio: 16/9; background-color: #f5f5f5; border-radius: 1rem; overflow: hidden;">
               <div class="slideshow-container" style="position: relative; width: 100%; height: 100%;">
@@ -124,6 +163,11 @@
             </div>
 
             <style>
+              @media (max-width: 768px) {
+                .hero-slideshow {
+                  padding: 0 0 1rem 0 !important;
+                }
+              }
               @keyframes slideshow {
                 0%, 7.142% { opacity: 1; }
                 8%, 100% { opacity: 0; }

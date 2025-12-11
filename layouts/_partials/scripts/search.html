@@ -1,0 +1,11 @@
+{{/* Local search script to avoid remote fetch (flexsearch bundled locally) */}}
+{{- if (site.Params.search.enable | default true) -}}
+  {{- $jsSearchScript := printf "%s.search.js" .Language.Lang -}}
+  {{- $jsSearch := resources.Get "js/flexsearch.js" | resources.ExecuteAsTemplate $jsSearchScript . -}}
+  {{- if hugo.IsProduction -}}
+    {{- $jsSearch = $jsSearch | minify | fingerprint -}}
+  {{- end -}}
+  {{- $flexSearch := resources.Get "js/flexsearch.bundle.min.js" | fingerprint -}}
+  <script defer src="{{ $flexSearch.RelPermalink }}" integrity="{{ $flexSearch.Data.Integrity }}"></script>
+  <script defer src="{{ $jsSearch.RelPermalink }}" integrity="{{ $jsSearch.Data.Integrity }}"></script>
+{{- end -}}

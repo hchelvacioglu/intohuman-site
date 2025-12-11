@@ -15,12 +15,49 @@ layout: nosidebar
 		flex-direction: column;
 		justify-content: center;
 	}
+	.hero-section-contact { scroll-margin-top: var(--navbar-height, 72px); }
 	.hero-section-contact .hero-label { font-size: 0.75rem; font-weight: 600; letter-spacing: 0.15em; text-transform: uppercase; color: #dc2626; margin-bottom: 0.75rem; }
 	.hero-section-contact .hero-title { font-size: clamp(2rem, 5.5vw, 10rem); font-weight: 700; line-height: 1.1; color: #111; margin: 0; }
 	.hero-section-contact .hero-word { font-size: 4.5rem; font-weight: 700; color: #5e17eb; line-height: 1; margin-top: 0.5rem; }
 	.content > h1:first-child { display: none; }
+	.hero-section-contact { position: relative; }
+	.scroll-indicator {
+		position: absolute;
+		right: 1.5rem;
+		bottom: clamp(3rem, 15vh, 8rem);
+		width: 42px;
+		height: 72px;
+		border: 2px solid #dc2626;
+		border-radius: 30px;
+		display: flex;
+		align-items: flex-end;
+		justify-content: center;
+		padding-bottom: 10px;
+		animation: scrollPulse 1.8s infinite;
+	}
+	.scroll-indicator svg {
+		width: 18px;
+		height: 18px;
+		color: #dc2626;
+	}
 	@media (max-width: 768px) {
-		.hero-section-contact { padding-top: 4rem; min-height: 90vh; justify-content: flex-start; }
+		.hero-section-contact {
+			padding: calc(var(--navbar-height, 72px) + 2rem) 1.5rem 4rem 1.5rem;
+			min-height: calc(100vh - var(--navbar-height, 72px));
+			justify-content: center;
+		}
+		.scroll-indicator {
+			right: 1rem;
+			bottom: clamp(2.5rem, 12vh, 6rem);
+		}
+	}
+	@keyframes scrollPulse {
+		0%, 20% { transform: translateY(0); }
+		40% { transform: translateY(6px); }
+		60% { transform: translateY(0); }
+		100% { transform: translateY(0); }
+	}
+	@media (max-width: 768px) {
 		.hero-section-contact .hero-title { font-size: 3rem; }
 		.hero-section-contact .hero-word { font-size: 3rem; }
 	}
@@ -29,7 +66,14 @@ layout: nosidebar
 <section class="hero-section-contact">
 	<div class="hero-label">İLETİŞİM</div>
 	<h1 class="hero-title" style="margin-bottom: 1.5rem;"><span style="color: #dc2626;">Birlikte</span> markanızı zihinlere<br>taşıyalım.</h1>
+	<a class="scroll-indicator" href="#contact-content" aria-label="Aşağı kaydır">
+		<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+			<path d="M12 5v14M5 12l7 7 7-7"/>
+		</svg>
+	</a>
 </section>
+
+<div id="contact-content"></div>
 
 <style>
 	.contact-form-section {
@@ -115,6 +159,7 @@ layout: nosidebar
 	}
 </style>
 
+<h2 style="font-size: 1.5rem; font-weight: 700; margin: 0 0 1.5rem 0;">Mesajınız</h2>
 <div class="contact-form-section">
 	<form action="https://formspree.io/f/xnnebgaa" method="POST">
 		<input type="text" name="name" placeholder="Ad Soyad" required>
