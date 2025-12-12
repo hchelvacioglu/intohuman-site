@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IntoHuman – Mizar</title>
-    <link>http://localhost:1313/tags/mizar/</link>
+    <link>https://intohuman.com/tags/mizar/</link>
     <description>Recent content in Mizar on IntoHuman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tr-TR</language>
     <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/tags/mizar/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://intohuman.com/tags/mizar/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Bu bir test yazısı</title>
-      <link>http://localhost:1313/blog/intohuman-yaz%C4%B1lar/testblogyazi/</link>
+      <link>https://intohuman.com/bu-bir-test-yaz%C4%B1s%C4%B1/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/intohuman-yaz%C4%B1lar/testblogyazi/</guid>
+      <guid>https://intohuman.com/bu-bir-test-yaz%C4%B1s%C4%B1/</guid>
       <description>
         
         

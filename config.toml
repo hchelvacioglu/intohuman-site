@@ -76,7 +76,8 @@ enableRobotsTXT = true
   
   [params.footer]
     width = "full"
-    displayCopyright = true
+    displayPoweredBy = false
+    displayCopyright = false
     enable = true
 
 # İçerik ayarları
@@ -86,6 +87,11 @@ enableRobotsTXT = true
     baseName = 'llms'
     mediaType = 'text/plain'
     isPlainText = true
+
+# Permalinkler: eski sitedeki gibi yazılar kökten çıksın
+[permalinks]
+  blog = "/:slug/"
+  Blog = "/:slug/"
 
 # Module ayarları - Hugo'nun assets'leri bulması için
 [module]

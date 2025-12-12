@@ -76,7 +76,8 @@ enableRobotsTXT = true
   
   [params.footer]
     width = "full"
-    displayCopyright = true
+    displayPoweredBy = false
+    displayCopyright = false
     enable = true
 
 # İçerik ayarları
