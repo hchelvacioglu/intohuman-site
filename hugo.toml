@@ -2,6 +2,7 @@ baseURL = 'https://intohuman.com/'
 title = 'IntoHuman'
 languageCode = 'tr-TR'
 theme = 'hextra'
+enableRobotsTXT = true
 
 # Build ayarları
 [build]
@@ -52,7 +53,17 @@ theme = 'hextra'
 
 # Tema parametreleri
 [params]
-  description = "Benim harika sitem"
+  description = "IntoHuman, markaların strateji, pazarlama ve satış psikolojisi alanlarında büyümesine yardımcı olan içerikler ve çözümler sunar."
+  keywords = ["pazarlama", "marka stratejisi", "markalaşma", "satış psikolojisi", "Intohuman"]
+  ogImage = "/images/logo.svg"
+
+  [params.seo]
+    defaultImage = "/images/logo.svg"
+    twitterHandle = ""
+    organization = "IntoHuman"
+
+  [params.author]
+    name = "IntoHuman"
   
   [params.navbar]
     displayTitle = true
@@ -121,3 +132,13 @@ theme = 'hextra'
 toc = false
   [cascade.sidebar]
   exclude = true
+
+# Permalinkler: eski sitedeki gibi yazılar kökten çıksın
+[permalinks]
+  blog = "/:slug/"
+  Blog = "/:slug/"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
