@@ -1,0 +1,22 @@
+{{- $image := "" -}}
+{{- if .Params.ogImage -}}
+  {{- $image = .Params.ogImage -}}
+{{- else if .Params.images -}}
+  {{- $images := .Params.images -}}
+  {{- $type := printf "%T" $images -}}
+  {{- if hasPrefix $type "[]" -}}
+    {{- if gt (len $images) 0 -}}
+      {{- $image = index $images 0 -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $image = $images -}}
+  {{- end -}}
+{{- else if .Site.Params.ogImage -}}
+  {{- $image = .Site.Params.ogImage -}}
+{{- else if .Site.Params.seo.defaultImage -}}
+  {{- $image = .Site.Params.seo.defaultImage -}}
+{{- end -}}
+{{- if $image -}}
+  {{- $image = $image | absURL -}}
+{{- end -}}
+{{- $image -}}

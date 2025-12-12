@@ -1,0 +1,19 @@
+{{- $site := .Site -}}
+{{- $siteDesc := $site.Params.description | default $site.Title -}}
+{{- $pageDesc := partial "utils/page-description.html" . | default $siteDesc -}}
+{{- $image := partial "seo/image.html" . -}}
+{{- $title := cond .IsHome (printf "%s | %s" $site.Title $siteDesc) (.Title | default $site.Title) -}}
+{{- $handle := $site.Params.seo.twitterHandle -}}
+{{- $cardType := "summary" -}}
+{{- if $image -}}
+  {{- $cardType = "summary_large_image" -}}
+{{- end -}}
+<meta name="twitter:card" content="{{ $cardType }}"/>
+<meta name="twitter:title" content="{{ $title | htmlEscape }}"/>
+<meta name="twitter:description" content="{{ $pageDesc | htmlEscape }}"/>
+{{- if $image }}
+<meta name="twitter:image" content="{{ $image }}"/>
+{{- end }}
+{{- with $handle }}
+<meta name="twitter:site" content="{{ . }}"/>
+{{- end }}

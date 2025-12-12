@@ -1,0 +1,49 @@
+{{- $site := .Site -}}
+{{- $siteDesc := $site.Params.description | default $site.Title -}}
+{{- $pageDesc := partial "utils/page-description.html" . | default $siteDesc -}}
+{{- $image := partial "seo/image.html" . -}}
+{{- $isArticle := and (not .IsHome) (or (eq .Section "blog") .Params.isArticle .IsPage) -}}
+{{- $author := or .Params.author $site.Params.author.name $site.Title -}}
+{{- $orgName := $site.Params.seo.organization | default $site.Title -}}
+{{- $logo := or $site.Params.ogImage $site.Params.seo.defaultImage -}}
+{{- if $logo }}{{ $logo = $logo | absURL }}{{ end -}}
+{{- if $isArticle -}}
+  {{- $article := dict
+      "@context" "https://schema.org"
+      "@type" "Article"
+      "headline" (.Title | default $site.Title)
+      "description" $pageDesc
+      "mainEntityOfPage" .Permalink
+    -}}
+  {{- if $image -}}
+    {{- $article = merge $article (dict "image" (slice $image)) -}}
+  {{- end -}}
+  {{- $article = merge $article (dict "author" (dict "@type" "Person" "name" $author)) -}}
+  {{- $article = merge $article (dict "publisher" (dict "@type" "Organization" "name" $orgName)) -}}
+  {{- if $logo -}}
+    {{- $article = merge $article (dict "publisher" (dict "@type" "Organization" "name" $orgName "logo" (dict "@type" "ImageObject" "url" $logo))) -}}
+  {{- end -}}
+  {{- with .PublishDate -}}
+    {{- $article = merge $article (dict "datePublished" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+  {{- end -}}
+  {{- with .Lastmod -}}
+    {{- $article = merge $article (dict "dateModified" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+  {{- end -}}
+  <script type="application/ld+json">{{ $article | jsonify }}</script>
+{{- else -}}
+  {{- $webPage := dict
+      "@context" "https://schema.org"
+      "@type" "WebPage"
+      "name" (.Title | default $site.Title)
+      "description" $pageDesc
+      "url" .Permalink
+      "publisher" (dict "@type" "Organization" "name" $orgName)
+    -}}
+  {{- if $logo -}}
+    {{- $webPage = merge $webPage (dict "publisher" (dict "@type" "Organization" "name" $orgName "logo" (dict "@type" "ImageObject" "url" $logo))) -}}
+  {{- end -}}
+  {{- if $image -}}
+    {{- $webPage = merge $webPage (dict "image" (slice $image)) -}}
+  {{- end -}}
+  <script type="application/ld+json">{{ $webPage | jsonify }}</script>
+{{- end -}}
