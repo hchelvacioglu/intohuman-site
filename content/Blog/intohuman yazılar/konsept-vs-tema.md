@@ -5,6 +5,7 @@ pubDate: "2022-04-17T11:31:04+00:00"
 draft: false
 originalUrl: "https://intohuman.com/konsept-vs-tema/"
 tags: []
+slug: "konsept-vs-tema"
 ---
 Konsept benzer motivasyona sahip ürünlerin ve hizmetlerin, markanın kendine özgü bir tanımlama yapması sonucu olur.
 

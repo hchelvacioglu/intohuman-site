@@ -5,6 +5,7 @@ pubDate: "2022-04-16T10:01:01+00:00"
 draft: false
 originalUrl: "https://intohuman.com/marka-ses-tonu-2/"
 tags: []
+slug: "marka-ses-tonu-2"
 ---
 Ses tonu, müşteri ile öncelikli iletişim alanlarından birisidir. Güçlü bir markanın güçlü bir ses tonu ile kendini anlatması müşterisine ilham vermesini ya da sorununu çözme yetkinliğine sahip olduğunu anlatabilir.
 

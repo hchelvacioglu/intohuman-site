@@ -4,6 +4,10 @@ original_url: 'https://intohuman.com/category/marka-teorileri/'
 wayback_url: >-
   https://intohuman.com/category/marka-teorileri/
 pubDate: '2020-01-01'
+build:
+  render: never
+  list: never
+  publishResources: false
 ---
 
 

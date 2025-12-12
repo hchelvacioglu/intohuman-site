@@ -8,6 +8,10 @@ pubDate: '2020-01-01'
 draft: false
 originalUrl: 'https://intohuman.com/makaleler/'
 tags: []
+build:
+  render: never
+  list: never
+  publishResources: false
 ---
 ## [Bluemint Stratejisi](https://intohuman.com/bluemint-stratejisi/)
 

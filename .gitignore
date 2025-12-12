@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+public_preview/
+.hugo_cache/
+.hugo_build.lock
+hugo.log
+hugo.pid

@@ -5,6 +5,7 @@ pubDate: "2022-04-19T14:26:24+00:00"
 draft: false
 originalUrl: "https://intohuman.com/marka-slogani-2/"
 tags: []
+slug: "marka-slogani-2"
 ---
 Müşterinin markayla ilgili logo ile birlikte ilk bilgi/fikir sahibi olduğu noktadır. Bu nedenle bu ilk temasın müşteriyi anlık karar alma noktasında etkilemesi ya da markayı derinlemesine incelemesi için cesaretlendirmesi gerekir.
 

@@ -57,7 +57,6 @@
       "[-webkit-tap-highlight-color:transparent]",
       "[-webkit-touch-callout:none]",
       "[word-break:break-word]",
-      "attachment-large",
       "blog-card",
       "blog-card-date",
       "blog-card-link",
@@ -74,7 +73,6 @@
       "contact-form-section",
       "contact-info",
       "content",
-      "entry-title",
       "footer-bottom",
       "footer-contacts",
       "footer-custom",
@@ -358,17 +356,14 @@
       "hx:z-20",
       "hx:z-[-1]",
       "mobile-menu",
-      "post",
       "rotate-track",
       "rotate-word",
       "rotate-wrapper",
       "scroll-indicator",
-      "size-large",
       "slide",
       "slideshow-container",
       "solutions-grid",
-      "subheading-anchor",
-      "wp-post-image"
+      "subheading-anchor"
     ],
     "ids": null
   }
