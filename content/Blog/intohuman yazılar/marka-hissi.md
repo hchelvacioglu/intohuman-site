@@ -1,9 +1,12 @@
 ---
-title: "Marka Hissi."
+title: "Marka Hissi"
 description: "Markalar buz dağı gibidir. Gördüklerimiz aslında görmediklerimiz üzerine inşa edilir ve marka hissi yaratılır.* Gördü﻿klerimiz; Logolar – Fontlar – Renkler – İkonlar – Mesajlar Görmediklerimiz; Değerl..."
 pubDate: "2024-01-11T14:27:16+00:00"
 draft: false
 originalUrl: "https://intohuman.com/marka-hissi/"
+slug: "marka-hissi"
+aliases:
+  - "/marka-hissi./"
 tags: []
 ---
 Markalar ***buz dağı*** gibidir. Gördüklerimiz aslında görmediklerimiz üzerine inşa edilir ve marka hissi yaratılır.\*

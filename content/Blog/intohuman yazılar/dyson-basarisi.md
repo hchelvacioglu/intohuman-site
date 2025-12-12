@@ -1,9 +1,12 @@
 ---
-title: "Dyson Başarısı."
+title: "Dyson Başarısı"
 description: "Dyson başarısı nasıl gelişti? Dyson 1993 yılında kurulduğunda, süpürge pazarında 1908’de kurulan Hoover’ın hakimiyeti vardı. * Dyson’ın satışı artırmak için bir yol bulması gerekiyordu. Bu sebeple Dys..."
 pubDate: "2024-01-17T09:55:18+00:00"
 draft: false
 originalUrl: "https://intohuman.com/dyson-basarisi/"
+slug: "dyson-basarisi"
+aliases:
+  - "/dyson-basarisi./"
 tags: []
 ---
 Dyson başarısı nasıl gelişti?

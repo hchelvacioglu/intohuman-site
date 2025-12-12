@@ -1,9 +1,12 @@
 ---
-title: "Bir İflas Hikayesi."
+title: "Bir İflas Hikayesi"
 description: "Blockbuster 2004 Şube sayısı: 9,000 Ciro : $5,9 Milyar Blockbuster 2010 iflas Netflix, Disney+, Amazon Prime yokken Blockbuster vardı. 90’lar ve 2000’lerin en başarılı video kiralama şirketiydi. Nered..."
 pubDate: "2023-12-07T13:38:30+00:00"
 draft: false
 originalUrl: "https://intohuman.com/blockbuster/"
+slug: "blockbuster"
+aliases:
+  - "/blockbuster./"
 tags: []
 ---
 **Blockbuster**

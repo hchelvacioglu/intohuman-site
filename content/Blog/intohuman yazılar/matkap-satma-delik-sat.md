@@ -1,9 +1,12 @@
 ---
-title: "Matkap Satma Delik Sat."
+title: "Matkap Satma Delik Sat"
 description: "Pazarlamanın ana amacı tüketiciyi ihtiyacını karşılayacağına inandırmak, ortada bir ihtiyaç yoksa yaratmaktır. Markalar müşterilerinde ihtiyaç yaratabildikleri sürece yaşarlar. Varolan ya da yaratılan..."
 pubDate: "2022-04-10T12:12:10+00:00"
 draft: false
 originalUrl: "https://intohuman.com/matkap-satma-delik-sat/"
+slug: "matkap-satma-delik-sat"
+aliases:
+  - "/matkap-satma-delik-sat./"
 tags: []
 ---
 Pazarlamanın ana amacı tüketiciyi ihtiyacını karşılayacağına inandırmak, ortada bir ihtiyaç yoksa yaratmaktır.

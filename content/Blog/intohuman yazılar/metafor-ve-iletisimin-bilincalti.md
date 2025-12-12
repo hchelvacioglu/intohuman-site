@@ -1,9 +1,12 @@
 ---
-title: "Metafor: İletişimin Bilinçaltı."
+title: "Metafor: İletişimin Bilinçaltı"
 description: "Cümleler içerisinde yer alan metaforlar, duygu ve değer dünyasını çok daha açık ve editlenmemiş haliyle bilinçaltından bizlere ulaştırır. Bu nedenle araştırmacılar tüketicilerin kullandıkları metaforl..."
 pubDate: "2022-04-12T14:58:55+00:00"
 draft: false
 originalUrl: "https://intohuman.com/metafor-ve-iletisimin-bilincalti/"
+slug: "metafor-ve-iletisimin-bilincalti"
+aliases:
+  - "/metafor-ve-iletisimin-bilincalti./"
 tags: []
 ---
 Cümleler içerisinde yer alan metaforlar, duygu ve değer dünyasını çok daha açık ve editlenmemiş haliyle bilinçaltından bizlere ulaştırır.

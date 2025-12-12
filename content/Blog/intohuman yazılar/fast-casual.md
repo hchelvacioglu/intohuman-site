@@ -1,9 +1,12 @@
 ---
-title: "Fast Food vs Fast Casual."
+title: "Fast Food vs Fast Casual"
 description: "İşletmenizin konseptini oluşturken, müşterilerin ihtiyaçlarını göz önünde bulundurmak ve rekabette bu ihtiyaçlar üzerinden farklılaşmak başarı getirir, fast casual restoranlar da bunun tipik bir örneğ..."
 pubDate: "2023-12-29T09:47:06+00:00"
 draft: false
 originalUrl: "https://intohuman.com/fast-casual/"
+slug: "fast-casual"
+aliases:
+  - "/fast-casual./"
 tags: []
 ---
 İşletmenizin konseptini oluşturken, müşterilerin ihtiyaçlarını göz önünde bulundurmak ve rekabette bu ihtiyaçlar üzerinden [farklılaşmak](https://intohuman.com/usp/) başarı getirir, fast casual restoranlar da bunun tipik bir örneği.

@@ -1,9 +1,12 @@
 ---
-title: "Marka Kategorisi."
+title: "Marka Kategorisi"
 description: "Marka kategorisi, müşterinin zihni ne yerleşmek için kullanılır. Çünkü insan zihni kategoriler üzerinden çalışır. Japonlar | Bankacılar | Babalar Hepsi bizim için bir anlam ve değer kümesine sahiptir...."
 pubDate: "2024-01-13T10:11:12+00:00"
 draft: false
 originalUrl: "https://intohuman.com/marka-kategorisi/"
+slug: "marka-kategorisi"
+aliases:
+  - "/marka-kategorisi./"
 tags: []
 ---
 Marka kategorisi, ***müşterinin zihni***ne yerleşmek için kullanılır.

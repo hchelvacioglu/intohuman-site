@@ -1,9 +1,12 @@
 ---
-title: "Marka Olmanın 10 Kuralı."
+title: "Marka Olmanın 10 Kuralı"
 description: "Markalaşma genellikle pazarlama ile oldukça karıştırılan fakat kendine ait bir disipline sahip olan stratejik bir yöntem. Marka stratejisi kurgulanırken, pazara, rakiplere ve şirket kültürüne göre pek..."
 pubDate: "2022-04-08T14:33:39+00:00"
 draft: false
 originalUrl: "https://intohuman.com/marka-olmanin-10-kurali/"
+slug: "marka-olmanin-10-kurali"
+aliases:
+  - "/marka-olmanin-10-kurali./"
 tags: []
 ---
 Markalaşma genellikle pazarlama ile oldukça karıştırılan fakat kendine ait bir disipline sahip olan stratejik bir yöntem.

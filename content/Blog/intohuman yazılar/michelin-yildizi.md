@@ -1,9 +1,12 @@
 ---
-title: "Michelin Yıldızı ve Pazarlama Başarısı."
+title: "Michelin Yıldızı ve Pazarlama Başarısı"
 description: "Michelin Yıldızı: Dünyadaki en iyi restoranları puanlamak için veriliyor. Türkiye’deki bazı yıldızlı şefler; – Musa Dağdeviren (Çiya) – Mehmet Gürs (Mikla) – Osman Sezener (Od) Peki Michelin gibi bir..."
 pubDate: "2024-01-19T08:35:31+00:00"
 draft: false
 originalUrl: "https://intohuman.com/michelin-yildizi/"
+slug: "michelin-yildizi"
+aliases:
+  - "/michelin-yildizi./"
 tags: []
 ---
 **Michelin Yıldızı:**

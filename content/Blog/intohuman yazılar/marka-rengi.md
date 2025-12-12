@@ -1,9 +1,12 @@
 ---
-title: "Marka Rengi İçin Karar Ver."
+title: "Marka Rengi İçin Karar Ver"
 description: "Marka rengi kritik bir karardır. Renkler markalar tarafından sıklıkla kullanılan ilk izlenim ve akılda kalma aracıdır. Renkler tüketici araştırmalarında yön gösterici bir araçtır. Aynı zamanda stratej..."
 pubDate: "2022-04-23T12:26:38+00:00"
 draft: false
 originalUrl: "https://intohuman.com/marka-rengi/"
+slug: "marka-rengi"
+aliases:
+  - "/marka-rengi./"
 tags: []
 ---
 Marka rengi kritik bir karardır. Renkler markalar tarafından sıklıkla kullanılan ilk izlenim ve akılda kalma aracıdır.
