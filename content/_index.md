@@ -4,9 +4,7 @@ cascade:
   toc: false
 ---
 
-<div style="height: 4rem;"></div>
-
-<h1 style="font-size: 3.4rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin: 0 0 1.5rem 0; background: linear-gradient(135deg, #7c3aed 0%, #4c1d95 45%, #1e0a3c 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: #1e0a3c; text-align: center;">Marka zihinlerde üretilir.</h1>
+<h1 style="font-size: 3.4rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; margin: 0 0 2rem 0; color: #000; text-align: center;">Marka zihinlerde üretilir.</h1>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; align-items: center; margin: 2rem 0 4rem 0;" class="hero-grid">
   <div>
